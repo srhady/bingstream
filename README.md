@@ -40,21 +40,21 @@
 
 # 🕹️ How To Use
 **Direct Use**
-* 👉 **[Auto Updated M3U Playlist File](https://raw.githubusercontent.com/srhady/Hady/main/playlist.m3u)**
+* 👉 **[Auto Updated M3U Playlist File](https://raw.githubusercontent.com/srhady/bingstream/main/playlist.m3u)**
 * Add this raw link directly to your player.
 **For Developer**
-* 👉 **[Auto Updated JSON File](https://raw.githubusercontent.com/srhady/Hady/main/playlist.m3u)**
+* 👉 **[Auto Updated JSON File](https://raw.githubusercontent.com/srhady/bingstream/main/playlist.json)**
 
 
 # 🎬 How To Play
 **📱 Android / iOS**
 * Use Network Stream Player.
-* Add This PlayList URL: `https://raw.githubusercontent.com/srhady/Hady/main/playlist.m3u`
+* Add This PlayList URL: `https://raw.githubusercontent.com/srhady/bingstream/main/playlist.m3u`
 * Enjoy 😊
 
 **🖥️ Android TV / Smart TV**
 * Use Televizo.
-* Add This PlayList URL: `https://raw.githubusercontent.com/srhady/Hady/main/playlist.m3u`
+* Add This PlayList URL: `https://raw.githubusercontent.com/srhady/bingstream/main/playlist.m3u`
 * Enjoy 😊
 
 <p align="center">
