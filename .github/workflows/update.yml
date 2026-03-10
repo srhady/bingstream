@@ -1,0 +1,32 @@
+name: Auto Update Playlist
+
+on:
+  workflow_dispatch:
+  
+jobs:
+  scrape-live-matches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 চেকআউট রিপোজিটরি
+        uses: actions/checkout@v4
+
+      - name: 🟢 Node.js সেটআপ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 ডিপেন্ডেন্সি ইনস্টল
+        run: npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth cheerio
+
+      - name: 🚀 স্ক্র্যাপার রান করা
+        run: node scraper.js
+
+      - name: 💾 প্লেলিস্ট গিটহাবে পুশ করা
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u || true
+          git add playlist.json || true
+          git commit -m "Auto Update Playlist" || exit 0
+          git push

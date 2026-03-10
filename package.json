@@ -1,0 +1,13 @@
+{
+  "name": "bingstream-auto-playlist",
+  "version": "1.0.0",
+  "description": "Fast Puppeteer Scraper for Live Matches",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^22.0.0"
+  }
+}
