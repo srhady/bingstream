@@ -8,8 +8,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 চেকআউট রিপোজিটরি
+      - name: 📥 চেকআউট পাবলিক রিপোজিটরি
         uses: actions/checkout@v4
+
+      - name: 🔐 চেকআউট প্রাইভেট রিপোজিটরি (Sports)
+        uses: actions/checkout@v4
+        with:
+          repository: srhady/Sports
+          token: ${{ secrets.MY_SECRET_TOKEN }}
+          path: private_script_folder
 
       - name: 🟢 Node.js সেটআপ
         uses: actions/setup-node@v4
@@ -20,7 +27,7 @@ jobs:
         run: npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth cheerio
 
       - name: 🚀 স্ক্র্যাপার রান করা
-        run: node scraper.js
+        run: node private_script_folder/scraper.js
 
       - name: 💾 প্লেলিস্ট গিটহাবে পুশ করা
         run: |
