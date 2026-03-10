@@ -59,7 +59,7 @@
 
 <p align="center">
 <a href="https://raw.githubusercontent.com/srhady/Hady/main/playlist.m3u">
-<img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162022.jpg" width="45%"> <img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162712.jpg" width="45%">
+<img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162538.jpg" width="45%"> <img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162712.jpg" width="45%">
 <br><br>
 <img src="https://github.com/srhady/Hady/raw/main/.photo/Screenshot_20260310_162014.jpg" width="92%">
 <br><br>
