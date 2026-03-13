@@ -1,0 +1,56 @@
+name: Free Live Sports Bot
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # প্রতি ১৫ মিনিট পর রান হবে
+  workflow_dispatch:
+
+permissions:
+  contents: write # পাবলিক রিপোতে ফাইল পুশ করার পারমিশন
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+    # ১. প্রথমে পাবলিক রিপো চেকআউট করবে (যেখানে ছবি ও JSON সেভ হবে)
+    - name: Checkout Public Repo
+      uses: actions/checkout@v3
+
+    # ২. এরপর আপনার প্রাইভেট রিপো থেকে কোড ক্লোন করে 'private_code' নামের ফোল্ডারে রাখবে
+    - name: Checkout Private Repo
+      uses: actions/checkout@v3
+      with:
+        repository: your-username/your-private-repo-name  # ⚠️ এখানে আপনার প্রাইভেট রিপোর নাম দিন
+        token: ${{ secrets.PAT_TOKEN }}
+        path: private_code
+
+    # ৩. Node.js সেটআপ
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    # ৪. প্যাকেজ ইনস্টল
+    - name: Install Packages
+      run: npm install puppeteer cheerio axios form-data
+
+    # ৫. প্রাইভেট ফোল্ডার থেকে স্ক্রিপ্ট রান করানো
+    - name: Run Scraper Script
+      env:
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
+      run: node private_code/index.js
+
+    # ৬. নতুন JSON এবং পোস্টার পাবলিক রিপোতে পুশ করা
+    - name: Commit and Push to Public Repo
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        
+        # নতুন ডেটা এবং ছবি গিটহাবে যোগ করা (ফাইল না থাকলে এরর এড়াতে || true দেওয়া হয়েছে)
+        git add previous_matches.json social_all_matches_poster.png || true
+        git commit -m "✅ Auto update: New match poster & state" || echo "No changes to commit"
+        
+        # মেইন ব্রাঞ্চে পুশ করা (আপনার ব্রাঞ্চের নাম master হলে main এর জায়গায় master দেবেন)
+        git push origin main
