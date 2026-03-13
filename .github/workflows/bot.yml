@@ -21,7 +21,7 @@ jobs:
     - name: Checkout Private Repo
       uses: actions/checkout@v3
       with:
-        repository: your-username/your-private-repo-name  # ⚠️ এখানে আপনার প্রাইভেট রিপোর নাম দিন
+        repository: srhady/Sports  
         token: ${{ secrets.PAT_TOKEN }}
         path: private_code
 
