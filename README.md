@@ -38,6 +38,22 @@
 * 📺 Premium VIP links are automatically fetched and formatted.
 * 🚀 Plug & Play ready for any standard IPTV player.
 
+# Free Sports Live
+<div align="center">
+  <a href="https://srhady.github.io/Hady/">
+    <img src="https://github.com/srhady/Hady/raw/refs/heads/main/.photo/IMG_20260316_011540.jpg" alt="Hady's Website" width="100%">
+  </a>
+  <br>
+  <br>
+  <b>🌐 <a href="https://srhady.github.io/Hady/">Visit My Website</a></b>
+</div>
+
+<br>
+
+
+
+
+
 # 🕹️ How To Use
 **Direct Use**
 * 👉 **[Auto Updated M3U Playlist File](https://raw.githubusercontent.com/srhady/bingstream/main/playlist.m3u)**
