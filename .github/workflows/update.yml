@@ -2,7 +2,6 @@ name: Auto Update Playlist
 
 on:
   workflow_dispatch:
-  # আপনার ক্রন জব শিডিউল নিচে থাকলে সেটি দিয়ে দেবেন (যেমন: schedule: - cron: '*/15 * * * *')
 
 jobs:
   scrape-live-matches:
@@ -36,20 +35,23 @@ jobs:
           CUR_TIME=$(TZ='Asia/Dhaka' date +'%I:%M %p, %d %b %Y')
           
           # README-তে থাকা নির্দিষ্ট ব্যাজ লিংকের প্যাটার্ন পরিবর্তন করা
-          # এটি README ফাইলে 'last--commit--time-XXXX-blue' অংশটি খুঁজে সময় বসাবে
           sed -i "s|last--commit--time-.*-blue|last--commit--time-${CUR_TIME// /%20}-blue|g" README.md
 
-        - name: 💾 প্লেলিস্ট ও রিডমি গিটহাবে পুশ করা
+      - name: 💾 প্লেলিস্ট ও রিডমি গিটহাবে পুশ করা
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # শুধু প্রয়োজনীয় ফাইলগুলো অ্যাড করা
           git add playlist.m3u || true
           git add playlist.json || true
           git add README.md || true
+          
+          # কমিট করা, যদি কোনো পরিবর্তন না থাকে তাহলে এরর না দেখিয়ে পরের ধাপে যাওয়া
           git commit -m "Auto Update Playlist & BD Time: $(TZ='Asia/Dhaka' date +'%I:%M %p')" || echo "No changes to commit"
           
-          # Autostash ব্যবহার করে আনস্টেজড ফাইলগুলো সাময়িকভাবে সরিয়ে পুল করা
+          # Autostash ব্যবহার করে আনস্টেজড ফাইলগুলো সাময়িকভাবে সরিয়ে রিমোট থেকে নতুন ডেটা পুল করা
           git pull --rebase --autostash origin main
           
-          # এরপর গিটহাবে পুশ করা
+          # গিটহাবে পুশ করা
           git push
