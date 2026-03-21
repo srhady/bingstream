@@ -2,7 +2,7 @@ name: Auto Update Playlist
 
 on:
   workflow_dispatch:
-  # আপনি চাইলে এখানে আপনার বর্তমান টাইমার (cron) যুক্ত করে রাখতে পারেন
+  # আপনার ক্রন জব শিডিউল নিচে থাকলে সেটি দিয়ে দেবেন (যেমন: schedule: - cron: '*/15 * * * *')
 
 jobs:
   scrape-live-matches:
@@ -47,4 +47,9 @@ jobs:
           git add playlist.json || true
           git add README.md || true
           git commit -m "Auto Update Playlist & BD Time: $(TZ='Asia/Dhaka' date +'%I:%M %p')" || exit 0
+          
+          # পুশ করার আগে রিমোট থেকে লেটেস্ট চেঞ্জগুলো পুল করে নেওয়া
+          git pull --rebase origin main
+          
+          # এরপর গিটহাবে পুশ করা
           git push
