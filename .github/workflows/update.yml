@@ -52,15 +52,11 @@ jobs:
           CUR_TIME=$(TZ='Asia/Dhaka' date +'%I:%M %p, %d %b %Y')
           sed -i "s|last--commit--time-.*-blue|last--commit--time-${CUR_TIME// /%20}-blue|g" README.md
 
-      - name: 💾 প্লেলিস্ট ও রিডমি পাবলিক গিটহাবে পুশ করা
+       - name: 💾 স্টোরেজ রিপোতে নতুন/আপডেট .m3u8 ফাইল পুশ করা
         run: |
+          cd storage_dir
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          git add playlist.m3u || true
-          git add playlist.json || true
-          git add README.md || true
-          
-          git commit -m "Auto Update Playlist & BD Time: $(TZ='Asia/Dhaka' date +'%I:%M %p')" || echo "No changes to commit"
-          git pull --rebase --autostash origin main
-          git push
+          git add -A  # 🎯 এখানে -A দেওয়া হয়েছে যেন ডিলিট হওয়া ফাইলগুলোও গিটহাবে আপডেট হয়
+          git commit -m "Auto updated streams and cleaned dead files" || echo "No changes to commit"
+          git push origin main
