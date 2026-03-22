@@ -13,12 +13,19 @@ jobs:
       - name: 📥 চেকআউট পাবলিক রিপোজিটরি
         uses: actions/checkout@v4
 
-      - name: 🔐 চেকআউট প্রাইভেট রিপোজিটরি (Sports)
+      - name: 🔐 চেকআউট প্রাইভেট স্ক্র্যাপার রিপোজিটরি (Sports)
         uses: actions/checkout@v4
         with:
           repository: srhady/Sports
-          token: ${{ secrets.PAT_TOKEN }} # 🎯 সংশোধিত লাইন
+          token: ${{ secrets.PAT_TOKEN }}
           path: private_script_folder
+
+      - name: 🗄️ চেকআউট প্রাইভেট স্টোরেজ রিপোজিটরি (bingstream-srt)
+        uses: actions/checkout@v4
+        with:
+          repository: srhady/bingstream-srt
+          token: ${{ secrets.PAT_TOKEN }}
+          path: storage_dir
 
       - name: 🟢 Node.js সেটআপ
         uses: actions/setup-node@v4
@@ -31,18 +38,11 @@ jobs:
       - name: 🚀 স্ক্র্যাপার রান করা
         run: node private_script_folder/scraper.js
 
-      - name: 🗄️ প্রাইভেট স্টোরেজ রিপোতে .m3u8 ফাইল পাঠানো (bingstream-srt)
-        env:
-          REPO_TOKEN: ${{ secrets.PAT_TOKEN }}
+      - name: 💾 স্টোরেজ রিপোতে নতুন/আপডেট .m3u8 ফাইল পুশ করা
         run: |
+          cd storage_dir
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          git clone https://x-access-token:${REPO_TOKEN}@github.com/srhady/bingstream-srt.git storage_dir
-          
-          mv match_*.m3u8 storage_dir/ 2>/dev/null || echo "কোনো নতুন m3u8 ফাইল পাওয়া যায়নি।"
-          
-          cd storage_dir
           git add .
           git commit -m "Auto added secure vercel streams" || echo "No changes to commit"
           git push origin main
@@ -52,7 +52,7 @@ jobs:
           CUR_TIME=$(TZ='Asia/Dhaka' date +'%I:%M %p, %d %b %Y')
           sed -i "s|last--commit--time-.*-blue|last--commit--time-${CUR_TIME// /%20}-blue|g" README.md
 
-      - name: 💾 প্লেলিস্ট ও রিডমি গিটহাবে পুশ করা
+      - name: 💾 প্লেলিস্ট ও রিডমি পাবলিক গিটহাবে পুশ করা
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
