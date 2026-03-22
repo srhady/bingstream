@@ -2,9 +2,7 @@ name: Auto Update Playlist
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '*/15 * * * *'
-
+  
 jobs:
   scrape-live-matches:
     runs-on: ubuntu-latest
@@ -43,20 +41,33 @@ jobs:
           cd storage_dir
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Auto added secure vercel streams" || echo "No changes to commit"
+          git add -A  # 🎯 এখানে -A দেওয়া হয়েছে যেন ডিলিট হওয়া ফাইলগুলোও গিটহাবে আপডেট হয়
+          git commit -m "Auto updated streams and cleaned dead files" || echo "No changes to commit"
           git push origin main
 
       - name: 🕒 README-তে বিডি সময় আপডেট করা
         run: |
+          # বর্তমান বিডি সময় বের করা (GMT+6)
           CUR_TIME=$(TZ='Asia/Dhaka' date +'%I:%M %p, %d %b %Y')
+          
+          # README-তে থাকা নির্দিষ্ট ব্যাজ লিংকের প্যাটার্ন পরিবর্তন করা
           sed -i "s|last--commit--time-.*-blue|last--commit--time-${CUR_TIME// /%20}-blue|g" README.md
 
-       - name: 💾 স্টোরেজ রিপোতে নতুন/আপডেট .m3u8 ফাইল পুশ করা
+      - name: 💾 প্লেলিস্ট ও রিডমি পাবলিক গিটহাবে পুশ করা
         run: |
-          cd storage_dir
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A  # 🎯 এখানে -A দেওয়া হয়েছে যেন ডিলিট হওয়া ফাইলগুলোও গিটহাবে আপডেট হয়
-          git commit -m "Auto updated streams and cleaned dead files" || echo "No changes to commit"
-          git push origin main
+          
+          # শুধু প্রয়োজনীয় ফাইলগুলো অ্যাড করা
+          git add playlist.m3u || true
+          git add playlist.json || true
+          git add README.md || true
+          
+          # কমিট করা, যদি কোনো পরিবর্তন না থাকে তাহলে এরর না দেখিয়ে পরের ধাপে যাওয়া
+          git commit -m "Auto Update Playlist & BD Time: $(TZ='Asia/Dhaka' date +'%I:%M %p')" || echo "No changes to commit"
+          
+          # Autostash ব্যবহার করে আনস্টেজড ফাইলগুলো সাময়িকভাবে সরিয়ে রিমোট থেকে নতুন ডেটা পুল করা
+          git pull --rebase --autostash origin main
+          
+          # গিটহাবে পুশ করা
+          git push
