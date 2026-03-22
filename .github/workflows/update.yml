@@ -2,6 +2,9 @@ name: Auto Update Playlist
 
 on:
   workflow_dispatch:
+  # অটোমেটিকভাবে চালানোর জন্য নিচের লাইনগুলোর সামনের '#' মুছে দিতে পারেন
+  # schedule:
+  #   - cron: '*/15 * * * *'
 
 jobs:
   scrape-live-matches:
@@ -28,6 +31,24 @@ jobs:
 
       - name: 🚀 স্ক্র্যাপার রান করা
         run: node private_script_folder/scraper.js
+
+      - name: 🗄️ প্রাইভেট স্টোরেজ রিপোতে .m3u8 ফাইল পাঠানো (bingstream-srt)
+        env:
+          REPO_TOKEN: ${{ secrets.MY_SECRET_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # আপনার নতুন প্রাইভেট স্টোরেজ রিপো ক্লোন করা হচ্ছে
+          git clone https://x-access-token:${REPO_TOKEN}@github.com/srhady/bingstream-srt.git storage_dir
+          
+          # তৈরি হওয়া সব .m3u8 ফাইল স্টোরেজ ফোল্ডারে সরানো হচ্ছে
+          mv match_*.m3u8 storage_dir/ 2>/dev/null || echo "কোনো নতুন m3u8 ফাইল পাওয়া যায়নি।"
+          
+          cd storage_dir
+          git add .
+          git commit -m "Auto added secure vercel streams" || echo "No changes to commit"
+          git push origin main
 
       - name: 🕒 README-তে বিডি সময় আপডেট করা
         run: |
