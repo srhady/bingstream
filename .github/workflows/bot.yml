@@ -2,7 +2,7 @@ name: Free Live Sports Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # প্রতি ১৫ মিনিট পর রান হবে
+    - cron: '*/59 * * * *'  # প্রতি ১৫ মিনিট পর রান হবে
   workflow_dispatch:
 
 permissions:
