@@ -31,7 +31,7 @@ jobs:
           node-version: '20'
 
       - name: 📦 ডিপেন্ডেন্সি ইনস্টল
-        run: npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth cheerio
+        run: npm install cheerio
 
       - name: 🚀 স্ক্র্যাপার রান করা
         run: node private_script_folder/scraper.js
