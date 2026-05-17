@@ -3,9 +3,37 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "3:16:25 AM 18-05-2026"
+        "last_update_time": "3:31:26 AM 18-05-2026"
     },
     "channels": [
+        {
+            "Category": "MMA",
+            "League": "MMA",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "FURY FC 119 | MMA",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FURY%20FC%20119%0AMMA&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/chunks.m3u8?is_vip=false&token=1779139889-Kv4cPTAAP5YTi-40644c73fee50668ab5c1b75b9c7b6bfb56a6ece-7e185ca7897b65932359376f7fbfd4ac"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/chunks.m3u8?is_vip=false&token=40644c73fee50668ab5c1b75b9c7b6bfb56a6ece&x-sign=f0951f6bbfb94016f552dc09bc0d4852&x-time=1779053460"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779139891-Kv4cPTAAP5YTi-40644c73fee50668ab5c1b75b9c7b6bfb56a6ece-e776f27062ff1f14c34abc4b9705a774"
+                }
+            ]
+        },
         {
             "Category": "Premier League",
             "League": "Premier League",
@@ -110,30 +138,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Nantes",
-            "Team 2 Name": "Toulouse",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/83.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/96.png",
-            "Match Title": "Nantes VS Toulouse | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nantes%0AVS%0AToulouse%0ALigue%201&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779138988-Kv4cPTAAP5YTi-7cd1043aa4fd665698e3d3dd09918b351ff8b93f-d9639abc4af89a76cb816cb300078257"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=7cd1043aa4fd665698e3d3dd09918b351ff8b93f&x-sign=eb4df264f4924cf8af4d775c7f06f64f&x-time=1779052560"
-                }
-            ]
         },
         {
             "Category": "Football",
@@ -332,6 +336,21 @@
         },
         {
             "Category": "Football",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Club Nacional",
+            "Team 2 Name": "Universitario",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2356.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2540.png",
+            "Match Title": "Club Nacional VS Universitario | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Club%20Nacional%0AVS%0AUniversitario%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "4:00 AM 21-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
             "League": "CONMEBOL Sudamericana",
             "Team 1 Name": "Boston River",
             "Team 2 Name": "O'Higgins",
@@ -341,6 +360,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Boston%20River%0AVS%0AO'Higgins%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 21-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "CONCACAF W Champions Cup",
+            "Team 1 Name": "América W",
+            "Team 2 Name": "NJ/NY Gotham FC W",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14868.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3003.png",
+            "Match Title": "América W VS NJ/NY Gotham FC W | CONCACAF W Champions Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Am%C3%A9rica%20W%0AVS%0ANJ%2FNY%20Gotham%20FC%20W%0ACONCACAF%20W%20Champions%20Cup&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "5:30 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -408,12 +442,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
-            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-            "Match Title": "Hokkaido Nippon-Ham Fighters VS Tohoku Rakuten Golden Eagles | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald",
+            "Team 1 Name": "ORIX Buffaloes",
+            "Team 2 Name": "Fukuoka SoftBank Hawks",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
+            "Match Title": "ORIX Buffaloes VS Fukuoka SoftBank Hawks | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "3:00 PM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -423,45 +457,17 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Tokyo Yakult Swallows",
-            "Team 2 Name": "Yomiuri Giants",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
-            "Match Title": "Tokyo Yakult Swallows VS Yomiuri Giants | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald",
+            "Team 1 Name": "Saitama Seibu Lions",
+            "Team 2 Name": "Chiba Lotte Marines",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
+            "Match Title": "Saitama Seibu Lions VS Chiba Lotte Marines | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "3:00 PM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
-        },
-        {
-            "Category": "MMA",
-            "League": "MMA",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "FURY FC 119 | MMA",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FURY%20FC%20119%0AMMA&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "3:30 AM 18-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/chunks.m3u8?is_vip=false&token=1779138994-Kv4cPTAAP5YTi-7cd1043aa4fd665698e3d3dd09918b351ff8b93f-816b4a1bfe58cad0a6b4599b82a2ffcc"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/chunks.m3u8?is_vip=false&token=7cd1043aa4fd665698e3d3dd09918b351ff8b93f&x-sign=e798e0c9b6ecda5e99e4747107eeed9b&x-time=1779052560"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779138996-Kv4cPTAAP5YTi-7cd1043aa4fd665698e3d3dd09918b351ff8b93f-6dd4b2b8c4ccf27714ceed33c03ffec6"
-                }
-            ]
         },
         {
             "Category": "Cycling",
