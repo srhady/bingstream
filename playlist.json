@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:46:32 PM 20-05-2026"
+        "last_update_time": "12:01:26 AM 21-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779385595-Kv4cPTAAP5YTi-93336ea1b84b629bba2dc0de254d1c65e3e52404-072b868004473edb8d171050afcf9e55"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779386490-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-4303f5f569e7f7cdbf8a081ab9068ab3"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=93336ea1b84b629bba2dc0de254d1c65e3e52404&x-sign=1b91cb587d61d2707731b38b5d798ab9&x-time=1779299160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=c8ecf0e02e62d98621db3281cf5f969d&x-time=1779300060"
                 }
             ]
         },
@@ -46,11 +46,59 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779385602-Kv4cPTAAP5YTi-93336ea1b84b629bba2dc0de254d1c65e3e52404-c8a07f6a9fd14e4bf4b714f0229deec2"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779386496-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-56673aaa39727520090af271626d7af9"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=93336ea1b84b629bba2dc0de254d1c65e3e52404&x-sign=4ac5affd1ec3a141318d3accc3143578&x-time=1779299160"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=a6ef4ccc78f1afe16488fb860736bf3d&x-time=1779300060"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Pro League",
+            "Team 1 Name": "Al Khaleej Saihat",
+            "Team 2 Name": "Al-Ahli Jeddah",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2928.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2929.png",
+            "Match Title": "Al Khaleej Saihat VS Al-Ahli Jeddah | Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Al%20Khaleej%20Saihat%0AVS%0AAl-Ahli%20Jeddah%0APro%20League&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779386502-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-5b810a470c62c9309e89245b40f2b27d"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=d289b4a9951b08c7189aef85f5670b41&x-time=1779300060"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Serie B",
+            "Team 1 Name": "Palermo",
+            "Team 2 Name": "Catanzaro",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/522.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1687.png",
+            "Match Title": "Palermo VS Catanzaro | Serie B",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Palermo%0AVS%0ACatanzaro%0ASerie%20B&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779386509-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-92dde499788c8c0b2790571077bf46d2"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=f76be179eadad238a5c6a6d155c3dee9&x-time=1779300060"
                 }
             ]
         },
@@ -161,54 +209,6 @@
         },
         {
             "Category": "Football",
-            "League": "Pro League",
-            "Team 1 Name": "Al Khaleej Saihat",
-            "Team 2 Name": "Al-Ahli Jeddah",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2928.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2929.png",
-            "Match Title": "Al Khaleej Saihat VS Al-Ahli Jeddah | Pro League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Al%20Khaleej%20Saihat%0AVS%0AAl-Ahli%20Jeddah%0APro%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:00 AM 21-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779385608-Kv4cPTAAP5YTi-93336ea1b84b629bba2dc0de254d1c65e3e52404-678138da2ab662cad4dbd17c4945ca61"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=93336ea1b84b629bba2dc0de254d1c65e3e52404&x-sign=fb46988b0b8befef9b446f259504f74f&x-time=1779299160"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Serie B",
-            "Team 1 Name": "Palermo",
-            "Team 2 Name": "Catanzaro",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/522.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1687.png",
-            "Match Title": "Palermo VS Catanzaro | Serie B",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Palermo%0AVS%0ACatanzaro%0ASerie%20B&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:00 AM 21-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779385614-Kv4cPTAAP5YTi-93336ea1b84b629bba2dc0de254d1c65e3e52404-a629d4d755a7d11e21e3ede8e206c585"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=93336ea1b84b629bba2dc0de254d1c65e3e52404&x-sign=3a7b7f01e55beeff7f179f66fc185d43&x-time=1779299160"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "League": "Copa Argentina",
             "Team 1 Name": "Talleres Cordoba",
             "Team 2 Name": "Atletico Tucuman",
@@ -224,13 +224,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Club Nacional",
-            "Team 2 Name": "Universitario",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2356.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2540.png",
-            "Match Title": "Club Nacional VS Universitario | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Club%20Nacional%0AVS%0AUniversitario%0ACONMEBOL%20Libertadores&font=Oswald",
+            "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "Boston River",
+            "Team 2 Name": "O'Higgins",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2361.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2320.png",
+            "Match Title": "Boston River VS O'Higgins | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Boston%20River%0AVS%0AO'Higgins%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -239,13 +239,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "Boston River",
-            "Team 2 Name": "O'Higgins",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2361.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2320.png",
-            "Match Title": "Boston River VS O'Higgins | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Boston%20River%0AVS%0AO'Higgins%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Club Nacional",
+            "Team 2 Name": "Universitario",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2356.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2540.png",
+            "Match Title": "Club Nacional VS Universitario | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Club%20Nacional%0AVS%0AUniversitario%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -345,21 +345,6 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "LDU de Quito",
-            "Team 2 Name": "Lanus",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1158.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/446.png",
-            "Match Title": "LDU de Quito VS Lanus | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=LDU%20de%20Quito%0AVS%0ALanus%0ACONMEBOL%20Libertadores&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "6:30 AM 21-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "CONMEBOL Libertadores",
             "Team 1 Name": "Flamengo",
             "Team 2 Name": "Estudiantes L.P.",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/127.png",
@@ -381,6 +366,21 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/794.png",
             "Match Title": "River Plate VS RB Bragantino | CONMEBOL Sudamericana",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=River%20Plate%0AVS%0ARB%20Bragantino%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "6:30 AM 21-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "LDU de Quito",
+            "Team 2 Name": "Lanus",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1158.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/446.png",
+            "Match Title": "LDU de Quito VS Lanus | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=LDU%20de%20Quito%0AVS%0ALanus%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "6:30 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -493,6 +493,36 @@
             "Stream URL": []
         },
         {
+            "Category": "Football",
+            "League": "Premiership",
+            "Team 1 Name": "Partick",
+            "Team 2 Name": "ST Mirren",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/901.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/251.png",
+            "Match Title": "Partick VS ST Mirren | Premiership",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Partick%0AVS%0AST%20Mirren%0APremiership&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 22-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Eredivisie",
+            "Team 1 Name": "Utrecht",
+            "Team 2 Name": "Heerenveen",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/207.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/210.png",
+            "Match Title": "Utrecht VS Heerenveen | Eredivisie",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Utrecht%0AVS%0AHeerenveen%0AEredivisie&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 22-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
             "Category": "Tennis",
             "League": "Strasbourg Open",
             "Team 1 Name": "",
@@ -585,12 +615,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Tokyo Yakult Swallows",
-            "Team 2 Name": "Yomiuri Giants",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
-            "Match Title": "Tokyo Yakult Swallows VS Yomiuri Giants | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald",
+            "Team 1 Name": "Hanshin Tigers",
+            "Team 2 Name": "Chunichi Dragons",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
+            "Match Title": "Hanshin Tigers VS Chunichi Dragons | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "3:00 PM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
