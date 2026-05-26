@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "7:31:28 AM 26-05-2026"
+        "last_update_time": "7:46:27 AM 26-05-2026"
     },
     "channels": [
         {
@@ -375,11 +375,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 2 | KFF Singapore Badminton Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0AKFF%20Singapore%20Badminton%20Open&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 26-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779846391-Kv4cPTAAP5YTi-995b13b1263169bf4edd0503317e015419bb4e0a-d26f864c0e72a8e9fec18cf8c30dacdd"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=995b13b1263169bf4edd0503317e015419bb4e0a&x-sign=54b7971bfad39b71aeae5ec2f9e592dc&x-time=1779759960"
+                }
+            ]
         },
         {
             "Category": "Badminton",
@@ -390,11 +399,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 3 | KFF Singapore Badminton Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0AKFF%20Singapore%20Badminton%20Open&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 26-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779846398-Kv4cPTAAP5YTi-995b13b1263169bf4edd0503317e015419bb4e0a-f952d09486ca2b32375fc855c8510dac"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=995b13b1263169bf4edd0503317e015419bb4e0a&x-sign=8432515654bc0472bf9a3890f8ddfbd3&x-time=1779759960"
+                }
+            ]
         },
         {
             "Category": "Badminton",
@@ -405,11 +423,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 1 | KFF Singapore Badminton Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 26-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779846405-Kv4cPTAAP5YTi-995b13b1263169bf4edd0503317e015419bb4e0a-e547a916f6a6203190fa011b44bacf37"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=995b13b1263169bf4edd0503317e015419bb4e0a&x-sign=95f27017b098328d25353e9846fc37fe&x-time=1779759960"
+                }
+            ]
         }
     ]
 }
