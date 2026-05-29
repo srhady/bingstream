@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "9:01:28 AM 29-05-2026"
+        "last_update_time": "9:16:28 AM 29-05-2026"
     },
     "channels": [
         {
@@ -22,7 +22,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=ee5e6918fa6c343e3b887fb7e0e520b385c3d882&x-sign=47fe6d42c383d519ee78c6c1a7afb6ea&x-time=1780023660"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=048d444cc99ce9de30f79be466080662632817b0&x-sign=fdcad85d12684616d6db04c9271d4fd8&x-time=1780024560"
                 }
             ]
         },
@@ -42,7 +42,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=ee5e6918fa6c343e3b887fb7e0e520b385c3d882&x-sign=c2645443a343e7f4cfc417ccf79e2eee&x-time=1780023660"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=048d444cc99ce9de30f79be466080662632817b0&x-sign=62916486f668ac3ffb91fde241252ddc&x-time=1780024560"
                 }
             ]
         },
@@ -265,11 +265,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
             "Match Title": "Chunichi Dragons VS Tohoku Rakuten Golden Eagles | NPB Farm Leagues",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Chunichi%20Dragons%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB%20Farm%20Leagues&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:30 AM 29-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780111001-Kv4cPTAAP5YTi-048d444cc99ce9de30f79be466080662632817b0-3c396d95dff49a0f1aa4a6eebc9c0ca0"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=048d444cc99ce9de30f79be466080662632817b0&x-sign=719ff1bc75356508a3930d0b7c0f8644&x-time=1780024560"
+                }
+            ]
         },
         {
             "Category": "Baseball",
