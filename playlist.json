@@ -3,18 +3,18 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:46:31 AM 31-05-2026"
+        "last_update_time": "6:01:29 AM 31-05-2026"
     },
     "channels": [
         {
-            "Category": "Auto Racing",
-            "League": "WRC",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "FORUM8 Rally Japan: Stage 15 | WRC",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2015%0AWRC&font=Oswald",
+            "Category": "Football",
+            "League": "CONCACAF Champions League",
+            "Team 1 Name": "Toluca",
+            "Team 2 Name": "Tigres UANL",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2281.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2279.png",
+            "Match Title": "Toluca VS Tigres UANL | CONCACAF Champions League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Toluca%0AVS%0ATigres%20UANL%0ACONCACAF%20Champions%20League&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -22,11 +22,63 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf&x-sign=5853833346c9c6d95ca5b2055e2c301a&x-time=1780184760"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780272093-Kv4cPTAAP5YTi-a05adee101f3c585b1be6c8cfab5a8fd5bc71523-f7228f76803123dec0b7fd1f51b20a73"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/238_abrhd.m3u8?is_vip=false&token=1780271197-Kv4cPTAAP5YTi-7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf-bf164a033858bb4602ef87c3461ea0fb"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=a05adee101f3c585b1be6c8cfab5a8fd5bc71523&x-sign=5cb3c16bd78855a9be15e7306171af8c&x-time=1780185660"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=a05adee101f3c585b1be6c8cfab5a8fd5bc71523&x-sign=150d166f0c951c05cfc5b62198161fcd&x-time=1780185660"
+                }
+            ]
+        },
+        {
+            "Category": "Auto Racing",
+            "League": "WRC",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "FORUM8 Rally Japan: Stage 16 | WRC",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2016%0AWRC&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=a05adee101f3c585b1be6c8cfab5a8fd5bc71523&x-sign=3f99d2293df91d1972ea4961d7e8a0f8&x-time=1780185660"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/238_abrhd.m3u8?is_vip=false&token=1780272102-Kv4cPTAAP5YTi-a05adee101f3c585b1be6c8cfab5a8fd5bc71523-fdb6312317313523a60322959157c761"
+                }
+            ]
+        },
+        {
+            "Category": "Boxing",
+            "League": "Matchroom Boxing",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Foster VS Ford | Matchroom Boxing",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Foster%0AVS%0AFord%0AMatchroom%20Boxing&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780272108-Kv4cPTAAP5YTi-a05adee101f3c585b1be6c8cfab5a8fd5bc71523-e6ef50673baf7873d844666852e06ba4"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=a05adee101f3c585b1be6c8cfab5a8fd5bc71523&x-sign=92f3dfde19e404690b077d71819635e9&x-time=1780185660"
                 }
             ]
         },
@@ -137,34 +189,6 @@
         },
         {
             "Category": "Football",
-            "League": "CONCACAF Champions League",
-            "Team 1 Name": "Toluca",
-            "Team 2 Name": "Tigres UANL",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2281.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2279.png",
-            "Match Title": "Toluca VS Tigres UANL | CONCACAF Champions League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Toluca%0AVS%0ATigres%20UANL%0ACONCACAF%20Champions%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "6:00 AM 31-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780271202-Kv4cPTAAP5YTi-7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf-a8e8a79d01ef8550cc53150eb75018d7"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf&x-sign=f5d52e55512c6749c6eed7c9d41a7296&x-time=1780184760"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf&x-sign=fae952a859c99fbe1905bf9d11b1ed4d&x-time=1780184760"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "League": "Friendlies",
             "Team 1 Name": "Mexico",
             "Team 2 Name": "Australia",
@@ -181,72 +205,12 @@
         {
             "Category": "Football",
             "League": "J2/J3 League",
-            "Team 1 Name": "Blaublitz Akita",
-            "Team 2 Name": "Consadole Sapporo",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4315.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/279.png",
-            "Match Title": "Blaublitz Akita VS Consadole Sapporo | J2/J3 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Blaublitz%20Akita%0AVS%0AConsadole%20Sapporo%0AJ2%2FJ3%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 31-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "J2/J3 League",
             "Team 1 Name": "Tochigi SC",
             "Team 2 Name": "Parceiro Nagano",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/315.png",
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4323.png",
             "Match Title": "Tochigi SC VS Parceiro Nagano | J2/J3 League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tochigi%20SC%0AVS%0AParceiro%20Nagano%0AJ2%2FJ3%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 31-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "J2/J3 League",
-            "Team 1 Name": "Montedio Yamagata",
-            "Team 2 Name": "Matsumoto Yamaga",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/312.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/304.png",
-            "Match Title": "Montedio Yamagata VS Matsumoto Yamaga | J2/J3 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Montedio%20Yamagata%0AVS%0AMatsumoto%20Yamaga%0AJ2%2FJ3%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 31-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "J2/J3 League",
-            "Team 1 Name": "Thespakusatsu Gunma",
-            "Team 2 Name": "FC Gifu",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/756.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/297.png",
-            "Match Title": "Thespakusatsu Gunma VS FC Gifu | J2/J3 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Thespakusatsu%20Gunma%0AVS%0AFC%20Gifu%0AJ2%2FJ3%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 31-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "J2/J3 League",
-            "Team 1 Name": "Kanazawa",
-            "Team 2 Name": "Gainare Tottori",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/300.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4319.png",
-            "Match Title": "Kanazawa VS Gainare Tottori | J2/J3 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kanazawa%0AVS%0AGainare%20Tottori%0AJ2%2FJ3%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 31-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -271,12 +235,72 @@
         {
             "Category": "Football",
             "League": "J2/J3 League",
+            "Team 1 Name": "Montedio Yamagata",
+            "Team 2 Name": "Matsumoto Yamaga",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/312.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/304.png",
+            "Match Title": "Montedio Yamagata VS Matsumoto Yamaga | J2/J3 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Montedio%20Yamagata%0AVS%0AMatsumoto%20Yamaga%0AJ2%2FJ3%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 31-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "J2/J3 League",
+            "Team 1 Name": "Kanazawa",
+            "Team 2 Name": "Gainare Tottori",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/300.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4319.png",
+            "Match Title": "Kanazawa VS Gainare Tottori | J2/J3 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kanazawa%0AVS%0AGainare%20Tottori%0AJ2%2FJ3%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 31-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "J2/J3 League",
             "Team 1 Name": "Kamatamare Sanuki",
             "Team 2 Name": "Kitakyushu",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/317.png",
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/805.png",
             "Match Title": "Kamatamare Sanuki VS Kitakyushu | J2/J3 League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kamatamare%20Sanuki%0AVS%0AKitakyushu%0AJ2%2FJ3%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 31-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "J2/J3 League",
+            "Team 1 Name": "Thespakusatsu Gunma",
+            "Team 2 Name": "FC Gifu",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/756.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/297.png",
+            "Match Title": "Thespakusatsu Gunma VS FC Gifu | J2/J3 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Thespakusatsu%20Gunma%0AVS%0AFC%20Gifu%0AJ2%2FJ3%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 31-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "J2/J3 League",
+            "Team 1 Name": "Blaublitz Akita",
+            "Team 2 Name": "Consadole Sapporo",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4315.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/279.png",
+            "Match Title": "Blaublitz Akita VS Consadole Sapporo | J2/J3 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Blaublitz%20Akita%0AVS%0AConsadole%20Sapporo%0AJ2%2FJ3%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 31-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -330,6 +354,21 @@
         },
         {
             "Category": "Football",
+            "League": "Tournoi Maurice Revello",
+            "Team 1 Name": "China PR U20",
+            "Team 2 Name": "Saudi Arabia U23",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/17262.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10955.png",
+            "Match Title": "China PR U20 VS Saudi Arabia U23 | Tournoi Maurice Revello",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=China%20PR%20U20%0AVS%0ASaudi%20Arabia%20U23%0ATournoi%20Maurice%20Revello&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "7:00 PM 31-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
             "League": "Friendlies",
             "Team 1 Name": "Switzerland",
             "Team 2 Name": "Jordan",
@@ -345,15 +384,45 @@
         },
         {
             "Category": "Football",
-            "League": "Tournoi Maurice Revello",
-            "Team 1 Name": "China PR U20",
-            "Team 2 Name": "Saudi Arabia U23",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/17262.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10955.png",
-            "Match Title": "China PR U20 VS Saudi Arabia U23 | Tournoi Maurice Revello",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=China%20PR%20U20%0AVS%0ASaudi%20Arabia%20U23%0ATournoi%20Maurice%20Revello&font=Oswald",
+            "League": "FA Women's Cup",
+            "Team 1 Name": "Brighton W",
+            "Team 2 Name": "Manchester City W",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1857.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1854.png",
+            "Match Title": "Brighton W VS Manchester City W | FA Women's Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Brighton%20W%0AVS%0AManchester%20City%20W%0AFA%20Women's%20Cup&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "7:00 PM 31-05-2026",
+            "Start Time": "8:00 PM 31-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Primera División Femenina",
+            "Team 1 Name": "Madrid CFF W",
+            "Team 2 Name": "Barcelona W",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1921.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1918.png",
+            "Match Title": "Madrid CFF W VS Barcelona W | Primera División Femenina",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Madrid%20CFF%20W%0AVS%0ABarcelona%20W%0APrimera%20Divisi%C3%B3n%20Femenina&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "8:00 PM 31-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Tennis",
+            "League": "Roland Garros",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 8 | Feed 2 | Roland Garros",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%208%0AFeed%202%20%7C%20Roland%20Garros&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "3:00 PM 31-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -382,21 +451,6 @@
             "Team 2 Logo": "",
             "Match Title": "Day 8 | Feed 4 | Roland Garros",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%208%0AFeed%204%20%7C%20Roland%20Garros&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "3:00 PM 31-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Tennis",
-            "League": "Roland Garros",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Day 8 | Feed 2 | Roland Garros",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%208%0AFeed%202%20%7C%20Roland%20Garros&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "3:00 PM 31-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -455,20 +509,20 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "FORUM8 Rally Japan: Stage 16 | WRC",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2016%0AWRC&font=Oswald",
+            "Match Title": "FORUM8 Rally Japan: Stage 15 | WRC",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2015%0AWRC&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "6:00 AM 31-05-2026",
+            "Start Time": "5:15 AM 31-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf&x-sign=5853833346c9c6d95ca5b2055e2c301a&x-time=1780184760"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=a05adee101f3c585b1be6c8cfab5a8fd5bc71523&x-sign=3f99d2293df91d1972ea4961d7e8a0f8&x-time=1780185660"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/238_abrhd.m3u8?is_vip=false&token=1780271212-Kv4cPTAAP5YTi-7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf-bde91574c3eb28a31292203406950436"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/238_abrhd.m3u8?is_vip=false&token=1780272117-Kv4cPTAAP5YTi-a05adee101f3c585b1be6c8cfab5a8fd5bc71523-b883739a649ab25a1ac389e7089dd29a"
                 }
             ]
         },
@@ -501,30 +555,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
-        },
-        {
-            "Category": "Boxing",
-            "League": "Matchroom Boxing",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Foster VS Ford | Matchroom Boxing",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Foster%0AVS%0AFord%0AMatchroom%20Boxing&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "6:00 AM 31-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780271218-Kv4cPTAAP5YTi-7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf-974b8d50fbe84d56c3d63de80e1953e7"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=7f57ba7afe44e9c682bf0f3f8327c36ddf23aeaf&x-sign=03f8a7ca28707a021b61757c31ba6671&x-time=1780184760"
-                }
-            ]
         },
         {
             "Category": "MMA",
