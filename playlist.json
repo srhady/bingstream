@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "7:31:27 AM 02-06-2026"
+        "last_update_time": "7:46:28 AM 02-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
@@ -23,7 +23,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=50df56fe9028b94e55d7789824463333490dbf20&x-sign=48e67fee23e77a39dbb775b4e6b48f8d&x-time=1780363860"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=029961517f0f1c10d137bd8d28e37a94466b87f0&x-sign=d13617524d72c9487c29ef786a15f1d6&x-time=1780364760"
                 }
             ]
         },
@@ -351,11 +351,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 4 | POLYTRON Indonesia Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APOLYTRON%20Indonesia%20Open&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 02-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780451196-Kv4cPTAAP5YTi-029961517f0f1c10d137bd8d28e37a94466b87f0-938f352d64aa98aa0af9f47b4bbad260"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=029961517f0f1c10d137bd8d28e37a94466b87f0&x-sign=d16b79b2335f06538863da560cf0bed3&x-time=1780364760"
+                }
+            ]
         },
         {
             "Category": "Badminton",
@@ -366,11 +375,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 2 | POLYTRON Indonesia Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APOLYTRON%20Indonesia%20Open&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 02-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780451202-Kv4cPTAAP5YTi-029961517f0f1c10d137bd8d28e37a94466b87f0-7d1cefa1e404899d2cc2783ed799ef92"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=029961517f0f1c10d137bd8d28e37a94466b87f0&x-sign=d4cf6fe72465123d799dd46ef0e0fb2f&x-time=1780364760"
+                }
+            ]
         },
         {
             "Category": "Badminton",
@@ -381,11 +399,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 1 | POLYTRON Indonesia Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APOLYTRON%20Indonesia%20Open&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 02-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780451208-Kv4cPTAAP5YTi-029961517f0f1c10d137bd8d28e37a94466b87f0-8bd050181c14948679414f55a88776c0"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=029961517f0f1c10d137bd8d28e37a94466b87f0&x-sign=042ea0a6750cd1eef41d99fe6b18dd53&x-time=1780364760"
+                }
+            ]
         }
     ]
 }
