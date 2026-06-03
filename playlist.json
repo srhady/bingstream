@@ -3,19 +3,19 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:46:32 PM 03-06-2026"
+        "last_update_time": "6:01:31 PM 03-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
         {
-            "Category": "Tennis",
-            "League": "Roland Garros",
+            "Category": "POLYTRON Indonesia Open",
+            "League": "POLYTRON Indonesia Open",
             "Team 1 Name": "",
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Anna Kalinskaya VS Maja Chwalinska (Women's Singles) - QF3 | Roland Garros",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Anna%20Kalinskaya%0AVS%0AMaja%20Chwalinska%20(Women's%20Singles)%20-%20QF3%0ARoland%20Garros&font=Oswald",
+            "Match Title": "Court 1 | POLYTRON Indonesia Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APOLYTRON%20Indonesia%20Open&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -23,11 +23,59 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780573595-Kv4cPTAAP5YTi-da3013b19f806614d8937930c8aa3869cdfba8c7-d218e195cf92a88706f6f0e85e149ead"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780574495-Kv4cPTAAP5YTi-9c045a84e0d9682ce10c4eebda2880a96d13a87c-a66e4d103114eda20c81cb31a2268141"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=da3013b19f806614d8937930c8aa3869cdfba8c7&x-sign=20c87ae09b3dd0d113557caf5b948cd2&x-time=1780487160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=9c045a84e0d9682ce10c4eebda2880a96d13a87c&x-sign=96a14ffabfd524501993a176c3a7d4c3&x-time=1780488060"
+                }
+            ]
+        },
+        {
+            "Category": "Badminton",
+            "League": "POLYTRON Indonesia Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 2 | POLYTRON Indonesia Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APOLYTRON%20Indonesia%20Open&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780574501-Kv4cPTAAP5YTi-9c045a84e0d9682ce10c4eebda2880a96d13a87c-5a118669a0c875806c9a139af6feefbf"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9c045a84e0d9682ce10c4eebda2880a96d13a87c&x-sign=0550da9843769c2e4ff997b4b390d9eb&x-time=1780488060"
+                }
+            ]
+        },
+        {
+            "Category": "Badminton",
+            "League": "POLYTRON Indonesia Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 3 | POLYTRON Indonesia Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APOLYTRON%20Indonesia%20Open&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780574508-Kv4cPTAAP5YTi-9c045a84e0d9682ce10c4eebda2880a96d13a87c-8861fd7a33cda4ab252d295b60e3a89d"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=9c045a84e0d9682ce10c4eebda2880a96d13a87c&x-sign=9aa667a6a7a642fcaef0bc8ae347728e&x-time=1780488060"
                 }
             ]
         },
@@ -47,19 +95,31 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780573602-Kv4cPTAAP5YTi-da3013b19f806614d8937930c8aa3869cdfba8c7-12cf10537a660c061bc27ff98bdfed66"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780574515-Kv4cPTAAP5YTi-9c045a84e0d9682ce10c4eebda2880a96d13a87c-340a16ff91df1ac523f89aab883a2c38"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=da3013b19f806614d8937930c8aa3869cdfba8c7&x-sign=20c87ae09b3dd0d113557caf5b948cd2&x-time=1780487160"
-                },
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=9c045a84e0d9682ce10c4eebda2880a96d13a87c&x-sign=1183cf895c1945283e2d83a89570244a&x-time=1780488060"
+                }
+            ]
+        },
+        {
+            "Category": "Darts",
+            "League": "Players Championship",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Players Championship 20 | Players Championship",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2020%0APlayers%20Championship&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
                 {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780573604-Kv4cPTAAP5YTi-da3013b19f806614d8937930c8aa3869cdfba8c7-79344cacfc251ce81e3f8958872cf295"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=da3013b19f806614d8937930c8aa3869cdfba8c7&x-sign=d9912accabf3d52d40fe78efbdcd68c2&x-time=1780487160"
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=9c045a84e0d9682ce10c4eebda2880a96d13a87c&x-sign=3d8a2929d3e322864819f011da0bbed9&x-time=1780488120"
                 }
             ]
         },
@@ -439,24 +499,19 @@
             "Stream URL": []
         },
         {
-            "Category": "Darts",
-            "League": "Players Championship",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Players Championship 20 | Players Championship",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2020%0APlayers%20Championship&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "6:00 PM 03-06-2026",
+            "Category": "Rugby",
+            "League": "NRL Rugby",
+            "Team 1 Name": "Newcastle Knights",
+            "Team 2 Name": "Melbourne Storm",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9a68e548252189c251d09b66df63fab8.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/da3918f90fc45c2a4d0fa43262fda08e.png",
+            "Match Title": "Newcastle Knights VS Melbourne Storm | NRL Rugby",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Newcastle%20Knights%0AVS%0AMelbourne%20Storm%0ANRL%20Rugby&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "2:00 PM 05-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=da3013b19f806614d8937930c8aa3869cdfba8c7&x-sign=2eedbeb60e03d898a024e507ffed91b4&x-time=1780487160"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Badminton",
