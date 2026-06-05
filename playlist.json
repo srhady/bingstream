@@ -3,10 +3,58 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:46:29 AM 05-06-2026"
+        "last_update_time": "6:01:32 AM 05-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "Football",
+            "League": "Friendlies",
+            "Team 1 Name": "Czech Republic",
+            "Team 2 Name": "Guatemala",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/770.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5161.png",
+            "Match Title": "Czech Republic VS Guatemala | Friendlies",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Czech%20Republic%0AVS%0AGuatemala%0AFriendlies&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=90b2c037fa4298de0c46c1476bebae16a7eac0d0&x-sign=398bd7a94298a6538fc86d7f645c9bb1&x-time=1780617660"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1780704097-Kv4cPTAAP5YTi-90b2c037fa4298de0c46c1476bebae16a7eac0d0-7e9c723105afe799465f617c4f3708a4"
+                }
+            ]
+        },
+        {
+            "Category": "MMA",
+            "League": "MMA",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "UFC BJJ 9 - FOWLER VS JOHNSON | MMA",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=UFC%20BJJ%209%20-%20FOWLER%0AVS%0AJOHNSON%0AMMA&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780704102-Kv4cPTAAP5YTi-90b2c037fa4298de0c46c1476bebae16a7eac0d0-06afa52631150c8436e21118499b01a2"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=90b2c037fa4298de0c46c1476bebae16a7eac0d0&x-sign=53b095fdb31a264c54f3c670e3d4b69c&x-time=1780617660"
+                }
+            ]
+        },
         {
             "Category": "Friendlies",
             "League": "Friendlies",
@@ -111,30 +159,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "Friendlies",
-            "Team 1 Name": "Czech Republic",
-            "Team 2 Name": "Guatemala",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/770.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5161.png",
-            "Match Title": "Czech Republic VS Guatemala | Friendlies",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Czech%20Republic%0AVS%0AGuatemala%0AFriendlies&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "6:00 AM 05-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=96deb17263108af299256d2f0cacf2b997de157d&x-sign=cbbb199fc0f7691fb8c18bd9a3989cbf&x-time=1780616760"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1780703193-Kv4cPTAAP5YTi-96deb17263108af299256d2f0cacf2b997de157d-5ac9fd0f78e12a4e1f4b26ca021092c6"
-                }
-            ]
         },
         {
             "Category": "Football",
@@ -347,6 +371,21 @@
             "Stream URL": []
         },
         {
+            "Category": "Football",
+            "League": "Friendlies",
+            "Team 1 Name": "Haiti",
+            "Team 2 Name": "Peru",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2386.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/30.png",
+            "Match Title": "Haiti VS Peru | Friendlies",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Haiti%0AVS%0APeru%0AFriendlies&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "6:00 AM 06-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
             "Category": "Tennis",
             "League": "Birmingham Open",
             "Team 1 Name": "",
@@ -409,12 +448,12 @@
         {
             "Category": "Baseball",
             "League": "NPB Farm Leagues",
-            "Team 1 Name": "Hanshin Tigers",
-            "Team 2 Name": "ORIX Buffaloes",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-            "Match Title": "Hanshin Tigers VS ORIX Buffaloes | NPB Farm Leagues",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AORIX%20Buffaloes%0ANPB%20Farm%20Leagues&font=Oswald",
+            "Team 1 Name": "Saitama Seibu Lions",
+            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+            "Match Title": "Saitama Seibu Lions VS Tohoku Rakuten Golden Eagles | NPB Farm Leagues",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB%20Farm%20Leagues&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 05-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -424,12 +463,12 @@
         {
             "Category": "Baseball",
             "League": "NPB Farm Leagues",
-            "Team 1 Name": "Saitama Seibu Lions",
-            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-            "Match Title": "Saitama Seibu Lions VS Tohoku Rakuten Golden Eagles | NPB Farm Leagues",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB%20Farm%20Leagues&font=Oswald",
+            "Team 1 Name": "Hanshin Tigers",
+            "Team 2 Name": "ORIX Buffaloes",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+            "Match Title": "Hanshin Tigers VS ORIX Buffaloes | NPB Farm Leagues",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AORIX%20Buffaloes%0ANPB%20Farm%20Leagues&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 05-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -458,22 +497,13 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "UFC BJJ 9 - FOWLER VS JOHNSON | MMA",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=UFC%20BJJ%209%20-%20FOWLER%0AVS%0AJOHNSON%0AMMA&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "6:00 AM 05-06-2026",
+            "Match Title": "ETERNAL MMA 106 | MMA",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=ETERNAL%20MMA%20106%0AMMA&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "4:00 PM 05-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1780703198-Kv4cPTAAP5YTi-96deb17263108af299256d2f0cacf2b997de157d-fa395ead290c1f1f8e3d6336da066bf4"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=96deb17263108af299256d2f0cacf2b997de157d&x-sign=1a1021f862b92107bbcb05031c999596&x-time=1780616760"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "MMA",
@@ -482,10 +512,10 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "ETERNAL MMA 106 | MMA",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=ETERNAL%20MMA%20106%0AMMA&font=Oswald",
+            "Match Title": "SUBMISSION HUNTER PRO 103 | MMA",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=SUBMISSION%20HUNTER%20PRO%20103%0AMMA&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "4:00 PM 05-06-2026",
+            "Start Time": "7:00 AM 06-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
