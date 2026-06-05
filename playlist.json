@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:31:27 AM 06-06-2026"
+        "last_update_time": "5:46:30 AM 06-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
@@ -23,7 +23,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=969479e073abe42a12a250b9062ce8d8d07f91df&x-sign=16c7fbc9bebbfad86258797ababe52ad&x-time=1780702260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=04c5f2b4e0c4e9e5da56f3ee0eb2f240a1a905d3&x-sign=ecd2b099812b1e52030633407c5e4d34&x-time=1780703160"
                 }
             ]
         },
@@ -141,11 +141,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/30.png",
             "Match Title": "Haiti VS Peru | Friendlies",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Haiti%0AVS%0APeru%0AFriendlies&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "6:00 AM 06-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=04c5f2b4e0c4e9e5da56f3ee0eb2f240a1a905d3&x-sign=48a89ceeb5e05328757f7a3101724a2c&x-time=1780703160"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1780789597-Kv4cPTAAP5YTi-04c5f2b4e0c4e9e5da56f3ee0eb2f240a1a905d3-4d145c1b0efb6a29b648c3ea920241b6"
+                }
+            ]
         },
         {
             "Category": "Football",
