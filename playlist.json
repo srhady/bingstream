@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:46:27 PM 06-06-2026"
+        "last_update_time": "11:01:27 PM 06-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
@@ -23,11 +23,59 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1dfb226c940ed26397414a05c86a6717300a6cb6&x-sign=b18eb36bf4e6be56e0d5009b4ad71313&x-time=1780764360"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=fbe5334bf3382a56ed3c80cde8a9b74bf2216339&x-sign=c53c28813afcdc9edfe63245a3ba21e5&x-time=1780765260"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780850790-Kv4cPTAAP5YTi-1dfb226c940ed26397414a05c86a6717300a6cb6-60d4d9310656b506569acdfc3044c69d"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780851690-Kv4cPTAAP5YTi-fbe5334bf3382a56ed3c80cde8a9b74bf2216339-16b66353d2af19aee6094a5f88a3c1a3"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Friendlies",
+            "Team 1 Name": "Gibraltar",
+            "Team 2 Name": "Cayman Islands",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1093.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8169.png",
+            "Match Title": "Gibraltar VS Cayman Islands | Friendlies",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Gibraltar%0AVS%0ACayman%20Islands%0AFriendlies&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=fbe5334bf3382a56ed3c80cde8a9b74bf2216339&x-sign=a6619e66091942aa611a351ae7ffcbe9&x-time=1780765260"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1780851695-Kv4cPTAAP5YTi-fbe5334bf3382a56ed3c80cde8a9b74bf2216339-dac6160402fa420374b9be2df76737d0"
+                }
+            ]
+        },
+        {
+            "Category": "Darts",
+            "League": "Nordic Darts Masters",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 2 | Nordic Darts Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ANordic%20Darts%20Masters&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=fbe5334bf3382a56ed3c80cde8a9b74bf2216339&x-sign=d54e25ea496bd857fd227336ef8b43d9&x-time=1780765260"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780851699-Kv4cPTAAP5YTi-fbe5334bf3382a56ed3c80cde8a9b74bf2216339-1fe4ef329d515721705377f62d7083dc"
                 }
             ]
         },
@@ -139,30 +187,6 @@
         {
             "Category": "Football",
             "League": "Friendlies",
-            "Team 1 Name": "Gibraltar",
-            "Team 2 Name": "Cayman Islands",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1093.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8169.png",
-            "Match Title": "Gibraltar VS Cayman Islands | Friendlies",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Gibraltar%0AVS%0ACayman%20Islands%0AFriendlies&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "11:00 PM 06-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1dfb226c940ed26397414a05c86a6717300a6cb6&x-sign=68b42a1df6f1fa38d220e643553a8e7b&x-time=1780764360"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1780850794-Kv4cPTAAP5YTi-1dfb226c940ed26397414a05c86a6717300a6cb6-a9ff1b221251c84378ce8d38ecbecdc4"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Friendlies",
             "Team 1 Name": "Romania",
             "Team 2 Name": "Wales",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/774.png",
@@ -238,6 +262,36 @@
         {
             "Category": "Football",
             "League": "J2/J3 League",
+            "Team 1 Name": "Blaublitz Akita",
+            "Team 2 Name": "Kagoshima United",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4315.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2236.png",
+            "Match Title": "Blaublitz Akita VS Kagoshima United | J2/J3 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Blaublitz%20Akita%0AVS%0AKagoshima%20United%0AJ2%2FJ3%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 07-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "AFL Premiership",
+            "Team 1 Name": "St. Kilda Saints",
+            "Team 2 Name": "Sydney Swans",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f975f698c53f7fa7c034a7be9a379591.png",
+            "Match Title": "St. Kilda Saints VS Sydney Swans | AFL Premiership",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=St.%20Kilda%20Saints%0AVS%0ASydney%20Swans%0AAFL%20Premiership&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 07-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "J2/J3 League",
             "Team 1 Name": "Fukushima United",
             "Team 2 Name": "FC Ryukyu",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4318.png",
@@ -283,36 +337,6 @@
         {
             "Category": "Football",
             "League": "J2/J3 League",
-            "Team 1 Name": "Blaublitz Akita",
-            "Team 2 Name": "Kagoshima United",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4315.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2236.png",
-            "Match Title": "Blaublitz Akita VS Kagoshima United | J2/J3 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Blaublitz%20Akita%0AVS%0AKagoshima%20United%0AJ2%2FJ3%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 07-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "AFL Premiership",
-            "Team 1 Name": "St. Kilda Saints",
-            "Team 2 Name": "Sydney Swans",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f975f698c53f7fa7c034a7be9a379591.png",
-            "Match Title": "St. Kilda Saints VS Sydney Swans | AFL Premiership",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=St.%20Kilda%20Saints%0AVS%0ASydney%20Swans%0AAFL%20Premiership&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 07-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "J2/J3 League",
             "Team 1 Name": "Oita Trinita",
             "Team 2 Name": "Montedio Yamagata",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/298.png",
@@ -321,6 +345,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Oita%20Trinita%0AVS%0AMontedio%20Yamagata%0AJ2%2FJ3%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "1:00 PM 07-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Tournoi Maurice Revello",
+            "Team 1 Name": "Congo DR U20",
+            "Team 2 Name": "Colombia U19",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11024.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18981.png",
+            "Match Title": "Congo DR U20 VS Colombia U19 | Tournoi Maurice Revello",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Congo%20DR%20U20%0AVS%0AColombia%20U19%0ATournoi%20Maurice%20Revello&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "7:00 PM 07-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -373,12 +412,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
-            "Team 2 Name": "Fukuoka SoftBank Hawks",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
-            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Fukuoka SoftBank Hawks | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald",
+            "Team 1 Name": "Hanshin Tigers",
+            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+            "Match Title": "Hanshin Tigers VS Tohoku Rakuten Golden Eagles | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 07-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -388,12 +427,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Hanshin Tigers",
-            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-            "Match Title": "Hanshin Tigers VS Tohoku Rakuten Golden Eagles | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald",
+            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
+            "Team 2 Name": "Fukuoka SoftBank Hawks",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
+            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Fukuoka SoftBank Hawks | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 07-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -564,30 +603,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
-        },
-        {
-            "Category": "Darts",
-            "League": "Nordic Darts Masters",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Day 2 | Nordic Darts Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ANordic%20Darts%20Masters&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "11:00 PM 06-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1dfb226c940ed26397414a05c86a6717300a6cb6&x-sign=768735eb47c747c65615a5c32eef8119&x-time=1780764360"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780850798-Kv4cPTAAP5YTi-1dfb226c940ed26397414a05c86a6717300a6cb6-3f147dfb8b105792bbef0b7715b5daf6"
-                }
-            ]
         },
         {
             "Category": "Badminton",
