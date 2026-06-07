@@ -3,34 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:16:27 AM 07-06-2026"
+        "last_update_time": "10:31:29 AM 07-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
-        {
-            "Category": "Nordic Darts Masters",
-            "League": "Nordic Darts Masters",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Day 2 | Nordic Darts Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ANordic%20Darts%20Masters&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780892190-Kv4cPTAAP5YTi-0b6278035f8f85dd382f832be384496c30ea0f31-dbcc7f19699c7a6e6b66a3b4a680744f"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=0b6278035f8f85dd382f832be384496c30ea0f31&x-sign=0eaf12f4ea596c82367f02ecec97c944&x-time=1780805760"
-                }
-            ]
-        },
         {
             "Category": "Rugby",
             "League": "Super Rugby Women's",
@@ -47,11 +23,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780892194-Kv4cPTAAP5YTi-0b6278035f8f85dd382f832be384496c30ea0f31-60a41e432b2622b35abf763dcd958951"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780893092-Kv4cPTAAP5YTi-143c6d53466bfd6e774d01b308b9c0e46c523fe2-c6a3c38e01b2d6c4af7055cff8009c97"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=0b6278035f8f85dd382f832be384496c30ea0f31&x-sign=bfd1fb417428ddde65a5c75688b1690f&x-time=1780805760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=143c6d53466bfd6e774d01b308b9c0e46c523fe2&x-sign=461164ac91656290a36402b48598f1f4&x-time=1780806660"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Chunichi Dragons",
+            "Team 2 Name": "Saitama Seibu Lions",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+            "Match Title": "Chunichi Dragons VS Saitama Seibu Lions | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Chunichi%20Dragons%0AVS%0ASaitama%20Seibu%20Lions%0ANPB&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780893096-Kv4cPTAAP5YTi-143c6d53466bfd6e774d01b308b9c0e46c523fe2-cbbea5cb9e783652a60b47a9bc27e34f"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=143c6d53466bfd6e774d01b308b9c0e46c523fe2&x-sign=c9c52a034f91fb9c11c479ec0d375948&x-time=1780806660"
                 }
             ]
         },
@@ -177,13 +177,13 @@
         },
         {
             "Category": "Football",
-            "League": "Friendlies",
-            "Team 1 Name": "Liechtenstein",
-            "Team 2 Name": "Cyprus",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1107.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1106.png",
-            "Match Title": "Liechtenstein VS Cyprus | Friendlies",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Liechtenstein%0AVS%0ACyprus%0AFriendlies&font=Oswald",
+            "League": "Tournoi Maurice Revello",
+            "Team 1 Name": "Congo DR U20",
+            "Team 2 Name": "Colombia U19",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11024.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18981.png",
+            "Match Title": "Congo DR U20 VS Colombia U19 | Tournoi Maurice Revello",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Congo%20DR%20U20%0AVS%0AColombia%20U19%0ATournoi%20Maurice%20Revello&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "7:00 PM 07-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -192,13 +192,13 @@
         },
         {
             "Category": "Football",
-            "League": "Tournoi Maurice Revello",
-            "Team 1 Name": "Congo DR U20",
-            "Team 2 Name": "Colombia U19",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11024.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18981.png",
-            "Match Title": "Congo DR U20 VS Colombia U19 | Tournoi Maurice Revello",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Congo%20DR%20U20%0AVS%0AColombia%20U19%0ATournoi%20Maurice%20Revello&font=Oswald",
+            "League": "Friendlies",
+            "Team 1 Name": "Liechtenstein",
+            "Team 2 Name": "Cyprus",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1107.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1106.png",
+            "Match Title": "Liechtenstein VS Cyprus | Friendlies",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Liechtenstein%0AVS%0ACyprus%0AFriendlies&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "7:00 PM 07-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -388,26 +388,32 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Chunichi Dragons",
-            "Team 2 Name": "Saitama Seibu Lions",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Match Title": "Chunichi Dragons VS Saitama Seibu Lions | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Chunichi%20Dragons%0AVS%0ASaitama%20Seibu%20Lions%0ANPB&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "10:30 AM 07-06-2026",
+            "Team 1 Name": "Tokyo Yakult Swallows",
+            "Team 2 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Match Title": "Tokyo Yakult Swallows VS Hokkaido Nippon-Ham Fighters | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 07-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780892198-Kv4cPTAAP5YTi-0b6278035f8f85dd382f832be384496c30ea0f31-7648cf431509c00c786009e5d6a6a972"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0b6278035f8f85dd382f832be384496c30ea0f31&x-sign=56732013505bac6038fd4a7d872303f3&x-time=1780805760"
-                }
-            ]
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Yomiuri Giants",
+            "Team 2 Name": "Chiba Lotte Marines",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
+            "Match Title": "Yomiuri Giants VS Chiba Lotte Marines | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 07-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
         },
         {
             "Category": "Baseball",
@@ -418,21 +424,6 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
             "Match Title": "YOKOHAMA DeNA BAYSTARS VS Fukuoka SoftBank Hawks | NPB",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 07-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "Hanshin Tigers",
-            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-            "Match Title": "Hanshin Tigers VS Tohoku Rakuten Golden Eagles | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 07-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -600,6 +591,36 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APOLYTRON%20Indonesia%20Open&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "1:00 PM 07-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Badminton",
+            "League": "SATHIO GROUP Australian Badminton Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 1 | SATHIO GROUP Australian Badminton Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "8:00 AM 09-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Badminton",
+            "League": "SATHIO GROUP Australian Badminton Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 2 | SATHIO GROUP Australian Badminton Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "8:00 AM 09-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
