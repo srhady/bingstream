@@ -3,10 +3,34 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "1:01:30 AM 09-06-2026"
+        "last_update_time": "1:16:34 AM 09-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "Friendlies",
+            "League": "Friendlies",
+            "Team 1 Name": "France",
+            "Team 2 Name": "Northern Ireland",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/771.png",
+            "Match Title": "France VS Northern Ireland | Friendlies",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ANorthern%20Ireland%0AFriendlies&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=20f06c2f7e4449262159038a2d5c53500b8f6440&x-sign=2b079c65ac963a283d394dc2151beb2f&x-time=1780946160"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1781032598-Kv4cPTAAP5YTi-20f06c2f7e4449262159038a2d5c53500b8f6440-77aeb0e9d014a34083664180da740705"
+                }
+            ]
+        },
         {
             "Category": "WTA 500",
             "League": "WTA 500",
@@ -23,11 +47,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781031692-Kv4cPTAAP5YTi-954d90da95905e198be8f2828082de87f9ef3f89-b266bfea45194b87ea24169b74f665ec"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781032602-Kv4cPTAAP5YTi-20f06c2f7e4449262159038a2d5c53500b8f6440-e86914a388f45b4374a66d17a3e61daa"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=954d90da95905e198be8f2828082de87f9ef3f89&x-sign=7e1508e14ee8065e99e7cb5656d91658&x-time=1780945260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=20f06c2f7e4449262159038a2d5c53500b8f6440&x-sign=a45381284068b573820a41a30af5e46c&x-time=1780946160"
                 }
             ]
         },
@@ -47,39 +71,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1781031696-Kv4cPTAAP5YTi-954d90da95905e198be8f2828082de87f9ef3f89-f959967746d43c3193a833ea6b41e40f"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1781032607-Kv4cPTAAP5YTi-20f06c2f7e4449262159038a2d5c53500b8f6440-7620c3036c688599410ed448e6335b14"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=954d90da95905e198be8f2828082de87f9ef3f89&x-sign=3d3ced68818aad70a3570084c40b307a&x-time=1780945260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=20f06c2f7e4449262159038a2d5c53500b8f6440&x-sign=e066e4a39c37af4977d1ef6c963c0611&x-time=1780946160"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781031697-Kv4cPTAAP5YTi-954d90da95905e198be8f2828082de87f9ef3f89-fa4562185c5dff10be21cccd3a350180"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781032608-Kv4cPTAAP5YTi-20f06c2f7e4449262159038a2d5c53500b8f6440-ccec5f4f9228a79643a0811b1b51d743"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=954d90da95905e198be8f2828082de87f9ef3f89&x-sign=5bffe8428824fa443d2d90f03014dc87&x-time=1780945260"
-                }
-            ]
-        },
-        {
-            "Category": "Friendlies",
-            "League": "Friendlies",
-            "Team 1 Name": "France",
-            "Team 2 Name": "Northern Ireland",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/771.png",
-            "Match Title": "France VS Northern Ireland | Friendlies",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ANorthern%20Ireland%0AFriendlies&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:10 AM 09-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=954d90da95905e198be8f2828082de87f9ef3f89&x-sign=069b846af47a0232cb319ed9154deb20&x-time=1780945260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=20f06c2f7e4449262159038a2d5c53500b8f6440&x-sign=0d990c1579306ab1c6403fead07430b6&x-time=1780946160"
                 }
             ]
         },
@@ -169,6 +173,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=South%20Korea%0AVS%0ACzech%20Republic%0AWorld%20Cup&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 12-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Belgium",
+            "Team 2 Name": "Egypt",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/32.png",
+            "Match Title": "Belgium VS Egypt | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Belgium%0AVS%0AEgypt%0AWorld%20Cup&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 16-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
