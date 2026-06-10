@@ -3,10 +3,42 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "6:46:29 AM 10-06-2026"
+        "last_update_time": "7:01:28 AM 10-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "Friendlies",
+            "League": "Friendlies",
+            "Team 1 Name": "Argentina",
+            "Team 2 Name": "Iceland",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18.png",
+            "Match Title": "Argentina VS Iceland | Friendlies",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Argentina%0AVS%0AIceland%0AFriendlies&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274839/720p/chunks.m3u8?is_vip=false&token=1781139691-Kv4cPTAAP5YTi-1c5ee6fe6245b7a348a69436e7caa3596dbc86ac-03ecef768de3a0cd6020f2cdb6a05267"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274839/720p/chunks.m3u8?is_vip=false&token=1c5ee6fe6245b7a348a69436e7caa3596dbc86ac&x-sign=93cdae40807841c70e8014d190646c6e&x-time=1781053260"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781139691-Kv4cPTAAP5YTi-1c5ee6fe6245b7a348a69436e7caa3596dbc86ac-2e68182519039a30b8a217464c3e631b"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=1c5ee6fe6245b7a348a69436e7caa3596dbc86ac&x-sign=ba98325d6d94e553a39ab5700f8e16c3&x-time=1781053260"
+                }
+            ]
+        },
         {
             "Category": "Badminton",
             "League": "SATHIO GROUP Australian Badminton Open",
@@ -23,11 +55,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781138792-Kv4cPTAAP5YTi-fb54f3ef98240d8ae7c910b7521bd1bd3cd63891-832e6a00ed8d6576316b6687580ee89d"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781139696-Kv4cPTAAP5YTi-1c5ee6fe6245b7a348a69436e7caa3596dbc86ac-0deec05ea21acc23d139a27add84c046"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=fb54f3ef98240d8ae7c910b7521bd1bd3cd63891&x-sign=33395094b683269700f21fdb15bd1730&x-time=1781052360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1c5ee6fe6245b7a348a69436e7caa3596dbc86ac&x-sign=e9d179cb6288b65053c156a73bfdccc6&x-time=1781053260"
                 }
             ]
         },
@@ -47,11 +79,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781138797-Kv4cPTAAP5YTi-fb54f3ef98240d8ae7c910b7521bd1bd3cd63891-285c05bcb59104944fccb6e9999716c3"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781139700-Kv4cPTAAP5YTi-1c5ee6fe6245b7a348a69436e7caa3596dbc86ac-2be22a31b0a556b18bf6600d1882eac1"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=fb54f3ef98240d8ae7c910b7521bd1bd3cd63891&x-sign=b0206cd4a7ca61de927bcf8d6a52c9cc&x-time=1781052360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1c5ee6fe6245b7a348a69436e7caa3596dbc86ac&x-sign=d7d0e42702ee6798d15ed4bddbd3cf4f&x-time=1781053260"
                 }
             ]
         },
@@ -71,11 +103,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781138802-Kv4cPTAAP5YTi-fb54f3ef98240d8ae7c910b7521bd1bd3cd63891-8705143565b157edd669819f43a377d4"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781139705-Kv4cPTAAP5YTi-1c5ee6fe6245b7a348a69436e7caa3596dbc86ac-6e7a293dc931cacc0550f9b18155e00c"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=fb54f3ef98240d8ae7c910b7521bd1bd3cd63891&x-sign=73344929590515c0ba9e4ae68275c6ba&x-time=1781052360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1c5ee6fe6245b7a348a69436e7caa3596dbc86ac&x-sign=cea631eb80cec9b001d9650e0be06adc&x-time=1781053260"
                 }
             ]
         },
@@ -95,43 +127,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781138807-Kv4cPTAAP5YTi-fb54f3ef98240d8ae7c910b7521bd1bd3cd63891-7016d123b865a365f6cbfc2cea58d442"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781139710-Kv4cPTAAP5YTi-1c5ee6fe6245b7a348a69436e7caa3596dbc86ac-5af889b92b52822470b676b5312f6b9f"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=fb54f3ef98240d8ae7c910b7521bd1bd3cd63891&x-sign=b1289676b0f565d7bb74dc1bf96ac776&x-time=1781052360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=1c5ee6fe6245b7a348a69436e7caa3596dbc86ac&x-sign=07b77d741165639dbcd42b319b121ec0&x-time=1781053260"
                 }
             ]
         },
         {
-            "Category": "Friendlies",
+            "Category": "Football",
             "League": "Friendlies",
-            "Team 1 Name": "Argentina",
-            "Team 2 Name": "Iceland",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18.png",
-            "Match Title": "Argentina VS Iceland | Friendlies",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Argentina%0AVS%0AIceland%0AFriendlies&font=Oswald",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Ecuador VS Guatemale | Friendlies",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ecuador%0AVS%0AGuatemale%0AFriendlies&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "7:00 AM 10-06-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274839/720p/chunks.m3u8?is_vip=false&token=1781138813-Kv4cPTAAP5YTi-fb54f3ef98240d8ae7c910b7521bd1bd3cd63891-a2dc60a7750569e407424903f5d68f02"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1781139715-Kv4cPTAAP5YTi-1c5ee6fe6245b7a348a69436e7caa3596dbc86ac-a44b3d9a4902cd326890ea3f22cd2508"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274839/720p/chunks.m3u8?is_vip=false&token=fb54f3ef98240d8ae7c910b7521bd1bd3cd63891&x-sign=0604a8505265dcb9dd56e284ded84723&x-time=1781052360"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781138814-Kv4cPTAAP5YTi-fb54f3ef98240d8ae7c910b7521bd1bd3cd63891-1c8b8133ba29fae3af94447328d1ed94"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=fb54f3ef98240d8ae7c910b7521bd1bd3cd63891&x-sign=abb9d464cb5de4be3f3f021e4257ca21&x-time=1781052360"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1c5ee6fe6245b7a348a69436e7caa3596dbc86ac&x-sign=e785917fb1d84d7cc12f5b97e50f8414&x-time=1781053260"
                 }
             ]
         },
@@ -226,28 +250,19 @@
             "Stream URL": []
         },
         {
-            "Category": "Football",
-            "League": "Friendlies",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Ecuador VS Guatemale | Friendlies",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ecuador%0AVS%0AGuatemale%0AFriendlies&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "7:00 AM 10-06-2026",
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Qatar",
+            "Team 2 Name": "Switzerland",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1569.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15.png",
+            "Match Title": "Qatar VS Switzerland | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 14-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1781138818-Kv4cPTAAP5YTi-fb54f3ef98240d8ae7c910b7521bd1bd3cd63891-b106b140ce6afeed69f0e303d57caf23"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=fb54f3ef98240d8ae7c910b7521bd1bd3cd63891&x-sign=a954282c35b91e55a00f25bb7227bead&x-time=1781052360"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Football",
@@ -340,6 +355,21 @@
             "Stream URL": []
         },
         {
+            "Category": "Football",
+            "League": "Tournoi Maurice Revello",
+            "Team 1 Name": "Portugal U20",
+            "Team 2 Name": "Canada U20",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10299.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10992.png",
+            "Match Title": "Portugal U20 VS Canada U20 | Tournoi Maurice Revello",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Portugal%20U20%0AVS%0ACanada%20U20%0ATournoi%20Maurice%20Revello&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 PM 11-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
             "Category": "Tennis",
             "League": "Ilkley Open",
             "Team 1 Name": "",
@@ -402,12 +432,12 @@
         {
             "Category": "Baseball",
             "League": "NPB Farm Leagues",
-            "Team 1 Name": "Yomiuri Giants",
-            "Team 2 Name": "Saitama Seibu Lions",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Match Title": "Yomiuri Giants VS Saitama Seibu Lions | NPB Farm Leagues",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0ASaitama%20Seibu%20Lions%0ANPB%20Farm%20Leagues&font=Oswald",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Oisix Niigata VS Chiba Lotte Marines | NPB Farm Leagues",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Oisix%20Niigata%0AVS%0AChiba%20Lotte%20Marines%0ANPB%20Farm%20Leagues&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 10-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -417,12 +447,12 @@
         {
             "Category": "Baseball",
             "League": "NPB Farm Leagues",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Oisix Niigata VS Chiba Lotte Marines | NPB Farm Leagues",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Oisix%20Niigata%0AVS%0AChiba%20Lotte%20Marines%0ANPB%20Farm%20Leagues&font=Oswald",
+            "Team 1 Name": "Yomiuri Giants",
+            "Team 2 Name": "Saitama Seibu Lions",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+            "Match Title": "Yomiuri Giants VS Saitama Seibu Lions | NPB Farm Leagues",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0ASaitama%20Seibu%20Lions%0ANPB%20Farm%20Leagues&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 10-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -541,8 +571,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 2 | SATHIO GROUP Australian Badminton Open",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald",
+            "Match Title": "Court 4 | SATHIO GROUP Australian Badminton Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 11-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -556,8 +586,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 1 | SATHIO GROUP Australian Badminton Open",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald",
+            "Match Title": "Court 2 | SATHIO GROUP Australian Badminton Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 11-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
