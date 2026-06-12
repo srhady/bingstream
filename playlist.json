@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "2:31:28 PM 12-06-2026"
+        "last_update_time": "2:46:36 PM 12-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
@@ -23,11 +23,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781339491-Kv4cPTAAP5YTi-e6ef2b5e8581ce7862d81197bf0dd2abcd717df5-9ad07d7cee43c39d308728db36ea97fd"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781340400-Kv4cPTAAP5YTi-b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d-18860ca4e74baeecd85ab76b2cf9dad7"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=e6ef2b5e8581ce7862d81197bf0dd2abcd717df5&x-sign=e80ae414a85df723690c6a5e9ddbc27c&x-time=1781253060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d&x-sign=6fe4da98e43ca9d476838e0c762a7115&x-time=1781253960"
                 }
             ]
         },
@@ -205,11 +205,20 @@
             "Team 2 Logo": "",
             "Match Title": "Day 5 | Libema Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0ALibema%20Open&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "3:00 PM 12-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781340405-Kv4cPTAAP5YTi-b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d-2f64e77e8980f785daf4c61041e9d63b"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d&x-sign=3f33b37c6c909337396c5cf9aa3866fa&x-time=1781253960"
+                }
+            ]
         },
         {
             "Category": "Tennis",
@@ -220,11 +229,20 @@
             "Team 2 Logo": "",
             "Match Title": "Day 5 | BOSS Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0ABOSS%20Open&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "3:00 PM 12-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781340410-Kv4cPTAAP5YTi-b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d-8ab5c422107594de296b66c4e5f015b8"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d&x-sign=eb5fa2a784b6252aa592aa4c64deb719&x-time=1781253960"
+                }
+            ]
         },
         {
             "Category": "Tennis",
@@ -244,17 +262,50 @@
         {
             "Category": "Baseball",
             "League": "NPB",
+            "Team 1 Name": "Chiba Lotte Marines",
+            "Team 2 Name": "YOKOHAMA DeNA BAYSTARS",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
+            "Match Title": "Chiba Lotte Marines VS YOKOHAMA DeNA BAYSTARS | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Chiba%20Lotte%20Marines%0AVS%0AYOKOHAMA%20DeNA%20BAYSTARS%0ANPB&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "3:00 PM 12-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781340416-Kv4cPTAAP5YTi-b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d-ddbb5167a49f51cdd63a3e9f767cb819"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d&x-sign=9a852b12ba8e8fdd11fcf69a720d9088&x-time=1781253960"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
             "Team 1 Name": "Hanshin Tigers",
             "Team 2 Name": "ORIX Buffaloes",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
             "Match Title": "Hanshin Tigers VS ORIX Buffaloes | NPB",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "3:00 PM 12-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781340422-Kv4cPTAAP5YTi-b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d-8a0207a42a13eee17e10c610ce856850"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d&x-sign=94cf37996fe660e36e8bb951ff59ea02&x-time=1781254020"
+                }
+            ]
         },
         {
             "Category": "Baseball",
@@ -265,26 +316,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
             "Match Title": "Hokkaido Nippon-Ham Fighters VS Chunichi Dragons | NPB",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "3:00 PM 12-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "Tohoku Rakuten Golden Eagles",
-            "Team 2 Name": "Hiroshima Toyo Carp",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/7b0c05fcc03704ec009066c7790b7fd0.png",
-            "Match Title": "Tohoku Rakuten Golden Eagles VS Hiroshima Toyo Carp | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "3:00 PM 12-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781340428-Kv4cPTAAP5YTi-b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d-60b9332c50b086168bb72ea1ff537f05"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=b76881e0c23b5cfdb5ba15f4b328fa215d58ba0d&x-sign=93fab508a36f465ad1c8e08b050fead3&x-time=1781254020"
+                }
+            ]
         },
         {
             "Category": "Auto Racing",
@@ -327,6 +372,36 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%2C%20Spain%0AFIA%20Formula%202%20Championship%20Qualifying&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "7:50 PM 12-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Cycling",
+            "League": "UCI World Tour",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "ES1, Tour Auvergne-Rhône-Alpes, Stage 6 | UCI World Tour",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20Tour%20Auvergne-Rh%C3%B4ne-Alpes%2C%20Stage%206%0AUCI%20World%20Tour&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "7:20 PM 12-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Cycling",
+            "League": "UCI Mountain Bike World Series",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Cross-country Short Track: Leogang | UCI Mountain Bike World Series",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cross-country%20Short%20Track%3A%20Leogang%0AUCI%20Mountain%20Bike%20World%20Series&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "9:15 PM 12-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -385,21 +460,6 @@
             "Team 2 Logo": "",
             "Match Title": "Court 2 | SANDS CHINA LTD Macau Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "9:00 AM 16-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Badminton",
-            "League": "SANDS CHINA LTD Macau Open",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Court 3 | SANDS CHINA LTD Macau Open",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "9:00 AM 16-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
