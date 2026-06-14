@@ -3,19 +3,19 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "6:46:32 AM 14-06-2026"
+        "last_update_time": "7:01:32 AM 14-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
         {
-            "Category": "Auto Racing",
-            "League": "FIA World Endurance Championship",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "FIA WEC, Le Mans 24hours, Race, part 1 | FIA World Endurance Championship",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Race%2C%20part%201%0AFIA%20World%20Endurance%20Championship&font=Oswald",
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Haiti",
+            "Team 2 Name": "Scotland",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2386.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1108.png",
+            "Match Title": "Haiti VS Scotland | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Haiti%0AVS%0AScotland%0AWorld%20Cup&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -23,11 +23,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781484395-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-2b51005976007bd3de1797795f13a797"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781485295-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-201aef38c6b42bb7bb48a076f63e4936"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=2f4d2ae929bebbb379231171f118f8ca&x-time=1781397960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=0a2a934c4da70adf0583c7f4aa264ab3&x-time=1781398860"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544568/720p/chunks.m3u8?is_vip=false&token=1781485296-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-a514bce53a4f1df897c5c0171f8d5f21"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544568/720p/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=922e86f13bd56c0b74d197ad63aca1b1&x-time=1781398860"
                 }
             ]
         },
@@ -47,35 +55,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e74/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=9da2d9a063081f194e0636943fb4b433&x-time=1781397960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e74/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=524d37d19872ec93111d7f3b17e67373&x-time=1781398860"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e74/chunks.m3u8?is_vip=false&token=1781484400-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-05a10be52e04c0411b07ac62f3531215"
-                }
-            ]
-        },
-        {
-            "Category": "USL Championship",
-            "League": "USL Championship",
-            "Team 1 Name": "Lexington",
-            "Team 2 Name": "San Antonio",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20808.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4017.png",
-            "Match Title": "Lexington VS San Antonio | USL Championship",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lexington%0AVS%0ASan%20Antonio%0AUSL%20Championship&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aee/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=2eb51504323db4e9266f88ecb73c637a&x-time=1781397960"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aee/chunks.m3u8?is_vip=false&token=1781484405-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-8a66948a3abebe0bc8c35bfe2002e8c7"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e74/chunks.m3u8?is_vip=false&token=1781485302-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-c028313be6b193dc5422c50d5d56c1a2"
                 }
             ]
         },
@@ -95,11 +79,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aef/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=1dca1d419742951bd53b7c7d832915f5&x-time=1781397960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aef/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=613a1d8699b2b201babc0bdbb631d38f&x-time=1781398860"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aef/chunks.m3u8?is_vip=false&token=1781484409-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-176fff03a53805a9040bbb867c70091f"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aef/chunks.m3u8?is_vip=false&token=1781485307-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-6f3726c303e8331c49af925aa0074606"
                 }
             ]
         },
@@ -119,11 +103,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dccb/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=68472aa5dd47c04d9a0db96fd77c5786&x-time=1781397960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dccb/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=de71e25f8431ee24e6ce5a73329a269e&x-time=1781398860"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dccb/chunks.m3u8?is_vip=false&token=1781484414-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-db2731580bffdd0e471de4f973292213"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dccb/chunks.m3u8?is_vip=false&token=1781485313-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-a0b704297ac2dc9e64f4405513ea0c61"
                 }
             ]
         },
@@ -143,11 +127,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af0/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=72c4c6ab4a41dd9a2a047f6e3e368dfd&x-time=1781397960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af0/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=0945f0dcfe8028ff1f2effc4ced3a347&x-time=1781398860"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af0/chunks.m3u8?is_vip=false&token=1781484419-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-025952cfbb689204b81149532720d4f5"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af0/chunks.m3u8?is_vip=false&token=1781485318-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-54219c2825e545ecd9921a776375bb22"
                 }
             ]
         },
@@ -167,11 +151,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af1/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=3c64061c0507aeaf4bee460587052548&x-time=1781398020"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af1/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=68aade660179788d185f64b575cf75ea&x-time=1781398920"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af1/chunks.m3u8?is_vip=false&token=1781484423-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-d668013682f3fe5cae8f0954ff05851c"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af1/chunks.m3u8?is_vip=false&token=1781485324-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-38022949c2c569f1bf2aecd895ac5ed1"
                 }
             ]
         },
@@ -191,23 +175,23 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af3/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=89c816b09796bba076abdff818f230a2&x-time=1781398020"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af3/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=3f82abd5c99f93ca7b17e8c565a1fbdf&x-time=1781398920"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af3/chunks.m3u8?is_vip=false&token=1781484428-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-b1a15af27d9956c438450be587aa8e94"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af3/chunks.m3u8?is_vip=false&token=1781485329-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-b5b2de4381b150da80a6852a18abf793"
                 }
             ]
         },
         {
-            "Category": "MLS Next Pro",
-            "League": "MLS Next Pro",
-            "Team 1 Name": "Carolina Core",
-            "Team 2 Name": "Crown Legacy",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23063.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21139.png",
-            "Match Title": "Carolina Core VS Crown Legacy | MLS Next Pro",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Carolina%20Core%0AVS%0ACrown%20Legacy%0AMLS%20Next%20Pro&font=Oswald",
+            "Category": "MMA",
+            "League": "MMA",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "COMBAT FC 13 | MMA",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=COMBAT%20FC%2013%0AMMA&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -215,43 +199,59 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dce6/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=ddffdba3b0eaadfa8f4f565277dfea49&x-time=1781398020"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1781485334-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-a4187f990c61eba4384a3ca94eea0a9c"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dce6/chunks.m3u8?is_vip=false&token=1781484433-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-070518a4a941aec031740aefe58be98b"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=7e390765c446f13b697dee556a1b000b&x-time=1781398920"
                 }
             ]
         },
         {
-            "Category": "World Cup",
-            "League": "World Cup",
-            "Team 1 Name": "Haiti",
-            "Team 2 Name": "Scotland",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2386.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1108.png",
-            "Match Title": "Haiti VS Scotland | World Cup",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Haiti%0AVS%0AScotland%0AWorld%20Cup&font=Oswald",
+            "Category": "Auto Racing",
+            "League": "FIA World Endurance Championship",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "FIA WEC, Le Mans 24hours, Race, part 2 | FIA World Endurance Championship",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Race%2C%20part%202%0AFIA%20World%20Endurance%20Championship&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "7:00 AM 14-06-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781484437-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-6f62b707f4c74c0f8060de064ffa0318"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781485339-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-50a9275cc4bf199d856d0d4be4f37755"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=5a45de6eaaf5b00d7f66500142839440&x-time=1781398020"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=eacc840ca4f16319b745f1da13094866&x-time=1781398920"
+                }
+            ]
+        },
+        {
+            "Category": "USL Championship",
+            "League": "USL Championship",
+            "Team 1 Name": "El Paso Locomotive",
+            "Team 2 Name": "Phoenix Rising",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3993.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4009.png",
+            "Match Title": "El Paso Locomotive VS Phoenix Rising | USL Championship",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=El%20Paso%20Locomotive%0AVS%0APhoenix%20Rising%0AUSL%20Championship&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af8/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=45912da53c2d39d3f29897b873a64e5a&x-time=1781398920"
                 },
                 {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544568/720p/chunks.m3u8?is_vip=false&token=1781484438-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-58e2cf4bf9ce086ea830242f72ea0a6c"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544568/720p/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=ae3156e0edb310f7547fc88628a6aaed&x-time=1781398020"
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0af8/chunks.m3u8?is_vip=false&token=1781485346-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-7d4fe6d27ec79392364efedab8b08edc"
                 }
             ]
         },
@@ -347,6 +347,21 @@
         },
         {
             "Category": "Football",
+            "League": "World Cup",
+            "Team 1 Name": "Belgium",
+            "Team 2 Name": "Egypt",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/32.png",
+            "Match Title": "Belgium VS Egypt | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Belgium%0AVS%0AEgypt%0AWorld%20Cup&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 16-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
             "League": "USL Championship",
             "Team 1 Name": "Sporting JAX",
             "Team 2 Name": "Detroit City",
@@ -361,11 +376,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aed/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=076323dc12c26d93228f237cb767cb50&x-time=1781398020"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aed/chunks.m3u8?is_vip=false&token=29ebae85fb8e4b348eb1eab58aa2c233c0d8532f&x-sign=4da0f03597eea59b6c63ef8e44a94ab2&x-time=1781398920"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aed/chunks.m3u8?is_vip=false&token=1781484442-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-10bb92dca7381bd28eb4aab9a07a8460"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aed/chunks.m3u8?is_vip=false&token=1781485351-Kv4cPTAAP5YTi-29ebae85fb8e4b348eb1eab58aa2c233c0d8532f-f259aae6f35fb698f02d441087b5e631"
                 }
             ]
         },
@@ -402,21 +417,6 @@
         {
             "Category": "Football",
             "League": "World Cup",
-            "Team 1 Name": "Belgium",
-            "Team 2 Name": "Egypt",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/32.png",
-            "Match Title": "Belgium VS Egypt | World Cup",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Belgium%0AVS%0AEgypt%0AWorld%20Cup&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "1:00 AM 16-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "World Cup",
             "Team 1 Name": "Saudi Arabia",
             "Team 2 Name": "Uruguay",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23.png",
@@ -446,13 +446,13 @@
         },
         {
             "Category": "Tennis",
-            "League": "Libema Open",
+            "League": "Ilkley Open",
             "Team 1 Name": "",
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Final | Libema Open",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Final%0ALibema%20Open&font=Oswald",
+            "Match Title": "Day 7 | Ilkley Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AIlkley%20Open&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 PM 14-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -461,13 +461,13 @@
         },
         {
             "Category": "Tennis",
-            "League": "Ilkley Open",
+            "League": "Libema Open",
             "Team 1 Name": "",
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Day 7 | Ilkley Open",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AIlkley%20Open&font=Oswald",
+            "Match Title": "Final | Libema Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Final%0ALibema%20Open&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 PM 14-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -492,12 +492,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
-            "Team 2 Name": "Chunichi Dragons",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
-            "Match Title": "Hokkaido Nippon-Ham Fighters VS Chunichi Dragons | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald",
+            "Team 1 Name": "Hanshin Tigers",
+            "Team 2 Name": "ORIX Buffaloes",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+            "Match Title": "Hanshin Tigers VS ORIX Buffaloes | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 14-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -522,12 +522,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Hanshin Tigers",
-            "Team 2 Name": "ORIX Buffaloes",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-            "Match Title": "Hanshin Tigers VS ORIX Buffaloes | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald",
+            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 2 Name": "Chunichi Dragons",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
+            "Match Title": "Hokkaido Nippon-Ham Fighters VS Chunichi Dragons | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 14-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -541,22 +541,13 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "FIA WEC, Le Mans 24hours, Race, part 2 | FIA World Endurance Championship",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Race%2C%20part%202%0AFIA%20World%20Endurance%20Championship&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "7:00 AM 14-06-2026",
+            "Match Title": "FIA WEC, Le Mans 24hours, Race, part 1 | FIA World Endurance Championship",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Race%2C%20part%201%0AFIA%20World%20Endurance%20Championship&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "7:00 PM 13-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781484447-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-8abf48edfb2d74ca3f8b630e60968617"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=6ea00f0e7763119ae4c140da0d427e4a&x-time=1781398020"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Auto Racing",
@@ -587,30 +578,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
-        },
-        {
-            "Category": "MMA",
-            "League": "MMA",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "COMBAT FC 13 | MMA",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=COMBAT%20FC%2013%0AMMA&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "7:00 AM 14-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1781484451-Kv4cPTAAP5YTi-e545a3be1c60a38ccee354fa31d4a6339413a46a-4f6cb555aae2a4c1823f77724ee01d77"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=e545a3be1c60a38ccee354fa31d4a6339413a46a&x-sign=1eec7e343f79c088947306c9ca14b5da&x-time=1781398020"
-                }
-            ]
         },
         {
             "Category": "MMA",
