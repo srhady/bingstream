@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "6:31:31 AM 17-06-2026"
+        "last_update_time": "6:46:31 AM 17-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
@@ -23,11 +23,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=49cf05cf2cd24561558416fa20668e0ad37bc3bc&x-sign=9d09eabfe29e6acc3b613668992b46ae&x-time=1781656260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=88d3cb47e07137192b3fd7d440103613&x-time=1781657160"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=1781742694-Kv4cPTAAP5YTi-49cf05cf2cd24561558416fa20668e0ad37bc3bc-cdb0ef38486d2611fb26afdc96e2890a"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=1781743594-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-3fbf8a0b6e9d3166a572c3f91f6437e4"
                 }
             ]
         },
@@ -40,11 +40,28 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1532.png",
             "Match Title": "Argentina VS Algeria | World Cup",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Argentina%0AVS%0AAlgeria%0AWorld%20Cup&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "7:00 AM 17-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=dad000d4d10dbf415d93f146a70ca574&x-time=1781657160"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781743598-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-73afd3b9b7de653ed7b9163e4e3eafd8"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781743599-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-5b8f8e3586e6ca3d238814bd854fa7c5"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=068226885184ecd7cc8d8210ccabded0&x-time=1781657160"
+                }
+            ]
         },
         {
             "Category": "Football",
