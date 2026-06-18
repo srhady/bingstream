@@ -3,10 +3,34 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "9:01:41 PM 18-06-2026"
+        "last_update_time": "9:16:41 PM 18-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "Badminton",
+            "League": "SANDS CHINA LTD Macau Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 1 | SANDS CHINA LTD Macau Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781882204-Kv4cPTAAP5YTi-33f5438fa11eca24e866ea7bb57c4a794c0f4529-b871b740f7da852785f9e622c64b95e4"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=33f5438fa11eca24e866ea7bb57c4a794c0f4529&x-sign=a5a320312eaa8285daef64e0471a15b7&x-time=1781795760"
+                }
+            ]
+        },
         {
             "Category": "Tennis",
             "League": "Berlin Open",
@@ -23,11 +47,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781881304-Kv4cPTAAP5YTi-044bd9e2c426b8b5e68b9299a1ff49e98a4abddb-6f5441093f7c42fe26356c702961e9e6"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781882209-Kv4cPTAAP5YTi-33f5438fa11eca24e866ea7bb57c4a794c0f4529-3afe342736efb71f53aa24130cc4dec9"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=044bd9e2c426b8b5e68b9299a1ff49e98a4abddb&x-sign=cb3a2982b73bb3fab50b48c4c07fd102&x-time=1781794860"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=33f5438fa11eca24e866ea7bb57c4a794c0f4529&x-sign=8d8e190851e120dcd6e73ba9f6f2f140&x-time=1781795760"
                 }
             ]
         },
@@ -47,7 +71,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=044bd9e2c426b8b5e68b9299a1ff49e98a4abddb&x-sign=f5f76b2582832ba06cd0435da18ef989&x-time=1781794860"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=33f5438fa11eca24e866ea7bb57c4a794c0f4529&x-sign=f2d0b6b0539d7de356e1d2d71acffb34&x-time=1781795760"
                 }
             ]
         },
@@ -67,35 +91,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1781881314-Kv4cPTAAP5YTi-044bd9e2c426b8b5e68b9299a1ff49e98a4abddb-a7036d64de85c323e22835f9fee4eba6"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1781882219-Kv4cPTAAP5YTi-33f5438fa11eca24e866ea7bb57c4a794c0f4529-ef2a5b0a6dc4befbe793c0a284b0c0cc"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=044bd9e2c426b8b5e68b9299a1ff49e98a4abddb&x-sign=a9bfe9805e1d992430a65d857a3fa2df&x-time=1781794860"
-                }
-            ]
-        },
-        {
-            "Category": "Nations League",
-            "League": "Nations League",
-            "Team 1 Name": "Serbia",
-            "Team 2 Name": "Italy",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/768.png",
-            "Match Title": "Serbia VS Italy | Nations League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Serbia%0AVS%0AItaly%0ANations%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781881319-Kv4cPTAAP5YTi-044bd9e2c426b8b5e68b9299a1ff49e98a4abddb-061ab16b246f0aaff12686f469daa8be"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=044bd9e2c426b8b5e68b9299a1ff49e98a4abddb&x-sign=d0c076eb878936eafaba9ca908356bed&x-time=1781794860"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=33f5438fa11eca24e866ea7bb57c4a794c0f4529&x-sign=cb8727992d3d1cff07e36ec1722df645&x-time=1781795760"
                 }
             ]
         },
@@ -115,7 +115,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=044bd9e2c426b8b5e68b9299a1ff49e98a4abddb&x-sign=1eb27100a1dbd6ea360189ed3f80b8bb&x-time=1781794920"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=33f5438fa11eca24e866ea7bb57c4a794c0f4529&x-sign=28a919a4180a4830724f62d8d1e353cc&x-time=1781795820"
                 }
             ]
         },
@@ -549,7 +549,7 @@
             "Match Title": "Türkiye VS France | Nations League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=T%C3%BCrkiye%0AVS%0AFrance%0ANations%20League&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "11:30 PM 18-06-2026",
+            "Start Time": "10:30 PM 18-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
