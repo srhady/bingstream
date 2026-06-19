@@ -3,10 +3,50 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:46:30 AM 20-06-2026"
+        "last_update_time": "1:01:37 AM 20-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "Football",
+            "League": "World Cup",
+            "Team 1 Name": "USA",
+            "Team 2 Name": "Australia",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2384.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20.png",
+            "Match Title": "USA VS Australia | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=USA%0AVS%0AAustralia%0AWorld%20Cup&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781982100-Kv4cPTAAP5YTi-9b87f9ce44e97fe2cd58a2afd9757db5a38c5505-52227ed851d480210b68d21f4caf461a"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9b87f9ce44e97fe2cd58a2afd9757db5a38c5505&x-sign=05ae960ef27d3bb0981130905b19587b&x-time=1781895660"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=9b87f9ce44e97fe2cd58a2afd9757db5a38c5505&x-sign=ab711eda073a969bfcc53b3053cd9031&x-time=1781895660"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1781982101-Kv4cPTAAP5YTi-9b87f9ce44e97fe2cd58a2afd9757db5a38c5505-9ee85a6d7dfc6d74fc514e5ad9d768e1"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-cnhd2/chunks.m3u8?is_vip=false&token=9b87f9ce44e97fe2cd58a2afd9757db5a38c5505&x-sign=7b65480e0a42f6257e69fe5edb53d632&x-time=1781895660"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-cnhd2/chunks.m3u8?is_vip=false&token=1781982101-Kv4cPTAAP5YTi-9b87f9ce44e97fe2cd58a2afd9757db5a38c5505-70d55b9bf31f0e8e129bed5c15a0ce1f"
+                }
+            ]
+        },
         {
             "Category": "Terra Wortmann Open",
             "League": "Terra Wortmann Open",
@@ -23,31 +63,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=01bd12a32e34a44a0efc93f084b8c513&x-time=1781894760"
-                }
-            ]
-        },
-        {
-            "Category": "Tennis",
-            "League": "HSBC Championships",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "ANDY MURRAY ARENA | HSBC Championships",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=ANDY%20MURRAY%20ARENA%0AHSBC%20Championships&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1781981197-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-05cd90a8331efbcf24dd145a93e46300"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=79972afcafd6010b321bde0e78ad6537&x-time=1781894760"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=9b87f9ce44e97fe2cd58a2afd9757db5a38c5505&x-sign=48e4c2ba96487e1b4f918b61ca0983f1&x-time=1781895660"
                 }
             ]
         },
@@ -67,43 +83,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781981201-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-e057f5546d777e26c5aa0f85f43cfec9"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781982110-Kv4cPTAAP5YTi-9b87f9ce44e97fe2cd58a2afd9757db5a38c5505-ee80c47fa174aa73383d5e0d0d611808"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=7b6c3342c3f7101be06411409cf23517&x-time=1781894760"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=9b87f9ce44e97fe2cd58a2afd9757db5a38c5505&x-sign=38c291b007218654013641d330614d72&x-time=1781895660"
                 }
             ]
         },
         {
-            "Category": "Football",
-            "League": "World Cup",
-            "Team 1 Name": "USA",
-            "Team 2 Name": "Australia",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2384.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20.png",
-            "Match Title": "USA VS Australia | World Cup",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=USA%0AVS%0AAustralia%0AWorld%20Cup&font=Oswald",
+            "Category": "MMA",
+            "League": "MMA",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "CAGE WARRIORS 206: UNPLUGGED | MMA",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=CAGE%20WARRIORS%20206%3A%20UNPLUGGED%0AMMA&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "1:00 AM 20-06-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781981206-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-3d6ba04f81e3da4c40ac4b7e2ede1cd9"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1781982115-Kv4cPTAAP5YTi-9b87f9ce44e97fe2cd58a2afd9757db5a38c5505-2bb51a53cf8ae14808757e424992862f"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=9cbe009283c1a3c30c274a10f500b9d4&x-time=1781894760"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=02a11dfbc2f7cf98f66375f0a0059f95&x-time=1781894760"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1781981207-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-53bb95462210f805850eaae9763fc9d9"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=9b87f9ce44e97fe2cd58a2afd9757db5a38c5505&x-sign=cdbcc996c3cae906c7efede5f4cb7f23&x-time=1781895660"
                 }
             ]
         },
@@ -193,6 +201,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ecuador%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "6:00 AM 21-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Tunisia",
+            "Team 2 Name": "Japan",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/28.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12.png",
+            "Match Title": "Tunisia VS Japan | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tunisia%0AVS%0AJapan%0AWorld%20Cup&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "10:00 AM 21-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -290,42 +313,42 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Saitama Seibu Lions",
-            "Team 2 Name": "ORIX Buffaloes",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-            "Match Title": "Saitama Seibu Lions VS ORIX Buffaloes | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 20-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "Tokyo Yakult Swallows",
-            "Team 2 Name": "Hiroshima Toyo Carp",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/7b0c05fcc03704ec009066c7790b7fd0.png",
-            "Match Title": "Tokyo Yakult Swallows VS Hiroshima Toyo Carp | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 20-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Baseball",
-            "League": "NPB",
             "Team 1 Name": "Yomiuri Giants",
             "Team 2 Name": "Chunichi Dragons",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
             "Match Title": "Yomiuri Giants VS Chunichi Dragons | NPB",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 20-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 2 Name": "Fukuoka SoftBank Hawks",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
+            "Match Title": "Hokkaido Nippon-Ham Fighters VS Fukuoka SoftBank Hawks | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 20-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Saitama Seibu Lions",
+            "Team 2 Name": "ORIX Buffaloes",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+            "Match Title": "Saitama Seibu Lions VS ORIX Buffaloes | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 20-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -376,30 +399,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
-        },
-        {
-            "Category": "MMA",
-            "League": "MMA",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "CAGE WARRIORS 206: UNPLUGGED | MMA",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=CAGE%20WARRIORS%20206%3A%20UNPLUGGED%0AMMA&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 20-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1781981211-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-ce94ebee71778bf7ee56c439f631bcdf"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=dfa76a3293c87533c618353a576d1743&x-time=1781894760"
-                }
-            ]
         },
         {
             "Category": "MMA",
