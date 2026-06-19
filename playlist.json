@@ -3,19 +3,19 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "3:46:30 AM 20-06-2026"
+        "last_update_time": "4:01:29 AM 20-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
         {
-            "Category": "Terra Wortmann Open",
-            "League": "Terra Wortmann Open",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Day 7: Halle Germany | Terra Wortmann Open",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%207%3A%20Halle%20Germany%0ATerra%20Wortmann%20Open&font=Oswald",
+            "Category": "Football",
+            "League": "World Cup",
+            "Team 1 Name": "Scotland",
+            "Team 2 Name": "Morocco",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1108.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/31.png",
+            "Match Title": "Scotland VS Morocco | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Scotland%0AVS%0AMorocco%0AWorld%20Cup&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -23,7 +23,51 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=a3afd18917a72ec20b88fbf2a16c4713e59f28be&x-sign=2377a46b8af94949f6350b24cca85f8a&x-time=1781905560"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781992892-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-0953de3147270a8709ebcdea8fedc4dc"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=70e58c6a761b629582f5892fdb77017f&x-time=1781906460"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=0d4b2482b4b48c896e1613b85544a97d&x-time=1781906460"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781992893-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-ef214f4516dde538f885e2cc4970fe99"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=530f6dab848478791f95f501a7123cc9&x-time=1781906460"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2/chunks.m3u8?is_vip=false&token=1781992894-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-0c8d782a8254fc1ba24692e69bee21a0"
+                },
+                {
+                    "server_name": "Server 7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2-hd/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=cc0f93f2cd3ba1403d5a779cd35525d9&x-time=1781906460"
+                },
+                {
+                    "server_name": "Server 8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2-hd/chunks.m3u8?is_vip=false&token=1781992894-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-7dc9706ae696528264d54d112c5c189b"
+                },
+                {
+                    "server_name": "Server 9",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2-cnhd/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=ed40ffd23f63ae5a26ebc99ab50fc748&x-time=1781906460"
+                },
+                {
+                    "server_name": "Server 10",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2-cnhd/chunks.m3u8?is_vip=false&token=1781992895-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-865b84a6321e0808edba8a7a1e8da231"
+                },
+                {
+                    "server_name": "Server 11",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2-cnhd2/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=305584c1bd2557e86c335129789b35a1&x-time=1781906460"
+                },
+                {
+                    "server_name": "Server 12",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2-cnhd2/chunks.m3u8?is_vip=false&token=1781992895-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-1c1fbb5d9cc720a8dd668bad8f5014c0"
                 }
             ]
         },
@@ -43,11 +87,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781991997-Kv4cPTAAP5YTi-a3afd18917a72ec20b88fbf2a16c4713e59f28be-d4d80c7406e1d098aee31956cc8228b1"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781992900-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-c2a21553de0467fa58c797cc5d50899a"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=a3afd18917a72ec20b88fbf2a16c4713e59f28be&x-sign=362b2e24194787dd36e7ee50be0c9151&x-time=1781905560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=eed7b47b82038b4db024e07147f1d035&x-time=1781906460"
                 }
             ]
         },
@@ -67,51 +111,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1781992002-Kv4cPTAAP5YTi-a3afd18917a72ec20b88fbf2a16c4713e59f28be-f23aac84ae40fe6804cc5a8619e045bf"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1781992904-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-21cc1c4a0cd4ea02f13ab63a7f52a701"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=a3afd18917a72ec20b88fbf2a16c4713e59f28be&x-sign=f39133ab4959f59d06116038b49dbb38&x-time=1781905560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=6abda91dfcf90e55be84e56aecc9839c&x-time=1781906460"
                 }
             ]
         },
         {
-            "Category": "Football",
-            "League": "World Cup",
-            "Team 1 Name": "Scotland",
-            "Team 2 Name": "Morocco",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1108.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/31.png",
-            "Match Title": "Scotland VS Morocco | World Cup",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Scotland%0AVS%0AMorocco%0AWorld%20Cup&font=Oswald",
+            "Category": "Primera B Metropolitana",
+            "League": "Primera B Metropolitana",
+            "Team 1 Name": "Ituzaingó",
+            "Team 2 Name": "Liniers",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8386.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8395.png",
+            "Match Title": "Ituzaingó VS Liniers | Primera B Metropolitana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ituzaing%C3%B3%0AVS%0ALiniers%0APrimera%20B%20Metropolitana&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "4:00 AM 20-06-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781992006-Kv4cPTAAP5YTi-a3afd18917a72ec20b88fbf2a16c4713e59f28be-09e2596a86d43b4a25ffa4fc55db5f5e"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1150/chunks.m3u8?is_vip=false&token=1607ad4455801464d829898b80423a8bd60112d3&x-sign=781b71b1f36c519db624ba84685cd695&x-time=1781906460"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a3afd18917a72ec20b88fbf2a16c4713e59f28be&x-sign=83596855968c26949a3a9ea445413158&x-time=1781905560"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=a3afd18917a72ec20b88fbf2a16c4713e59f28be&x-sign=19d3c251dca64e675b0a21372944b8c0&x-time=1781905560"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781992007-Kv4cPTAAP5YTi-a3afd18917a72ec20b88fbf2a16c4713e59f28be-8c01eee1a71074049caad92cede3e361"
-                },
-                {
-                    "server_name": "Server 5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2-hd/chunks.m3u8?is_vip=false&token=a3afd18917a72ec20b88fbf2a16c4713e59f28be&x-sign=96f3b4bcbbcbde5d6e48563e210e3a07&x-time=1781905560"
-                },
-                {
-                    "server_name": "Server 6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a2-hd/chunks.m3u8?is_vip=false&token=1781992008-Kv4cPTAAP5YTi-a3afd18917a72ec20b88fbf2a16c4713e59f28be-bf3fa6b6905a6337dcff0a2d5609e589"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1150/chunks.m3u8?is_vip=false&token=1781992909-Kv4cPTAAP5YTi-1607ad4455801464d829898b80423a8bd60112d3-2f3b78c4025c01e91b32e92a6fb97b35"
                 }
             ]
         },
@@ -206,6 +234,21 @@
             "Stream URL": []
         },
         {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Spain",
+            "Team 2 Name": "Saudi Arabia",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23.png",
+            "Match Title": "Spain VS Saudi Arabia | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Spain%0AVS%0ASaudi%20Arabia%0AWorld%20Cup&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "10:00 PM 21-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
             "Category": "Football",
             "League": "AFL Premiership",
             "Team 1 Name": "",
@@ -246,6 +289,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Port%20Adelaide%0AVS%0ACollingwood%20Magpies%0AAFL%20Premiership&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:30 PM 20-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Tennis",
+            "League": "Terra Wortmann Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 7: Halle Germany | Terra Wortmann Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%207%3A%20Halle%20Germany%0ATerra%20Wortmann%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "3:30 PM 19-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
