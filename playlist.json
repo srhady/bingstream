@@ -3,10 +3,66 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "6:46:35 AM 19-06-2026"
+        "last_update_time": "7:01:31 AM 19-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "Football",
+            "League": "World Cup",
+            "Team 1 Name": "Mexico",
+            "Team 2 Name": "South Korea",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/17.png",
+            "Match Title": "Mexico VS South Korea | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781917294-Kv4cPTAAP5YTi-5a5dcc7f56043daab0c538caf146063f2706696e-8c17fe4542dd251e629c6f5f3554f2db"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=5a5dcc7f56043daab0c538caf146063f2706696e&x-sign=5f75742818ce846462536690f90a174d&x-time=1781830860"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=1781917294-Kv4cPTAAP5YTi-5a5dcc7f56043daab0c538caf146063f2706696e-017062d0093371a0652040b563b7c109"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=5a5dcc7f56043daab0c538caf146063f2706696e&x-sign=06fe58712f5d603709bbd5d74a3e9932&x-time=1781830860"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57/chunks.m3u8?is_vip=false&token=5a5dcc7f56043daab0c538caf146063f2706696e&x-sign=3291211100d877af6ee95b1e0a304bb1&x-time=1781830860"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57/chunks.m3u8?is_vip=false&token=1781917295-Kv4cPTAAP5YTi-5a5dcc7f56043daab0c538caf146063f2706696e-5562ad333812393c46bcacc8e3052476"
+                },
+                {
+                    "server_name": "Server 7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-cnhd/chunks.m3u8?is_vip=false&token=5a5dcc7f56043daab0c538caf146063f2706696e&x-sign=f5fc31a4ed9ca5cbb5b2d531d7a267db&x-time=1781830860"
+                },
+                {
+                    "server_name": "Server 8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-cnhd/chunks.m3u8?is_vip=false&token=1781917296-Kv4cPTAAP5YTi-5a5dcc7f56043daab0c538caf146063f2706696e-9296dd768254afec02395fb4a01205b4"
+                },
+                {
+                    "server_name": "Server 9",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-cnhd2/chunks.m3u8?is_vip=false&token=5a5dcc7f56043daab0c538caf146063f2706696e&x-sign=0a77fd6cc393442bda770406c62109cc&x-time=1781830860"
+                },
+                {
+                    "server_name": "Server 10",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-cnhd2/chunks.m3u8?is_vip=false&token=1781917296-Kv4cPTAAP5YTi-5a5dcc7f56043daab0c538caf146063f2706696e-a31418f70b447fcafb1e61432c938d0c"
+                }
+            ]
+        },
         {
             "Category": "Primera División",
             "League": "Primera División",
@@ -23,11 +79,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-69f224008e64032a13687d6c/chunks.m3u8?is_vip=false&token=e3408e726a0fb32970979444367ac369c6201b51&x-sign=04af3c3ef2c5adc8ce75fe91b878469c&x-time=1781829960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-69f224008e64032a13687d6c/chunks.m3u8?is_vip=false&token=5a5dcc7f56043daab0c538caf146063f2706696e&x-sign=37937a2a4d0c1f961a4bebfd2af66dd5&x-time=1781830860"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-69f224008e64032a13687d6c/chunks.m3u8?is_vip=false&token=1781916398-Kv4cPTAAP5YTi-e3408e726a0fb32970979444367ac369c6201b51-b03efd8ab009b5c298975e1e355625b7"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-69f224008e64032a13687d6c/chunks.m3u8?is_vip=false&token=1781917301-Kv4cPTAAP5YTi-5a5dcc7f56043daab0c538caf146063f2706696e-dbac44dd4bf5233020aa2fcdfc4c14e4"
                 }
             ]
         },
@@ -47,51 +103,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1140/chunks.m3u8?is_vip=false&token=e3408e726a0fb32970979444367ac369c6201b51&x-sign=4fdffea64bdad11fb928366b7e128d0d&x-time=1781829960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1140/chunks.m3u8?is_vip=false&token=5a5dcc7f56043daab0c538caf146063f2706696e&x-sign=7199cdf19705e38f6d31e9ef4aa37235&x-time=1781830860"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1140/chunks.m3u8?is_vip=false&token=1781916404-Kv4cPTAAP5YTi-e3408e726a0fb32970979444367ac369c6201b51-718141e275e27c20ff363efd7d84dc71"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "World Cup",
-            "Team 1 Name": "Mexico",
-            "Team 2 Name": "South Korea",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/17.png",
-            "Match Title": "Mexico VS South Korea | World Cup",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "7:00 AM 19-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781916408-Kv4cPTAAP5YTi-e3408e726a0fb32970979444367ac369c6201b51-eb89ab29ef7998700a10d42f41ea7a45"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=e3408e726a0fb32970979444367ac369c6201b51&x-sign=a572673418becbec647ec8104b30a9a0&x-time=1781829960"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=1781916409-Kv4cPTAAP5YTi-e3408e726a0fb32970979444367ac369c6201b51-f2803af9f838d73de9cb57043db772ab"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=e3408e726a0fb32970979444367ac369c6201b51&x-sign=a576948204d8802251fce4561eeddf6f&x-time=1781829960"
-                },
-                {
-                    "server_name": "Server 5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-hd/chunks.m3u8?is_vip=false&token=e3408e726a0fb32970979444367ac369c6201b51&x-sign=705768d3e3dc42278984a1239a41df14&x-time=1781829960"
-                },
-                {
-                    "server_name": "Server 6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-hd/chunks.m3u8?is_vip=false&token=1781916410-Kv4cPTAAP5YTi-e3408e726a0fb32970979444367ac369c6201b51-f48611edddb9213ad2be9c84e5c84728"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1140/chunks.m3u8?is_vip=false&token=1781917306-Kv4cPTAAP5YTi-5a5dcc7f56043daab0c538caf146063f2706696e-9ed47348a3eccf20efdcf4480f9e8eed"
                 }
             ]
         },
@@ -181,6 +197,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Germany%0AVS%0AIvory%20Coast%0AWorld%20Cup&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "2:00 AM 21-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Ecuador",
+            "Team 2 Name": "Curaçao",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2382.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5530.png",
+            "Match Title": "Ecuador VS Curaçao | World Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ecuador%0AVS%0ACura%C3%A7ao%0AWorld%20Cup&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "6:00 AM 21-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
