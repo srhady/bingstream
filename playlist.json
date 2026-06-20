@@ -3,10 +3,66 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:46:36 PM 20-06-2026"
+        "last_update_time": "11:01:31 PM 20-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Netherlands",
+            "Team 2 Name": "Sweden",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1118.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5.png",
+            "Match Title": "Netherlands VS Sweden | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands_VS_Sweden_World_Cup.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782061294-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-9e50426730d72dc72c25cc19a5c6ff88"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=129a6e3dbb5661ecf83fda3a67d5ac1d&x-time=1781974860"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=3acb6cad77cb0811f2d1d53ac4ac5afd&x-time=1781974860"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782061296-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-6be2fad5aec8c3ea2cc658736d5ff01c"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a113d/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=930dee1b7989f003b764fb6eb76c0ac7&x-time=1781974860"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a113d/chunks.m3u8?is_vip=false&token=1782061296-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-de91562835cdc7118bb046ee20a116c1"
+                },
+                {
+                    "server_name": "Server 7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a113d-hd/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=5178124cee33be79cf4c72fa216c1873&x-time=1781974860"
+                },
+                {
+                    "server_name": "Server 8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a113d-hd/chunks.m3u8?is_vip=false&token=1782061297-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-7e186657865147223a6ba18758ca7cc7"
+                },
+                {
+                    "server_name": "Server 9",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a113d-cnhd/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=74ea9365a40c3471ec74248ba46044d4&x-time=1781974860"
+                },
+                {
+                    "server_name": "Server 10",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a113d-cnhd/chunks.m3u8?is_vip=false&token=1782061298-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-70db48ba71aa312df0fcf7cbe5233fcf"
+                }
+            ]
+        },
         {
             "Category": "Women's Series",
             "League": "Women's Series",
@@ -23,11 +79,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782060399-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-3eac099b5f7f4a7af099bdb1a531f296"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782061303-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-f1954204203581cab8c5e64900514e05"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=4f4fafc5ee4d9fcaed719040ecd10471&x-time=1781973960"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=2329ba657b445012c80cc587893d70e7&x-time=1781974860"
                 }
             ]
         },
@@ -47,11 +103,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1782060404-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-35ea4fd31d1c44d2396d3c6ce178bebd"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1782061309-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-c5c7bb9c86b4df87f071b80183c37a04"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=8fbc26a97c3d64a8f81c938ab5c6f34a&x-time=1781973960"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=6ee5d09bee062d2e80428ca481c21898&x-time=1781974860"
                 }
             ]
         },
@@ -71,11 +127,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782060409-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-7ab2c93e1b27ba09f82bbe9d82ce530f"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782061314-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-7390da8f1b42180f109fc7728872ee33"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=03bc3c0fa5b58fde96cc3dc415874b4c&x-time=1781973960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=fed091ad33c948535809c4d8d55e7a76&x-time=1781974860"
                 }
             ]
         },
@@ -95,35 +151,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782060415-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-4235809d366c2dede9c831e521a2787d"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782061320-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-3a78c3de412cb8359339bac6a230f487"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=54ac96553fa08c16d1f827c68068a684&x-time=1781973960"
-                }
-            ]
-        },
-        {
-            "Category": "Premier League",
-            "League": "Premier League",
-            "Team 1 Name": "Ordabasy",
-            "Team 2 Name": "Kaspiy",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/692.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4552.png",
-            "Match Title": "Ordabasy VS Kaspiy | Premier League",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ordabasy_VS_Kaspiy_Premier_League.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c2a1/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=e0d1959dcaed9c81dab3a9fa29dc9bdc&x-time=1781974020"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c2a1/chunks.m3u8?is_vip=false&token=1782060421-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-7455c7a83de36d68bef153752e85607c"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=917fff091d1069ee499f51e4f2a063be&x-time=1781974920"
                 }
             ]
         },
@@ -143,11 +175,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1782060425-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-5a47e777b89d53e07fddfb222c9fd70b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1782061325-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-fe1e7ef4180e3490a5243d2ed26bfc40"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=2494101ef05f009ec7fec5afb906cbdc&x-time=1781974020"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=1e88ec7e2a4a763ebab96231482c508d&x-time=1781974920"
                 }
             ]
         },
@@ -167,51 +199,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=25f656339de8004f987d1e6cba471c65&x-time=1781974020"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=5fbfd5b36cce246f27d6f6a20a6ab8d9&x-time=1781974920"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=1782060431-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-936961406224b44557a2caa92fa73955"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=1782061331-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-bb0f9c7108c298a5ce7d144f139dc4aa"
                 }
             ]
         },
         {
-            "Category": "World Cup",
-            "League": "World Cup",
-            "Team 1 Name": "Netherlands",
-            "Team 2 Name": "Sweden",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1118.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5.png",
-            "Match Title": "Netherlands VS Sweden | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands_VS_Sweden_World_Cup.jpg",
+            "Category": "Darts",
+            "League": "Slovak Darts Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Slovak Darts Open | Slovak Darts Open",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg",
             "Match Status": "Live",
-            "Start Time": "11:00 PM 20-06-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782060436-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-5b10dae29f7d696d6c330699af2e406c"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782061336-Kv4cPTAAP5YTi-6ce7dceaaf141750dbcc3dc455ae86b37e1948f4-7c6e61793464e4a29f9fdb11f4268a39"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=458267ac9b2463d7753287e84d40bd6a&x-time=1781974020"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=366b2ece87aa347a35d88806211338f6&x-time=1781974020"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782060438-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-8a650e1deba65d7e33ac7acd96925c2c"
-                },
-                {
-                    "server_name": "Server 5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a113d-hd/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=b64081023462801023d3d7c774910c7b&x-time=1781974020"
-                },
-                {
-                    "server_name": "Server 6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a113d-hd/chunks.m3u8?is_vip=false&token=1782060439-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-cc20371864aa986bef6be95325dfe6c0"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=6ce7dceaaf141750dbcc3dc455ae86b37e1948f4&x-sign=76372d03352c8cdd3c6443d8996c16cb&x-time=1781974920"
                 }
             ]
         },
@@ -301,6 +317,21 @@
             "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uruguay_VS_Cape_Verde_Islands_World_Cup.jpg",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 22-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "New Zealand",
+            "Team 2 Name": "Egypt",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4673.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/32.png",
+            "Match Title": "New Zealand VS Egypt | World Cup",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "7:00 AM 22-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -398,12 +429,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Saitama Seibu Lions",
-            "Team 2 Name": "ORIX Buffaloes",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-            "Match Title": "Saitama Seibu Lions VS ORIX Buffaloes | NPB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB.jpg",
+            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 2 Name": "Fukuoka SoftBank Hawks",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
+            "Match Title": "Hokkaido Nippon-Ham Fighters VS Fukuoka SoftBank Hawks | NPB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Fukuoka_SoftBank_Hawks_NPB.jpg",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 21-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -413,12 +444,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
-            "Team 2 Name": "Fukuoka SoftBank Hawks",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
-            "Match Title": "Hokkaido Nippon-Ham Fighters VS Fukuoka SoftBank Hawks | NPB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Fukuoka_SoftBank_Hawks_NPB.jpg",
+            "Team 1 Name": "Saitama Seibu Lions",
+            "Team 2 Name": "ORIX Buffaloes",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+            "Match Title": "Saitama Seibu Lions VS ORIX Buffaloes | NPB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB.jpg",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 21-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -664,30 +695,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
-        },
-        {
-            "Category": "Darts",
-            "League": "Slovak Darts Open",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Slovak Darts Open | Slovak Darts Open",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg",
-            "Match Status": "Live",
-            "Start Time": "11:00 PM 20-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782060444-Kv4cPTAAP5YTi-bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e-9e4ac26ba6f894c179b254ae476d8dfc"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=bfedd9ff35419e4fe2d71de6a4f1dfe1e844156e&x-sign=83247bcfa80cf71511b617a6ea4e9edd&x-time=1781974020"
-                }
-            ]
         },
         {
             "Category": "Darts",
