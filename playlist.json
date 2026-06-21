@@ -3,10 +3,58 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:46:33 AM 22-06-2026"
+        "last_update_time": "1:01:33 AM 22-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Belgium",
+            "Team 2 Name": "Iran",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22.png",
+            "Match Title": "Belgium VS Iran | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belgium_VS_Iran_World_Cup.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782154896-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-0cccc5db3a5d2bd2d55ca0796c9674f9"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=645f4f8f48a38c305b29a519ea19542f&x-time=1782068460"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=da022bb9b59cc81dbce854a03d090856&x-time=1782068460"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782154897-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-f7de5fa90ca2780540c9ac4edb3cafe0"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a185f7a7f02ccc0bbaf6552-hd/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=c97b2391c160fc17925f1d6980e9f39c&x-time=1782068460"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a185f7a7f02ccc0bbaf6552-hd/chunks.m3u8?is_vip=false&token=1782154897-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-155235246ee890d6628084ad1595d6fc"
+                },
+                {
+                    "server_name": "Server 7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a185f7a7f02ccc0bbaf6552-cnhd/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=74c329c09445ce5819f8ae6bb3523857&x-time=1782068460"
+                },
+                {
+                    "server_name": "Server 8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a185f7a7f02ccc0bbaf6552-cnhd/chunks.m3u8?is_vip=false&token=1782154898-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-a490256426c8b525dbe626adef2da8aa"
+                }
+            ]
+        },
         {
             "Category": "Volleyball",
             "League": "Nations League",
@@ -23,11 +71,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=2e23b907f35fb95b25541f626e0679c0785fe213&x-sign=0c5fd8268101706c50e9112a6cb85e67&x-time=1782067560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=86cc3f8127c4613909223e701ffb5c1c&x-time=1782068460"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1782153997-Kv4cPTAAP5YTi-2e23b907f35fb95b25541f626e0679c0785fe213-06e7d1f0f7ab70020fed9a09b83ee6ae"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1782154904-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-a704ab0bcc991b2da42b976d3b03f485"
                 }
             ]
         },
@@ -47,35 +95,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=2e23b907f35fb95b25541f626e0679c0785fe213&x-sign=94329404094b82994b2d4bac9bb34590&x-time=1782067560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=52c94214d911bd5dc171cd93deae7c15&x-time=1782068460"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782154002-Kv4cPTAAP5YTi-2e23b907f35fb95b25541f626e0679c0785fe213-2a322fb348bf51614cea3d1c97b47cf0"
-                }
-            ]
-        },
-        {
-            "Category": "Primera Nacional",
-            "League": "Primera Nacional",
-            "Team 1 Name": "Defensores De Belgrano",
-            "Team 2 Name": "All Boys",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1067.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/464.png",
-            "Match Title": "Defensores De Belgrano VS All Boys | Primera Nacional",
-            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76895/chunks.m3u8?is_vip=false&token=2e23b907f35fb95b25541f626e0679c0785fe213&x-sign=e19192500982317ae4dce97e57f647f5&x-time=1782067560"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76895/chunks.m3u8?is_vip=false&token=1782154008-Kv4cPTAAP5YTi-2e23b907f35fb95b25541f626e0679c0785fe213-7b8dbc5af64bb64a12b721e3942d3f7d"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782154909-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-5763b99f6cc344b6b14477ba16a3ba1d"
                 }
             ]
         },
@@ -95,51 +119,59 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-698df1fe952272c52c6d67fb/chunks.m3u8?is_vip=false&token=2e23b907f35fb95b25541f626e0679c0785fe213&x-sign=d15e38fad4c15cfa7531a2ccaa1e59da&x-time=1782067560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-698df1fe952272c52c6d67fb/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=f6383fddbba473e6ae514158173aeb7e&x-time=1782068460"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-698df1fe952272c52c6d67fb/chunks.m3u8?is_vip=false&token=1782154013-Kv4cPTAAP5YTi-2e23b907f35fb95b25541f626e0679c0785fe213-e801b8f8b5823e7a2e532cd963202963"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-698df1fe952272c52c6d67fb/chunks.m3u8?is_vip=false&token=1782154914-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-2c77bd79bc8cc9683aeab6d391bdeeb3"
                 }
             ]
         },
         {
-            "Category": "World Cup",
-            "League": "World Cup",
-            "Team 1 Name": "Belgium",
-            "Team 2 Name": "Iran",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22.png",
-            "Match Title": "Belgium VS Iran | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belgium_VS_Iran_World_Cup.jpg",
+            "Category": "Serie B",
+            "League": "Serie B",
+            "Team 1 Name": "CRB",
+            "Team 2 Name": "Fortaleza EC",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/146.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/154.png",
+            "Match Title": "CRB VS Fortaleza EC | Serie B",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
             "Match Status": "Live",
-            "Start Time": "1:00 AM 22-06-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782154017-Kv4cPTAAP5YTi-2e23b907f35fb95b25541f626e0679c0785fe213-3a587b6a4fe4901841cc06e9477a8b3d"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1145/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=5360810872a8ee524fe8d8d0deefe126&x-time=1782068460"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2e23b907f35fb95b25541f626e0679c0785fe213&x-sign=af228c5611fd748d3ba459deddea5f69&x-time=1782067560"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1145/chunks.m3u8?is_vip=false&token=1782154919-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-68b4c7e49ecfea8aa318c2bb96b6b220"
+                }
+            ]
+        },
+        {
+            "Category": "Sailing",
+            "League": "Halifax Canada Sail Grand Prix",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 2 | Halifax Canada Sail Grand Prix",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Halifax_Canada_Sail_Grand_Prix.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1782154923-Kv4cPTAAP5YTi-563a21f86041ab5b1bd256a845694f0d1644dfd6-726e4bd62e119e16c8935a74534a5f0e"
                 },
                 {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=2e23b907f35fb95b25541f626e0679c0785fe213&x-sign=fe0f690852085ee82fb189e472fc34e4&x-time=1782067560"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782154019-Kv4cPTAAP5YTi-2e23b907f35fb95b25541f626e0679c0785fe213-f0d7b2dfa377fbb08940df670ad32806"
-                },
-                {
-                    "server_name": "Server 5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a185f7a7f02ccc0bbaf6552-hd/chunks.m3u8?is_vip=false&token=2e23b907f35fb95b25541f626e0679c0785fe213&x-sign=6cbed9e399aca6096329d65deda44549&x-time=1782067560"
-                },
-                {
-                    "server_name": "Server 6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a185f7a7f02ccc0bbaf6552-hd/chunks.m3u8?is_vip=false&token=1782154019-Kv4cPTAAP5YTi-2e23b907f35fb95b25541f626e0679c0785fe213-294d26f22be85666c49e27d6fc51d721"
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=563a21f86041ab5b1bd256a845694f0d1644dfd6&x-sign=a5e9bd784c326cf782ad3b96c5124caf&x-time=1782068520"
                 }
             ]
         },
@@ -294,6 +326,21 @@
             "Stream URL": []
         },
         {
+            "Category": "Football",
+            "League": "World Cup",
+            "Team 1 Name": "Switzerland",
+            "Team 2 Name": "Canada",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5529.png",
+            "Match Title": "Switzerland VS Canada | World Cup",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 25-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
             "Category": "Tennis",
             "League": "Bad Homburg Open",
             "Team 1 Name": "",
@@ -429,30 +476,6 @@
             "Stream URL": []
         },
         {
-            "Category": "Sailing",
-            "League": "Halifax Canada Sail Grand Prix",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Day 2 | Halifax Canada Sail Grand Prix",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Halifax_Canada_Sail_Grand_Prix.jpg",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 22-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1782154024-Kv4cPTAAP5YTi-2e23b907f35fb95b25541f626e0679c0785fe213-f24be571e2a91a45ba5f229f397cb448"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=2e23b907f35fb95b25541f626e0679c0785fe213&x-sign=b6217f629df7e616f42e1382b990040f&x-time=1782067620"
-                }
-            ]
-        },
-        {
             "Category": "Volleyball",
             "League": "Nations League",
             "Team 1 Name": "Bulgaria",
@@ -463,6 +486,36 @@
             "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bulgaria_VS_Italy_Nations_League.jpg",
             "Match Status": "Upcoming",
             "Start Time": "5:00 PM 24-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Volleyball",
+            "League": "Nations League",
+            "Team 1 Name": "Poland",
+            "Team 2 Name": "Belgium",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/24.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
+            "Match Title": "Poland VS Belgium | Nations League",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "12:00 AM 25-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Badminton",
+            "League": "YONEX US OPEN",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 1 | YONEX US OPEN",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "10:00 AM 23-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -491,21 +544,6 @@
             "Team 2 Logo": "",
             "Match Title": "Court 3 | YONEX US OPEN",
             "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg",
-            "Match Status": "Upcoming",
-            "Start Time": "10:00 AM 23-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Badminton",
-            "League": "YONEX US OPEN",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Court 2 | YONEX US OPEN",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 23-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
