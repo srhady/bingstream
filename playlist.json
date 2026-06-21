@@ -3,10 +3,54 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "9:46:34 AM 21-06-2026"
+        "last_update_time": "10:01:29 AM 21-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Tunisia",
+            "Team 2 Name": "Japan",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/28.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12.png",
+            "Match Title": "Tunisia VS Japan | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tunisia_VS_Japan_World_Cup.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782100892-Kv4cPTAAP5YTi-76d688bf44ef8992d491d9f68e1fb15ec314bddf-b65af45bb70d5423be2c3135d9a202b9"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=d946432aeb4f3317dc684f779561bef8&x-time=1782014460"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=86003c1344a34f5f0f44f8bc315edc1d&x-time=1782014460"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1175/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=9ae5e5cf1548b6c42cf628a3e429cc73&x-time=1782014460"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1175/chunks.m3u8?is_vip=false&token=1782100893-Kv4cPTAAP5YTi-76d688bf44ef8992d491d9f68e1fb15ec314bddf-8680187e442a1200c4807893ce455599"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1175-cnhd/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=8d61142d3628b64703f9dad27549e070&x-time=1782014460"
+                },
+                {
+                    "server_name": "Server 7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1175-cnhd/chunks.m3u8?is_vip=false&token=1782100894-Kv4cPTAAP5YTi-76d688bf44ef8992d491d9f68e1fb15ec314bddf-ceb6f859705dfb19a5c61089b0b3ffea"
+                }
+            ]
+        },
         {
             "Category": "Rugby",
             "League": "Super Rugby Aupiki",
@@ -23,11 +67,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782099997-Kv4cPTAAP5YTi-a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e-c06c91aa908aa70165f29ac1d53c39e1"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782100898-Kv4cPTAAP5YTi-76d688bf44ef8992d491d9f68e1fb15ec314bddf-8f9b6a3e7b5df810d67255bd02c3a0d9"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e&x-sign=9342d6d071e8f0595b3e5e144e144be3&x-time=1782013560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=5a6047a73c74420f54684d161995b318&x-time=1782014460"
                 }
             ]
         },
@@ -47,43 +91,79 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e&x-sign=50f562f22e4bfaa467b5bfe9ad565642&x-time=1782013560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=b426b566a5efa1319c326266101a7783&x-time=1782014460"
                 }
             ]
         },
         {
-            "Category": "World Cup",
-            "League": "World Cup",
-            "Team 1 Name": "Tunisia",
-            "Team 2 Name": "Japan",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/28.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12.png",
-            "Match Title": "Tunisia VS Japan | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tunisia_VS_Japan_World_Cup.jpg",
+            "Category": "Badminton",
+            "League": "SANDS CHINA LTD Macau Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 1 | SANDS CHINA LTD Macau Open",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_SANDS_CHINA_LTD_Macau_Open.jpg",
             "Match Status": "Live",
-            "Start Time": "10:00 AM 21-06-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782100007-Kv4cPTAAP5YTi-a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e-64441808b26f57007e38b1077dae65c2"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782100906-Kv4cPTAAP5YTi-76d688bf44ef8992d491d9f68e1fb15ec314bddf-0a2db53cdc4a9a02a3f3fb25908dd3c9"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e&x-sign=a8a16ea0b49862e56bb0f3d8089e8cb8&x-time=1782013560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=5b709c9c5b3d9374a6bb50c5379bbce8&x-time=1782014460"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 2 Name": "Fukuoka SoftBank Hawks",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
+            "Match Title": "Hokkaido Nippon-Ham Fighters VS Fukuoka SoftBank Hawks | NPB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Fukuoka_SoftBank_Hawks_NPB.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782100911-Kv4cPTAAP5YTi-76d688bf44ef8992d491d9f68e1fb15ec314bddf-452051de8ddb3734e602ea47dd3396a8"
                 },
                 {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e&x-sign=e86b566065edc17f2f8b8a475fd058b9&x-time=1782013560"
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=9c38d12782e96810e4289cd2f0523595&x-time=1782014460"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Saitama Seibu Lions",
+            "Team 2 Name": "ORIX Buffaloes",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+            "Match Title": "Saitama Seibu Lions VS ORIX Buffaloes | NPB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782100915-Kv4cPTAAP5YTi-76d688bf44ef8992d491d9f68e1fb15ec314bddf-f4483edb15bf45ccf736be26f903eb65"
                 },
                 {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1175-hd/chunks.m3u8?is_vip=false&token=a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e&x-sign=f0b9bad1e8a73de6b737c7dcd30166f7&x-time=1782013560"
-                },
-                {
-                    "server_name": "Server 5",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1175-hd/chunks.m3u8?is_vip=false&token=1782100009-Kv4cPTAAP5YTi-a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e-b5335c919cae02669cc1a2d4a37423f8"
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=76d688bf44ef8992d491d9f68e1fb15ec314bddf&x-sign=235d432e1089178a88af0c24a5bcd98a&x-time=1782014460"
                 }
             ]
         },
@@ -179,21 +259,6 @@
         },
         {
             "Category": "Football",
-            "League": "AFL Premiership",
-            "Team 1 Name": "Western Bulldogs",
-            "Team 2 Name": "St. Kilda Saints",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/25f094296afb13af452640ede0355340.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
-            "Match Title": "Western Bulldogs VS St. Kilda Saints | AFL Premiership",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Western_Bulldogs_VS_St._Kilda_Saints_AFL_Premiership.jpg",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 21-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
             "League": "World Cup",
             "Team 1 Name": "Norway",
             "Team 2 Name": "Senegal",
@@ -203,6 +268,21 @@
             "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway_VS_Senegal_World_Cup.jpg",
             "Match Status": "Upcoming",
             "Start Time": "6:00 AM 23-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "AFL Premiership",
+            "Team 1 Name": "Western Bulldogs",
+            "Team 2 Name": "St. Kilda Saints",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/25f094296afb13af452640ede0355340.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
+            "Match Title": "Western Bulldogs VS St. Kilda Saints | AFL Premiership",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Western_Bulldogs_VS_St._Kilda_Saints_AFL_Premiership.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 21-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -270,54 +350,6 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Saitama Seibu Lions",
-            "Team 2 Name": "ORIX Buffaloes",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-            "Match Title": "Saitama Seibu Lions VS ORIX Buffaloes | NPB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB.jpg",
-            "Match Status": "Live",
-            "Start Time": "10:00 AM 21-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782100014-Kv4cPTAAP5YTi-a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e-e7edc5b9a9d8b1d6a7e405995d194be0"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e&x-sign=61686255de91ba254c564a08d175c01a&x-time=1782013560"
-                }
-            ]
-        },
-        {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
-            "Team 2 Name": "Fukuoka SoftBank Hawks",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
-            "Match Title": "Hokkaido Nippon-Ham Fighters VS Fukuoka SoftBank Hawks | NPB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Fukuoka_SoftBank_Hawks_NPB.jpg",
-            "Match Status": "Live",
-            "Start Time": "10:00 AM 21-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782100020-Kv4cPTAAP5YTi-a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e-b740f0261b0446e06195f8f57c5b90e9"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e&x-sign=04fe92cf1c3ab1d52f05aa7abf0941a1&x-time=1782013620"
-                }
-            ]
-        },
-        {
-            "Category": "Baseball",
-            "League": "NPB",
             "Team 1 Name": "Tokyo Yakult Swallows",
             "Team 2 Name": "Hiroshima Toyo Carp",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
@@ -326,6 +358,36 @@
             "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo_Yakult_Swallows_VS_Hiroshima_Toyo_Carp_NPB.jpg",
             "Match Status": "Upcoming",
             "Start Time": "10:30 AM 21-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Yomiuri Giants",
+            "Team 2 Name": "Chunichi Dragons",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
+            "Match Title": "Yomiuri Giants VS Chunichi Dragons | NPB",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 21-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Chiba Lotte Marines",
+            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+            "Match Title": "Chiba Lotte Marines VS Tohoku Rakuten Golden Eagles | NPB",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "2:00 PM 21-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -497,37 +559,13 @@
         },
         {
             "Category": "Badminton",
-            "League": "SANDS CHINA LTD Macau Open",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Court 1 | SANDS CHINA LTD Macau Open",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_SANDS_CHINA_LTD_Macau_Open.jpg",
-            "Match Status": "Live",
-            "Start Time": "10:00 AM 21-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782100025-Kv4cPTAAP5YTi-a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e-5ac4ecd9889032599a88b80c6af79666"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=a9bd5f965ea1d7d883e61a9bd6ecbe78c9730f5e&x-sign=26286039c1b0576e0c70a92be1292407&x-time=1782013620"
-                }
-            ]
-        },
-        {
-            "Category": "Badminton",
             "League": "YONEX US OPEN",
             "Team 1 Name": "",
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 3 | YONEX US OPEN",
-            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Title": "Court 1 | YONEX US OPEN",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 23-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -543,6 +581,21 @@
             "Team 2 Logo": "",
             "Match Title": "Court 2 | YONEX US OPEN",
             "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "10:00 AM 23-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Badminton",
+            "League": "YONEX US OPEN",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 3 | YONEX US OPEN",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 23-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
