@@ -3,10 +3,66 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:46:43 PM 23-06-2026"
+        "last_update_time": "11:01:38 PM 23-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
+        {
+            "Category": "Football",
+            "League": "World Cup",
+            "Team 1 Name": "Portugal",
+            "Team 2 Name": "Uzbekistan",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1568.png",
+            "Match Title": "Portugal VS Uzbekistan | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal_VS_Uzbekistan_World_Cup.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782320501-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-a42e3af773b02438ed7fd77c042d7f75"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=d817cee488e9af0bacb03a56e4110f5e&x-time=1782234060"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=1a805d2f196550dd24c2711a1cc3e5ea&x-time=1782234060"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782320502-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-da766e53023403e3796fbb542d475f10"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471cda/chunks.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=afeb54bac90e6d289625b00579910f01&x-time=1782234060"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471cda/chunks.m3u8?is_vip=false&token=1782320502-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-1c8f9c9a55875174be28a266932db12e"
+                },
+                {
+                    "server_name": "Server 7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471cda-hd/chunks.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=ba5bc20ab0b53304995299bc2dd342a8&x-time=1782234060"
+                },
+                {
+                    "server_name": "Server 8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471cda-hd/chunks.m3u8?is_vip=false&token=1782320503-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-936345528deaa60ab32db530a2f9be3a"
+                },
+                {
+                    "server_name": "Server 9",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471cda-cnhd/chunks.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=0c5e60c7585bfea5a031dd0c691b11da&x-time=1782234060"
+                },
+                {
+                    "server_name": "Server 10",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471cda-cnhd/chunks.m3u8?is_vip=false&token=1782320503-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-44bfc1dfe4ede9e7aabf190c76a57e07"
+                }
+            ]
+        },
         {
             "Category": "Tennis",
             "League": "Bad Homburg Open",
@@ -23,51 +79,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782319606-Kv4cPTAAP5YTi-1f6430023584e5d3b3494f639568452b10237d7d-66998a54c2d8b495dcaaec5b1c5d8b5f"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782320507-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-b2a9d8a18af0bb0338d045bdba0a77b5"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=1f6430023584e5d3b3494f639568452b10237d7d&x-sign=f35b2f6519bb870bb0dd6533fc2f50e5&x-time=1782233160"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "World Cup",
-            "Team 1 Name": "Portugal",
-            "Team 2 Name": "Uzbekistan",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1568.png",
-            "Match Title": "Portugal VS Uzbekistan | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal_VS_Uzbekistan_World_Cup.jpg",
-            "Match Status": "Live",
-            "Start Time": "11:00 PM 23-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782319611-Kv4cPTAAP5YTi-1f6430023584e5d3b3494f639568452b10237d7d-6a30bb97c82919148c3dfa83cb35850e"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1f6430023584e5d3b3494f639568452b10237d7d&x-sign=fa6c1b9000c3686edad5ee4eccb532e0&x-time=1782233160"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1f6430023584e5d3b3494f639568452b10237d7d&x-sign=cedda82e804164340952d3f96c5f2ec0&x-time=1782233160"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782319612-Kv4cPTAAP5YTi-1f6430023584e5d3b3494f639568452b10237d7d-9224436d5ad68a62d1bf37e095613ae4"
-                },
-                {
-                    "server_name": "Server 5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471cda-hd/chunks.m3u8?is_vip=false&token=1f6430023584e5d3b3494f639568452b10237d7d&x-sign=474feb7359256fae90fb0b92d8e0099c&x-time=1782233160"
-                },
-                {
-                    "server_name": "Server 6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471cda-hd/chunks.m3u8?is_vip=false&token=1782319613-Kv4cPTAAP5YTi-1f6430023584e5d3b3494f639568452b10237d7d-8333863dd17d6791fe8c0f22074c968a"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=a7b88e3ea180c48a8c32c5f392dd3bc7&x-time=1782234060"
                 }
             ]
         },
@@ -179,6 +195,21 @@
         {
             "Category": "Football",
             "League": "World Cup",
+            "Team 1 Name": "Czechia",
+            "Team 2 Name": "Mexico",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/770.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16.png",
+            "Match Title": "Czechia VS Mexico | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Czechia_VS_Mexico_World_Cup.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "7:00 AM 25-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "World Cup",
             "Team 1 Name": "South Africa",
             "Team 2 Name": "South Korea",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1531.png",
@@ -194,14 +225,14 @@
         {
             "Category": "Football",
             "League": "World Cup",
-            "Team 1 Name": "Czechia",
-            "Team 2 Name": "Mexico",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/770.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16.png",
-            "Match Title": "Czechia VS Mexico | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Czechia_VS_Mexico_World_Cup.jpg",
+            "Team 1 Name": "Curaçao",
+            "Team 2 Name": "Ivory Coast",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5530.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1501.png",
+            "Match Title": "Curaçao VS Ivory Coast | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cura%C3%A7ao_VS_Ivory_Coast_World_Cup.jpg",
             "Match Status": "Upcoming",
-            "Start Time": "7:00 AM 25-06-2026",
+            "Start Time": "2:00 AM 26-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -224,14 +255,14 @@
         {
             "Category": "Football",
             "League": "World Cup",
-            "Team 1 Name": "Curaçao",
-            "Team 2 Name": "Ivory Coast",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5530.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1501.png",
-            "Match Title": "Curaçao VS Ivory Coast | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cura%C3%A7ao_VS_Ivory_Coast_World_Cup.jpg",
+            "Team 1 Name": "Tunisia",
+            "Team 2 Name": "Netherlands",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/28.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1118.png",
+            "Match Title": "Tunisia VS Netherlands | World Cup",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
             "Match Status": "Upcoming",
-            "Start Time": "2:00 AM 26-06-2026",
+            "Start Time": "5:00 AM 26-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
             "Stream URL": []
@@ -313,13 +344,13 @@
         },
         {
             "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
-            "Team 2 Name": "Chiba Lotte Marines",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
-            "Match Title": "Hokkaido Nippon-Ham Fighters VS Chiba Lotte Marines | NPB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Chiba_Lotte_Marines_NPB.jpg",
+            "League": "NPB Farm Leagues",
+            "Team 1 Name": "Saitama Seibu Lions",
+            "Team 2 Name": "ORIX Buffaloes",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+            "Match Title": "Saitama Seibu Lions VS ORIX Buffaloes | NPB Farm Leagues",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB_Farm_Leagues.jpg",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -328,13 +359,13 @@
         },
         {
             "Category": "Baseball",
-            "League": "NPB Farm Leagues",
-            "Team 1 Name": "Saitama Seibu Lions",
-            "Team 2 Name": "ORIX Buffaloes",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-            "Match Title": "Saitama Seibu Lions VS ORIX Buffaloes | NPB Farm Leagues",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB_Farm_Leagues.jpg",
+            "League": "NPB",
+            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 2 Name": "Chiba Lotte Marines",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
+            "Match Title": "Hokkaido Nippon-Ham Fighters VS Chiba Lotte Marines | NPB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Chiba_Lotte_Marines_NPB.jpg",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -423,8 +454,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 1 | YONEX US OPEN",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg",
+            "Match Title": "Court 4 | YONEX US OPEN",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -438,8 +469,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 4 | YONEX US OPEN",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg",
+            "Match Title": "Court 3 | YONEX US OPEN",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
             "Match Status": "Upcoming",
             "Start Time": "10:00 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
