@@ -3,34 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "4:31:29 AM 24-06-2026"
+        "last_update_time": "4:46:31 AM 24-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
-        {
-            "Category": "Tennis",
-            "League": "Bad Homburg Open",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Day 3 | Bad Homburg Open",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782340291-Kv4cPTAAP5YTi-7abf161ff153af442e09b736e3c73633bf283391-d40811cf8252d2cad6f9c7f54ad7350a"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=7abf161ff153af442e09b736e3c73633bf283391&x-sign=5aeb795302e06d573076bdba45d5cb03&x-time=1782253860"
-                }
-            ]
-        },
         {
             "Category": "MLB",
             "League": "MLB",
@@ -47,7 +23,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=7abf161ff153af442e09b736e3c73633bf283391&x-sign=de156e31823017a351732d819e0ac5fc&x-time=1782253860"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=f681b9a54b31b0723abb432d83e912f9&x-time=1782254760"
                 }
             ]
         },
@@ -59,6 +35,50 @@
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/484.png",
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/465.png",
             "Match Title": "Nueva Chicago VS Atletico DE Rafaela | Primera Nacional",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nueva_Chicago_VS_Atletico_DE_Rafaela_Primera_Nacional.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=66fd195541f6711f47937311763476a4&x-time=1782254760"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=1782341198-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-221db863deca7ee4d52e8338e775e8b5"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "MLB",
+            "Team 1 Name": "Texas Rangers",
+            "Team 2 Name": "Miami Marlins",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/a61c41e388334ccc216cd7249242951e.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/d4a6596e1714207c0424419c97c5c9d5.png",
+            "Match Title": "Texas Rangers VS Miami Marlins | MLB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas_Rangers_VS_Miami_Marlins_MLB.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=5158f44f36a43b4e7c00ac243f0ccd24&x-time=1782254760"
+                }
+            ]
+        },
+        {
+            "Category": "MLB",
+            "League": "MLB",
+            "Team 1 Name": "New York Yankees",
+            "Team 2 Name": "Detroit Tigers",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/6fea83e9ecbca1f96bae1aa859dd79e4.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/cab9e13d381ea9fb0dc833362684f75f.png",
+            "Match Title": "New York Yankees VS Detroit Tigers | MLB",
             "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
             "Match Status": "Live",
             "Start Time": "Live Now",
@@ -67,11 +87,67 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=7abf161ff153af442e09b736e3c73633bf283391&x-sign=ca50e0f355095380ec26e44eedf10169&x-time=1782253860"
-                },
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=b57fb3c29d3533d98b0110b0ad103a96&x-time=1782254760"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "MLB",
+            "Team 1 Name": "Seattle Mariners",
+            "Team 2 Name": "Pittsburgh Pirates",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/45637067efc775929dbbf02f689001e0.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/62cb5f778f4e9fd3939b157e8132a56e.png",
+            "Match Title": "Seattle Mariners VS Pittsburgh Pirates | MLB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle_Mariners_VS_Pittsburgh_Pirates_MLB.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
                 {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=1782340300-Kv4cPTAAP5YTi-7abf161ff153af442e09b736e3c73633bf283391-a85a18b9525eafbc52d5e3f0c5579114"
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=c287d4014946cfd835f1d76380101bcd&x-time=1782254760"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "MLB",
+            "Team 1 Name": "Kansas City Royals",
+            "Team 2 Name": "Tampa Bay Rays",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/551c0b9fad0eda5a52ea8d7ee0621fd1.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9e038e81b081389ff389470356be5f28.png",
+            "Match Title": "Kansas City Royals VS Tampa Bay Rays | MLB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Tampa_Bay_Rays_MLB.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=2e2c587a18b81cd44b418a782f620ce6&x-time=1782254760"
+                }
+            ]
+        },
+        {
+            "Category": "MLB",
+            "League": "MLB",
+            "Team 1 Name": "Philadelphia Phillies",
+            "Team 2 Name": "Washington Nationals",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/d0da2572dd1c88c6d789db080e89b808.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/3aa729c95fdb164ba8973aa5c2af9f8f.png",
+            "Match Title": "Philadelphia Phillies VS Washington Nationals | MLB",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=4f7bf985c3a95d800d6ac225fd9e3f03&x-time=1782254760"
                 }
             ]
         },
@@ -84,11 +160,36 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png",
             "Match Title": "Panama VS Croatia | World Cup",
             "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "5:00 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782341220-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-2bad5769974d843f09e970725a8af3f5"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=c6c979c2bc90882523513eb7f6347106&x-time=1782254820"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=7506cb5503cb26eb6e534b0ca63bea49&x-time=1782254820"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782341221-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-99d71339dff8743230446c967256c874"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1-hd/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=9dd7e27f9c68cbb29ef77a9a8fbd3c4a&x-time=1782254820"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1-hd/chunks.m3u8?is_vip=false&token=1782341222-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-eb807174ad855c3ff20f8c02fbfbd889"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -226,64 +327,64 @@
             "Stream URL": []
         },
         {
-            "Category": "Baseball",
-            "League": "MLB",
-            "Team 1 Name": "Texas Rangers",
-            "Team 2 Name": "Miami Marlins",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/a61c41e388334ccc216cd7249242951e.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/d4a6596e1714207c0424419c97c5c9d5.png",
-            "Match Title": "Texas Rangers VS Miami Marlins | MLB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas_Rangers_VS_Miami_Marlins_MLB.jpg",
-            "Match Status": "Live",
-            "Start Time": "4:40 AM 24-06-2026",
+            "Category": "Tennis",
+            "League": "Bad Homburg Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 5 | Bad Homburg Open",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "3:00 PM 25-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=7abf161ff153af442e09b736e3c73633bf283391&x-sign=74454932f347886d28987e3776f7e232&x-time=1782253860"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Baseball",
             "League": "MLB",
-            "Team 1 Name": "Seattle Mariners",
-            "Team 2 Name": "Pittsburgh Pirates",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/45637067efc775929dbbf02f689001e0.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/62cb5f778f4e9fd3939b157e8132a56e.png",
-            "Match Title": "Seattle Mariners VS Pittsburgh Pirates | MLB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle_Mariners_VS_Pittsburgh_Pirates_MLB.jpg",
-            "Match Status": "Live",
-            "Start Time": "4:40 AM 24-06-2026",
+            "Team 1 Name": "Chicago Cubs",
+            "Team 2 Name": "New York Mets",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/22c26f6ed8757580c8e4b123f7605042.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e65493e53c88c1c5a1ce2775595c7fd1.png",
+            "Match Title": "Chicago Cubs VS New York Mets | MLB",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "5:10 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=7abf161ff153af442e09b736e3c73633bf283391&x-sign=a2c1526b8bcbda57404fd81015482f31&x-time=1782253860"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Baseball",
             "League": "MLB",
-            "Team 1 Name": "Kansas City Royals",
-            "Team 2 Name": "Tampa Bay Rays",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/551c0b9fad0eda5a52ea8d7ee0621fd1.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9e038e81b081389ff389470356be5f28.png",
-            "Match Title": "Kansas City Royals VS Tampa Bay Rays | MLB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Tampa_Bay_Rays_MLB.jpg",
-            "Match Status": "Live",
-            "Start Time": "4:40 AM 24-06-2026",
+            "Team 1 Name": "Milwaukee Brewers",
+            "Team 2 Name": "Cincinnati Reds",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/da55b4eff81ccee55167068944681a61.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/58d6c960d71b45999c86838183446837.png",
+            "Match Title": "Milwaukee Brewers VS Cincinnati Reds | MLB",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "5:10 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=7abf161ff153af442e09b736e3c73633bf283391&x-sign=f584e40d2f61c8cbd6bd0981d13b7903&x-time=1782253860"
-                }
-            ]
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "MLB",
+            "Team 1 Name": "Los Angeles Dodgers",
+            "Team 2 Name": "Minnesota Twins",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/d22c055698a3e925964e903e6a2b9513.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/0e7fa22cbef87f7f980423c8b6d0bb79.png",
+            "Match Title": "Los Angeles Dodgers VS Minnesota Twins | MLB",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Upcoming",
+            "Start Time": "5:40 AM 24-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
         },
         {
             "Category": "MMA",
@@ -337,13 +438,22 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 3 | YONEX US OPEN",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg",
-            "Match Status": "Upcoming",
-            "Start Time": "10:00 AM 24-06-2026",
+            "Match Title": "Court 2 | YONEX US OPEN",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg",
+            "Match Status": "Live",
+            "Start Time": "5:00 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782341226-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-ebe472175ec24e512dbbdce9b64e7a2e"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=351bc335e96397ee370098b59e0f637e&x-time=1782254820"
+                }
+            ]
         },
         {
             "Category": "Badminton",
@@ -354,11 +464,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 4 | YONEX US OPEN",
             "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg",
-            "Match Status": "Upcoming",
-            "Start Time": "10:00 AM 24-06-2026",
+            "Match Status": "Live",
+            "Start Time": "5:00 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782341230-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-96f8d96b141145e6df1a56280b6067be"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=1ff35734a11b687f9d389cabe714bf0b&x-time=1782254820"
+                }
+            ]
         },
         {
             "Category": "Badminton",
@@ -367,13 +486,22 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 2 | YONEX US OPEN",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg",
-            "Match Status": "Upcoming",
-            "Start Time": "10:00 AM 24-06-2026",
+            "Match Title": "Court 3 | YONEX US OPEN",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg",
+            "Match Status": "Live",
+            "Start Time": "5:00 AM 24-06-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782341234-Kv4cPTAAP5YTi-5e969065a409227569c6caf2731358bb98f03bdd-8f400e746430fd3e58130b4f541b6319"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5e969065a409227569c6caf2731358bb98f03bdd&x-sign=529089b872666328b2a53483ab05e59b&x-time=1782254820"
+                }
+            ]
         }
     ]
 }
