@@ -3,19 +3,19 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:46:31 AM 23-06-2026"
+        "last_update_time": "6:01:30 AM 23-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
         {
             "Category": "Football",
             "League": "World Cup",
-            "Team 1 Name": "France",
-            "Team 2 Name": "Iraq",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1567.png",
-            "Match Title": "France VS Iraq | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg",
+            "Team 1 Name": "Norway",
+            "Team 2 Name": "Senegal",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/8208a99e14d74fed3263d073e2bbf8ae.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13.png",
+            "Match Title": "Norway VS Senegal | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway_VS_Senegal_World_Cup.jpg",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -23,19 +23,43 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71&x-sign=d359893b886c2bfed4dc3408b88f76ed&x-time=1782171960"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=5378faa7c725daa51666dfb43d8991f77eb4c93b&x-sign=bb87a661832a76e3ec8c5c29c5711a29&x-time=1782172860"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782258394-Kv4cPTAAP5YTi-2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71-16810bc812efd7cb1d61079505728bf5"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782259293-Kv4cPTAAP5YTi-5378faa7c725daa51666dfb43d8991f77eb4c93b-c3a4c5f7a3064b44648c2df0103ed66b"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782258394-Kv4cPTAAP5YTi-2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71-a748a0fe0da4d403a30f683304a805f4"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c/chunks.m3u8?is_vip=false&token=5378faa7c725daa51666dfb43d8991f77eb4c93b&x-sign=f496fb00b6db8ab6e4095d9a226867f7&x-time=1782172860"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71&x-sign=66e0e03069f73e284c8cba1a8ed7c4af&x-time=1782171960"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c/chunks.m3u8?is_vip=false&token=1782259294-Kv4cPTAAP5YTi-5378faa7c725daa51666dfb43d8991f77eb4c93b-eff30a9c39dbdd4c760fde8b48be6c2f"
+                },
+                {
+                    "server_name": "Server 5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c-hd/chunks.m3u8?is_vip=false&token=5378faa7c725daa51666dfb43d8991f77eb4c93b&x-sign=265c19623a271d8cad40b43d18b12e0f&x-time=1782172860"
+                },
+                {
+                    "server_name": "Server 6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c-hd/chunks.m3u8?is_vip=false&token=1782259295-Kv4cPTAAP5YTi-5378faa7c725daa51666dfb43d8991f77eb4c93b-0a87552861a537d2df9f3e3a330c3944"
+                },
+                {
+                    "server_name": "Server 7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c-cnhd/chunks.m3u8?is_vip=false&token=5378faa7c725daa51666dfb43d8991f77eb4c93b&x-sign=1433b032d106a6820d39a25d3a64fc26&x-time=1782172860"
+                },
+                {
+                    "server_name": "Server 8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c-cnhd/chunks.m3u8?is_vip=false&token=1782259295-Kv4cPTAAP5YTi-5378faa7c725daa51666dfb43d8991f77eb4c93b-73a39d1f74af2d41a2be4ee329f17029"
+                },
+                {
+                    "server_name": "Server 9",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c-cnhd2/chunks.m3u8?is_vip=false&token=5378faa7c725daa51666dfb43d8991f77eb4c93b&x-sign=4ae9b002b3bab6b2ad18461b57e14381&x-time=1782172860"
+                },
+                {
+                    "server_name": "Server 10",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c-cnhd2/chunks.m3u8?is_vip=false&token=1782259296-Kv4cPTAAP5YTi-5378faa7c725daa51666dfb43d8991f77eb4c93b-b64df858c2ef91b9692644e14ba85f8a"
                 }
             ]
         },
@@ -55,51 +79,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1142/chunks.m3u8?is_vip=false&token=2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71&x-sign=d159a433ff475f88381165c88bc0494b&x-time=1782171960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1142/chunks.m3u8?is_vip=false&token=5378faa7c725daa51666dfb43d8991f77eb4c93b&x-sign=1e8e6f1a17e66a8a26e8b8dfb918f3a1&x-time=1782172860"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1142/chunks.m3u8?is_vip=false&token=1782258400-Kv4cPTAAP5YTi-2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71-1ac0260dbef21d8b237433db44d567d4"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1142/chunks.m3u8?is_vip=false&token=1782259301-Kv4cPTAAP5YTi-5378faa7c725daa51666dfb43d8991f77eb4c93b-131bc015147bb11374c1cd4d54ed250c"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1142-fhd/chunks.m3u8?is_vip=false&token=2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71&x-sign=b25c4ab72d596e66b31ba6fe65c7ef82&x-time=1782171960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1142-fhd/chunks.m3u8?is_vip=false&token=5378faa7c725daa51666dfb43d8991f77eb4c93b&x-sign=b7d13b8149eb0f84e92d7fb0f92a6339&x-time=1782172860"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1142-fhd/chunks.m3u8?is_vip=false&token=1782258400-Kv4cPTAAP5YTi-2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71-e6104af366b3acbdfaa75662bb8a602e"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "World Cup",
-            "Team 1 Name": "Norway",
-            "Team 2 Name": "Senegal",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/8208a99e14d74fed3263d073e2bbf8ae.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13.png",
-            "Match Title": "Norway VS Senegal | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway_VS_Senegal_World_Cup.jpg",
-            "Match Status": "Live",
-            "Start Time": "6:00 AM 23-06-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71&x-sign=1a64fa1e88c1c763dcaff1158d3016cc&x-time=1782171960"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782258405-Kv4cPTAAP5YTi-2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71-e42b53a1b9bccfbc9c90664d1e9b30e7"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c-hd/chunks.m3u8?is_vip=false&token=2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71&x-sign=6bfac006b5f6e8f7f632f4943ad4a4b6&x-time=1782171960"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010371c-hd/chunks.m3u8?is_vip=false&token=1782258406-Kv4cPTAAP5YTi-2bec1016a58ef6e13fa4b1abfe1aee2f31c9be71-2f3fe54278d7b06c3daf23c7700033d6"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1142-fhd/chunks.m3u8?is_vip=false&token=1782259302-Kv4cPTAAP5YTi-5378faa7c725daa51666dfb43d8991f77eb4c93b-0f72f919394272414268ea9374ea32a6"
                 }
             ]
         },
