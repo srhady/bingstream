@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "9:16:35 PM 24-06-2026"
+        "last_update_time": "9:31:33 PM 24-06-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
@@ -23,11 +23,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782400598-Kv4cPTAAP5YTi-37cf2cad1831f0007a096f5767b8919bd8ea59bd-d12a8d6e8fbd21e06fbc559bc517192b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782401496-Kv4cPTAAP5YTi-ecacca808b2e28d74a7463652c474c8afc234d72-f2f8822d52303383128baf659e29d5bb"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=37cf2cad1831f0007a096f5767b8919bd8ea59bd&x-sign=df510e4244f6a88734f098960e43f229&x-time=1782314160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=ecacca808b2e28d74a7463652c474c8afc234d72&x-sign=de18ed17656dd8254f4d6dfa8640fea3&x-time=1782315060"
+                }
+            ]
+        },
+        {
+            "Category": "Eastbourne Open",
+            "League": "Eastbourne Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 3 | Eastbourne Open",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Eastbourne_Open.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782401500-Kv4cPTAAP5YTi-ecacca808b2e28d74a7463652c474c8afc234d72-811e7bdb5b95540ed591d3406dda5bdd"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=ecacca808b2e28d74a7463652c474c8afc234d72&x-sign=d752adfb5fd1910deaa5e8cfc4739ab9&x-time=1782315060"
                 }
             ]
         },
