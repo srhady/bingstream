@@ -3,19 +3,19 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "7:01:32 AM 03-07-2026"
+        "last_update_time": "7:16:29 AM 03-07-2026"
     },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
         {
-            "Category": "World Cup",
-            "League": "World Cup",
-            "Team 1 Name": "Portugal",
-            "Team 2 Name": "Croatia",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png",
-            "Match Title": "Portugal VS Croatia | World Cup",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal_VS_Croatia_World_Cup.jpg",
+            "Category": "Baseball",
+            "League": "MLB",
+            "Team 1 Name": "Chicago White Sox",
+            "Team 2 Name": "Cleveland Guardians",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/a70d7dc8c2447f6862ef947f56fa9be0.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/464a3a0178ccdd14ac28822c510a13d9.png",
+            "Match Title": "Chicago White Sox VS Cleveland Guardians | MLB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago_White_Sox_VS_Cleveland_Guardians_MLB.jpg",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -23,54 +23,18 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=1d50561959890341d1ee062beeed826d&x-time=1783040460"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99/chunks.m3u8?is_vip=false&token=1783126894-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-e6725e596fad1f7ba608fb0a5f89f849"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99-hd/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=003d19ab9d305f0c639a88154da2a98d&x-time=1783040460"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99-hd/chunks.m3u8?is_vip=false&token=1783126895-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-f180847faa78dfe14f169b2e3c66e742"
-                },
-                {
-                    "server_name": "Server 5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99-cnhd/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=6f17a544f9fd1d969a18c86732b87a5e&x-time=1783040460"
-                },
-                {
-                    "server_name": "Server 6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99-cnhd/chunks.m3u8?is_vip=false&token=1783126896-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-fd4c9bc19855a60f28d416f21326afea"
-                },
-                {
-                    "server_name": "Server 7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99-cnhd2/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=4b84f25f4580f21a54cae4e57024eaee&x-time=1783040460"
-                },
-                {
-                    "server_name": "Server 8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99-cnhd2/chunks.m3u8?is_vip=false&token=1783126896-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-9f7811ec015b614fe3934bd55231399f"
-                },
-                {
-                    "server_name": "Server 9",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99-fhd/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=cbfa338abeb6ffccece679bb6751cbe3&x-time=1783040460"
-                },
-                {
-                    "server_name": "Server 10",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef99-fhd/chunks.m3u8?is_vip=false&token=1783126897-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-caf6e5638eb02249257a99cd3c6e7e32"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=06f7badc32d0ff72d26fd4a8968785b0ae67956c&x-sign=7efb7ed94cee07bd16d6556ab946c024&x-time=1783041360"
                 }
             ]
         },
         {
-            "Category": "USL League Two",
-            "League": "USL League Two",
-            "Team 1 Name": "Peoria",
-            "Team 2 Name": "St. Louis Ambush",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10101.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25950.png",
-            "Match Title": "Peoria VS St. Louis Ambush | USL League Two",
+            "Category": "M25 Skopje MD",
+            "League": "M25 Skopje MD",
+            "Team 1 Name": "Castelnuovo/Saxer",
+            "Team 2 Name": "Shandarov/Shandarov",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Castelnuovo/Saxer VS Shandarov/Shandarov | M25 Skopje MD",
             "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
             "Match Status": "Live",
             "Start Time": "Live Now",
@@ -79,59 +43,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f88/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=d74d53a8fce0481fb2e97920e4e857a7&x-time=1783040460"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46fc161ceff89491d89819/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=dcf126b1237ab529a45bd00433b3f31d&x-time=1783040520"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f88/chunks.m3u8?is_vip=false&token=1783126901-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-e699d3ce35dffe307a99e9e217f259f2"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Serie B",
-            "Team 1 Name": "Fortaleza EC",
-            "Team 2 Name": "Ponte Preta",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/154.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/139.png",
-            "Match Title": "Fortaleza EC VS Ponte Preta | Serie B",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fortaleza_EC_VS_Ponte_Preta_Serie_B.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2982fd1ddd96f8c541832d/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=26504289861302dd8c5c7b984292459b&x-time=1783040460"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2982fd1ddd96f8c541832d/chunks.m3u8?is_vip=false&token=1783126905-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-6c6fd7366467704e5aa0e426d0378b73"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "USL Championship",
-            "Team 1 Name": "Birmingham Legion",
-            "Team 2 Name": "Detroit City",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3989.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9043.png",
-            "Match Title": "Birmingham Legion VS Detroit City | USL Championship",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham_Legion_VS_Detroit_City_USL_Championship.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef9a/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=92bea3f09a6506e16a5c0418ce5b4cab&x-time=1783040460"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef9a/chunks.m3u8?is_vip=false&token=1783126910-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-d968b3e9e0307f611e95ec5e0e762c0c"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46fc161ceff89491d89819/chunks.m3u8?is_vip=false&token=1783126948-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-0f5aacbb5785362b31cc5512db6d7d64"
                 }
             ]
         },
@@ -286,7 +202,31 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=f1fd1fbf9e2ca8b6ef27331f5c53c67b&x-time=1783040520"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=06f7badc32d0ff72d26fd4a8968785b0ae67956c&x-sign=3b3fdadda903eb6edb981197df2f27b4&x-time=1783041360"
+                }
+            ]
+        },
+        {
+            "Category": "USL League Two",
+            "League": "USL League Two",
+            "Team 1 Name": "Peoria",
+            "Team 2 Name": "St. Louis Ambush",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10101.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25950.png",
+            "Match Title": "Peoria VS St. Louis Ambush | USL League Two",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f88/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=d74d53a8fce0481fb2e97920e4e857a7&x-time=1783040460"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f88/chunks.m3u8?is_vip=false&token=1783126901-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-e699d3ce35dffe307a99e9e217f259f2"
                 }
             ]
         },
@@ -315,54 +255,6 @@
             ]
         },
         {
-            "Category": "USL League Two",
-            "League": "USL League Two",
-            "Team 1 Name": "Apotheos",
-            "Team 2 Name": "East Atlanta",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23216.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10097.png",
-            "Match Title": "Apotheos VS East Atlanta | USL League Two",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Apotheos_VS_East_Atlanta_USL_League_Two.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f83/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=c08e14b760d29c6f97b39d3aa60d48d5&x-time=1783040520"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f83/chunks.m3u8?is_vip=false&token=1783126944-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-c89cc17c33b0f4007bc116583468348d"
-                }
-            ]
-        },
-        {
-            "Category": "M25 Skopje MD",
-            "League": "M25 Skopje MD",
-            "Team 1 Name": "Castelnuovo/Saxer",
-            "Team 2 Name": "Shandarov/Shandarov",
-            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "Castelnuovo/Saxer VS Shandarov/Shandarov | M25 Skopje MD",
-            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46fc161ceff89491d89819/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=dcf126b1237ab529a45bd00433b3f31d&x-time=1783040520"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46fc161ceff89491d89819/chunks.m3u8?is_vip=false&token=1783126948-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-0f5aacbb5785362b31cc5512db6d7d64"
-                }
-            ]
-        },
-        {
             "Category": "Wimbledon XD",
             "League": "Wimbledon XD",
             "Team 1 Name": "Andreozzi/Sutjiadi",
@@ -383,6 +275,30 @@
                 {
                     "server_name": "Server 2",
                     "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a468b803c9c35419bdeb3b4/chunks.m3u8?is_vip=false&token=1783126952-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-8ffe7a24c06688ca21c3d7ea381e00cf"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Serie B",
+            "Team 1 Name": "Fortaleza EC",
+            "Team 2 Name": "Ponte Preta",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/154.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/139.png",
+            "Match Title": "Fortaleza EC VS Ponte Preta | Serie B",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fortaleza_EC_VS_Ponte_Preta_Serie_B.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2982fd1ddd96f8c541832d/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=26504289861302dd8c5c7b984292459b&x-time=1783040460"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2982fd1ddd96f8c541832d/chunks.m3u8?is_vip=false&token=1783126905-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-6c6fd7366467704e5aa0e426d0378b73"
                 }
             ]
         },
@@ -579,6 +495,69 @@
             ]
         },
         {
+            "Category": "M25 Figueira da Foz MD",
+            "League": "M25 Figueira da Foz MD",
+            "Team 1 Name": "Rocha/Valdoleiros",
+            "Team 2 Name": "Overbeck/Brostrom Poulsen",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Rocha/Valdoleiros VS Overbeck/Brostrom Poulsen | M25 Figueira da Foz MD",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46fc16ebc5c3ef2cd8553e/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=c1c6f22b9a73b72c1e7ddac0213b3cf7&x-time=1783040640"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46fc16ebc5c3ef2cd8553e/chunks.m3u8?is_vip=false&token=1783127086-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-ca96e2e92f9166b44b42366107074e84"
+                }
+            ]
+        },
+        {
+            "Category": "M15 Amstelveen MD",
+            "League": "M15 Amstelveen MD",
+            "Team 1 Name": "Bozemoj/Pel",
+            "Team 2 Name": "Marino/Noce",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Bozemoj/Pel VS Marino/Noce | M15 Amstelveen MD",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "USL Championship",
+            "Team 1 Name": "Birmingham Legion",
+            "Team 2 Name": "Detroit City",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3989.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9043.png",
+            "Match Title": "Birmingham Legion VS Detroit City | USL Championship",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham_Legion_VS_Detroit_City_USL_Championship.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef9a/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=92bea3f09a6506e16a5c0418ce5b4cab&x-time=1783040460"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26dffcdf297140c416ef9a/chunks.m3u8?is_vip=false&token=1783126910-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-d968b3e9e0307f611e95ec5e0e762c0c"
+                }
+            ]
+        },
+        {
             "Category": "Baseball",
             "League": "MLB",
             "Team 1 Name": "Tampa Bay Rays",
@@ -594,95 +573,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=83804962dec04b4ce9595f624a13bacb&x-time=1783040580"
-                }
-            ]
-        },
-        {
-            "Category": "Baseball",
-            "League": "MLB",
-            "Team 1 Name": "St. Louis Cardinals",
-            "Team 2 Name": "Atlanta Braves",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5bbde4e58391c196b2c139741546bf52.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/49992c52a4e977fbe6203a2d22165961.png",
-            "Match Title": "St. Louis Cardinals VS Atlanta Braves | MLB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St._Louis_Cardinals_VS_Atlanta_Braves_MLB.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=4e67de0179b1506fc6aef86b8cf4a36f&x-time=1783040580"
-                }
-            ]
-        },
-        {
-            "Category": "Baseball",
-            "League": "MLB",
-            "Team 1 Name": "Chicago White Sox",
-            "Team 2 Name": "Cleveland Guardians",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/a70d7dc8c2447f6862ef947f56fa9be0.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/464a3a0178ccdd14ac28822c510a13d9.png",
-            "Match Title": "Chicago White Sox VS Cleveland Guardians | MLB",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago_White_Sox_VS_Cleveland_Guardians_MLB.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=acf4e7c32b62d951532690ba67c33ba5&x-time=1783040580"
-                }
-            ]
-        },
-        {
-            "Category": "M25 Marburg",
-            "League": "M25 Marburg",
-            "Team 1 Name": "Khumoyun Sultanov",
-            "Team 2 Name": "Filip Jeff Planinsek",
-            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "Khumoyun Sultanov VS Filip Jeff Planinsek | M25 Marburg",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Khumoyun_Sultanov_VS_Filip_Jeff_Planinsek_M25_Marburg.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46dfb71ceff89491d6f3a5/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=6aa36372eea70c7f229cefe32997a3a8&x-time=1783040580"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46dfb71ceff89491d6f3a5/chunks.m3u8?is_vip=false&token=1783126998-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-b8deb044019a5d3ee5cdbbd41d64bd94"
-                }
-            ]
-        },
-        {
-            "Category": "USL League Two",
-            "League": "USL League Two",
-            "Team 1 Name": "Cedar Stars Rush",
-            "Team 2 Name": "Long Island Rough Riders",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4038.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4062.png",
-            "Match Title": "Cedar Stars Rush VS Long Island Rough Riders | USL League Two",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cedar_Stars_Rush_VS_Long_Island_Rough_Riders_USL_League_Two.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f81/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=79255ab76f3d17df63b6f1eb2a66a7d7&x-time=1783040580"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f81/chunks.m3u8?is_vip=false&token=1783127001-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-dddf9ffbf55d5ff7cbbe2180db0c70f7"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=06f7badc32d0ff72d26fd4a8968785b0ae67956c&x-sign=90ec2eba1d7a94e3cd51ce098e7a1bd6&x-time=1783041420"
                 }
             ]
         },
@@ -707,6 +598,30 @@
                 {
                     "server_name": "Server 2",
                     "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46dfb730392eaef4de7a4c/chunks.m3u8?is_vip=false&token=1783127005-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-516fcd9ac830efd19e3a3b889c2b3b0a"
+                }
+            ]
+        },
+        {
+            "Category": "Wimbledon MD",
+            "League": "Wimbledon MD",
+            "Team 1 Name": "Griekspoor/Van De Zandschulp",
+            "Team 2 Name": "Nouza/Oberleitner",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Griekspoor/Van De Zandschulp VS Nouza/Oberleitner | Wimbledon MD",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/GriekspoorVan_De_Zandschulp_VS_NouzaOberleitner_Wimbledon_MD.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46dfb7f65afa224e2602c7/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=fe150a14c62d7bacd92250f12fc8c21d&x-time=1783040640"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46dfb7f65afa224e2602c7/chunks.m3u8?is_vip=false&token=1783127047-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-ee2ea220e1979932311db93b2fb143b9"
                 }
             ]
         },
@@ -903,6 +818,30 @@
             ]
         },
         {
+            "Category": "M25 Marburg",
+            "League": "M25 Marburg",
+            "Team 1 Name": "Khumoyun Sultanov",
+            "Team 2 Name": "Filip Jeff Planinsek",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Khumoyun Sultanov VS Filip Jeff Planinsek | M25 Marburg",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Khumoyun_Sultanov_VS_Filip_Jeff_Planinsek_M25_Marburg.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46dfb71ceff89491d6f3a5/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=6aa36372eea70c7f229cefe32997a3a8&x-time=1783040580"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46dfb71ceff89491d6f3a5/chunks.m3u8?is_vip=false&token=1783126998-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-b8deb044019a5d3ee5cdbbd41d64bd94"
+                }
+            ]
+        },
+        {
             "Category": "W50 Stuttgart-Vaihingen",
             "League": "W50 Stuttgart-Vaihingen",
             "Team 1 Name": "Ekaterine Gorgodze",
@@ -927,54 +866,6 @@
             ]
         },
         {
-            "Category": "Premier Padel Bordeaux",
-            "League": "Premier Padel Bordeaux",
-            "Team 1 Name": "Di Nenno/Navarro",
-            "Team 2 Name": "Augsburger/Lebron",
-            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "Di Nenno/Navarro VS Augsburger/Lebron | Premier Padel Bordeaux",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Di_NennoNavarro_VS_AugsburgerLebron_Premier_Padel_Bordeaux.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46dfb7074b83da01ac60ef/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=bf5a479da6827b25816c16446de38592&x-time=1783040640"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46dfb7074b83da01ac60ef/chunks.m3u8?is_vip=false&token=1783127043-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-890648697c06c9948a0387c9d549a84e"
-                }
-            ]
-        },
-        {
-            "Category": "Wimbledon MD",
-            "League": "Wimbledon MD",
-            "Team 1 Name": "Griekspoor/Van De Zandschulp",
-            "Team 2 Name": "Nouza/Oberleitner",
-            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "Griekspoor/Van De Zandschulp VS Nouza/Oberleitner | Wimbledon MD",
-            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/GriekspoorVan_De_Zandschulp_VS_NouzaOberleitner_Wimbledon_MD.jpg",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://iframe.rumsport10.live/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46dfb7f65afa224e2602c7/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=fe150a14c62d7bacd92250f12fc8c21d&x-time=1783040640"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46dfb7f65afa224e2602c7/chunks.m3u8?is_vip=false&token=1783127047-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-ee2ea220e1979932311db93b2fb143b9"
-                }
-            ]
-        },
-        {
             "Category": "Wimbledon WD",
             "League": "Wimbledon WD",
             "Team 1 Name": "Errani/Paolini",
@@ -995,6 +886,30 @@
                 {
                     "server_name": "Server 2",
                     "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ecbd8b585150755cdb/chunks.m3u8?is_vip=false&token=1783127051-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-1c22317005b8f5edc3c9cbef9b00d7f4"
+                }
+            ]
+        },
+        {
+            "Category": "USL League Two",
+            "League": "USL League Two",
+            "Team 1 Name": "Apotheos",
+            "Team 2 Name": "East Atlanta",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23216.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10097.png",
+            "Match Title": "Apotheos VS East Atlanta | USL League Two",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Apotheos_VS_East_Atlanta_USL_League_Two.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f83/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=c08e14b760d29c6f97b39d3aa60d48d5&x-time=1783040520"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a42abacf65afa224ee83f83/chunks.m3u8?is_vip=false&token=1783126944-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-c89cc17c33b0f4007bc116583468348d"
                 }
             ]
         },
@@ -1191,14 +1106,14 @@
             ]
         },
         {
-            "Category": "M25 Figueira da Foz MD",
-            "League": "M25 Figueira da Foz MD",
-            "Team 1 Name": "Rocha/Valdoleiros",
-            "Team 2 Name": "Overbeck/Brostrom Poulsen",
+            "Category": "Premier Padel Bordeaux",
+            "League": "Premier Padel Bordeaux",
+            "Team 1 Name": "Di Nenno/Navarro",
+            "Team 2 Name": "Augsburger/Lebron",
             "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
             "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "Rocha/Valdoleiros VS Overbeck/Brostrom Poulsen | M25 Figueira da Foz MD",
-            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Title": "Di Nenno/Navarro VS Augsburger/Lebron | Premier Padel Bordeaux",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Di_NennoNavarro_VS_AugsburgerLebron_Premier_Padel_Bordeaux.jpg",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -1206,13 +1121,48 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46fc16ebc5c3ef2cd8553e/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=c1c6f22b9a73b72c1e7ddac0213b3cf7&x-time=1783040640"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a46dfb7074b83da01ac60ef/chunks.m3u8?is_vip=false&token=443619ba0ec08135c683f0ca78ddfa385e4c8b27&x-sign=bf5a479da6827b25816c16446de38592&x-time=1783040640"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46fc16ebc5c3ef2cd8553e/chunks.m3u8?is_vip=false&token=1783127086-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-ca96e2e92f9166b44b42366107074e84"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a46dfb7074b83da01ac60ef/chunks.m3u8?is_vip=false&token=1783127043-Kv4cPTAAP5YTi-443619ba0ec08135c683f0ca78ddfa385e4c8b27-890648697c06c9948a0387c9d549a84e"
                 }
             ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "MLB",
+            "Team 1 Name": "St. Louis Cardinals",
+            "Team 2 Name": "Atlanta Braves",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5bbde4e58391c196b2c139741546bf52.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/49992c52a4e977fbe6203a2d22165961.png",
+            "Match Title": "St. Louis Cardinals VS Atlanta Braves | MLB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St._Louis_Cardinals_VS_Atlanta_Braves_MLB.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=06f7badc32d0ff72d26fd4a8968785b0ae67956c&x-sign=9cdd964b7183f61f3c8c1eed0cf9fa8c&x-time=1783041540"
+                }
+            ]
+        },
+        {
+            "Category": "M15 Getxo",
+            "League": "M15 Getxo",
+            "Team 1 Name": "Marcel Zielinski",
+            "Team 2 Name": "Carles Hernandez",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Marcel Zielinski VS Carles Hernandez | M15 Getxo",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
         },
         {
             "Category": "World Cup",
