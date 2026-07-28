@@ -37,7 +37,17 @@ jobs:
         with:
           node-version: '20'
 
+      # Caching Node Modules to reduce execution time
+      - name: ⚡ Cache Node Modules
+        uses: actions/cache@v4
+        id: cache-npm
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-cheerio
+
+      # Skip npm install if cache is successfully hit
       - name: 📦 Install Dependencies
+        if: steps.cache-npm.outputs.cache-hit != 'true'
         run: npm install cheerio
 
       - name: 🚀 Run Scraper
