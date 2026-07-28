@@ -8,67 +8,73 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 চেকআউট পাবলিক রিপোজিটরি
+      - name: 📥 Checkout Public Repository
         uses: actions/checkout@v4
 
-      - name: 🔐 চেকআউট প্রাইভেট স্ক্র্যাপার রিপোজিটরি (Sports)
+      - name: 🔐 Checkout Private Scraper Repository
         uses: actions/checkout@v4
         with:
           repository: srhady/Sports
           token: ${{ secrets.PAT_TOKEN }}
           path: private_script_folder
 
-      - name: 🗄️ চেকআউট প্রাইভেট স্টোরেজ রিপোজিটরি (bingstream-srt)
+      - name: 🗄️ Checkout Private Storage Repository
         uses: actions/checkout@v4
         with:
           repository: srhady/bingstream-srt
           token: ${{ secrets.PAT_TOKEN }}
           path: storage_dir
 
-      - name: 🟢 Node.js সেটআপ
+      - name: 📁 Checkout VIP Repository
+        uses: actions/checkout@v4
+        with:
+          repository: srhady/axsports
+          token: ${{ secrets.PAT_TOKEN }}
+          path: axsports
+
+      - name: 🟢 Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 📦 ডিপেন্ডেন্সি ইনস্টল
+      - name: 📦 Install Dependencies
         run: npm install cheerio
 
-      - name: 🚀 স্ক্র্যাপার রান করা
+      - name: 🚀 Run Scraper
         run: node private_script_folder/scraper.js
 
-      - name: 💾 স্টোরেজ রিপোতে নতুন/আপডেট .m3u8 ফাইল পুশ করা
+      - name: 💾 Push to Storage Repository
         run: |
           cd storage_dir
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A  # 🎯 এখানে -A দেওয়া হয়েছে যেন ডিলিট হওয়া ফাইলগুলোও গিটহাবে আপডেট হয়
+          git add -A
           git commit -m "Auto updated streams and cleaned dead files" || echo "No changes to commit"
           git push origin main
 
-      - name: 🕒 README-তে বিডি সময় আপডেট করা
+      - name: 🕒 Update BD Time in README
         run: |
-          # বর্তমান বিডি সময় বের করা (GMT+6)
           CUR_TIME=$(TZ='Asia/Dhaka' date +'%I:%M %p, %d %b %Y')
-          
-          # README-তে থাকা নির্দিষ্ট ব্যাজ লিংকের প্যাটার্ন পরিবর্তন করা
           sed -i "s|last--commit--time-.*-blue|last--commit--time-${CUR_TIME// /%20}-blue|g" README.md
 
-      - name: 💾 প্লেলিস্ট ও রিডমি পাবলিক গিটহাবে পুশ করা
+      - name: 💾 Push to Public GitHub (Bingstream)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # শুধু প্রয়োজনীয় ফাইলগুলো অ্যাড করা
           git add playlist.m3u || true
           git add playlist.json || true
           git add README.md || true
-          
-          # কমিট করা, যদি কোনো পরিবর্তন না থাকে তাহলে এরর না দেখিয়ে পরের ধাপে যাওয়া
           git commit -m "Auto Update Playlist & BD Time: $(TZ='Asia/Dhaka' date +'%I:%M %p')" || echo "No changes to commit"
-          
-          # Autostash ব্যবহার করে আনস্টেজড ফাইলগুলো সাময়িকভাবে সরিয়ে রিমোট থেকে নতুন ডেটা পুল করা
           git pull --rebase --autostash origin main
-          
-          # গিটহাবে পুশ করা
           git push
 
+      - name: 💎 Push VIP Playlist to Axsports
+        run: |
+          cd axsports
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u || true
+          git add live_sports.json || true
+          git commit -m "Auto Update VIP Playlist: $(TZ='Asia/Dhaka' date +'%I:%M %p')" || echo "No changes to commit"
+          git pull --rebase --autostash origin main || true
+          git push
