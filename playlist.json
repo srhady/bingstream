@@ -3,9 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "4:32:22 AM 03-08-2026",
+        "last_update_time": "4:47:33 AM 03-08-2026",
         "statistics": {
-            "total_live": 4,
+            "total_live": 7,
             "total_upcoming": 25
         }
     },
@@ -39,8 +39,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:31:40",
-                    "updated_at": "2026-08-02 22:31:40"
+                    "created_at": "2026-08-02 22:47:33",
+                    "updated_at": "2026-08-02 22:47:33"
                 },
                 {
                     "id": "",
@@ -50,9 +50,9 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:31:40",
-                    "updated_at": "2026-08-02 22:31:40",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1785796343-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6291771954901110f9345c179c6ed633"
+                    "created_at": "2026-08-02 22:47:33",
+                    "updated_at": "2026-08-02 22:47:33",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1785797254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b4ccdc02a9b0dab75bc33bf9863699d"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -82,15 +82,53 @@
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0e8/index.m3u8",
                     "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:25",
-                    "updated_at": "2026-08-02 22:32:25",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0e8/chunks.m3u8?is_vip=false&token=1785796345-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a19b17326824e56bc427c0d313ae06a6"
+                    "created_at": "2026-08-02 22:47:36",
+                    "updated_at": "2026-08-02 22:47:36",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0e8/chunks.m3u8?is_vip=false&token=1785797256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-220148d98c555e83257197dbe6917f88"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0e8/index.m3u8",
                     "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:25",
-                    "updated_at": "2026-08-02 22:32:25"
+                    "created_at": "2026-08-02 22:47:36",
+                    "updated_at": "2026-08-02 22:47:36"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37093,
+            "status": "LIVE",
+            "name": "New York Red Bulls II vs New England Revolution II",
+            "slug": "new-york-red-bulls-ii-vs-new-england-revolution-ii",
+            "score": "vs",
+            "timelive": "21:00",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1785704400,
+            "timestamp": 1785704400,
+            "bd_time": "3:00 AM 03-08-2026",
+            "ishot": false,
+            "league_name": "USA MLS Next Pro League",
+            "league_logo": "",
+            "localteam_name": "New York Red Bulls II",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1425.png",
+            "visitorteam_name": "New England Revolution II",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/695032.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a69034a15289307fd1ee31e/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:39",
+                    "updated_at": "2026-08-02 22:47:39",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a69034a15289307fd1ee31e/chunks.m3u8?is_vip=false&token=1785797259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c4828e79163a4d2fcba7f810ddb69336"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a69034a15289307fd1ee31e/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:39",
+                    "updated_at": "2026-08-02 22:47:39"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -120,15 +158,91 @@
                 {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ea/index.m3u8",
                     "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:27",
-                    "updated_at": "2026-08-02 22:32:27",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ea/chunks.m3u8?is_vip=false&token=1785796348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f753abf3dbe97ba18a6266778c308720"
+                    "created_at": "2026-08-02 22:47:40",
+                    "updated_at": "2026-08-02 22:47:40",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ea/chunks.m3u8?is_vip=false&token=1785797260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5ad8a822dbcaa3ef8f8341e415164fd"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ea/index.m3u8",
                     "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:27",
-                    "updated_at": "2026-08-02 22:32:27"
+                    "created_at": "2026-08-02 22:47:40",
+                    "updated_at": "2026-08-02 22:47:40"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35465,
+            "status": "LIVE",
+            "name": "Internacional vs Corinthians",
+            "slug": "internacional-vs-corinthians",
+            "score": "vs",
+            "timelive": "22:30",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1785709800,
+            "timestamp": 1785709800,
+            "bd_time": "4:30 AM 03-08-2026",
+            "ishot": false,
+            "league_name": "Copa do Brasil",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/73.png",
+            "localteam_name": "Internacional",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1422.png",
+            "visitorteam_name": "Corinthians",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/4128.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ec/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:41",
+                    "updated_at": "2026-08-02 22:47:41",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ec/chunks.m3u8?is_vip=false&token=1785797261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aeff5a9d3a9aed1fd022385415596736"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ec/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:41",
+                    "updated_at": "2026-08-02 22:47:41"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35467,
+            "status": "LIVE",
+            "name": "Club America vs Santos Laguna",
+            "slug": "club-america-vs-santos-laguna",
+            "score": "vs",
+            "timelive": "23:00",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1785711600,
+            "timestamp": 1785711600,
+            "bd_time": "5:00 AM 03-08-2026",
+            "ishot": false,
+            "league_name": "Mexico Liga MX",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/262.png",
+            "localteam_name": "Club America",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/37303.png",
+            "visitorteam_name": "Santos Laguna",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1465.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ee-hd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:42",
+                    "updated_at": "2026-08-02 22:47:42",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ee-hd/chunks.m3u8?is_vip=false&token=1785797263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b405979c99a6cdf3b2ef65841b282d6f"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe919a1d202ef623a0ee-hd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:42",
+                    "updated_at": "2026-08-02 22:47:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -143,7 +257,7 @@
             "timelive": "23:00",
             "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1785711600,
             "timestamp": 1785711600,
             "bd_time": "5:00 AM 03-08-2026",
@@ -163,8 +277,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
+                    "created_at": "2026-08-02 22:47:44",
+                    "updated_at": "2026-08-02 22:47:44"
                 },
                 {
                     "id": "",
@@ -174,831 +288,9 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/452/720p/chunks.m3u8?is_vip=false&token=1785796349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-adc386e188a2f5468200da81fe8388c5"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 33406,
-            "status": "NS",
-            "name": "Toronto Tempo vs Golden State Valkyries",
-            "slug": "toronto-tempo-vs-golden-state-valkyries",
-            "score": "vs",
-            "timelive": "00:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785717000,
-            "timestamp": 1785717000,
-            "bd_time": "6:30 AM 03-08-2026",
-            "ishot": false,
-            "league_name": "WNBA",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "510821",
-                    "stream_name": "510821",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/510821_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "510821",
-                    "stream_name": "510821",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510821_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35469,
-            "status": "NS",
-            "name": "Chivas Guadalajara (W) vs Queretaro (W)",
-            "slug": "chivas-guadalajara-w-vs-queretaro-w",
-            "score": "vs",
-            "timelive": "23:06",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785711960,
-            "timestamp": 1785711960,
-            "bd_time": "5:06 AM 03-08-2026",
-            "ishot": false,
-            "league_name": "Mexico Liga MX Femenil",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/673.png",
-            "localteam_name": "Chivas Guadalajara (W)",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1177948.png",
-            "visitorteam_name": "Queretaro (W)",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1176629.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a667c5f7c78df962cf72992/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a667c5f7c78df962cf72992/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35470,
-            "status": "NS",
-            "name": "Denver Summit FC (W) vs Boston Legacy FC (W)",
-            "slug": "denver-summit-fc-w-vs-boston-legacy-fc-w",
-            "score": "vs",
-            "timelive": "01:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785718800,
-            "timestamp": 1785718800,
-            "bd_time": "7:00 AM 03-08-2026",
-            "ishot": false,
-            "league_name": "USA NWSL Women",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/254.png",
-            "localteam_name": "Denver Summit FC (W)",
-            "localteam_logo": "",
-            "visitorteam_name": "Boston Legacy FC (W)",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0b/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0b/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35471,
-            "status": "NS",
-            "name": "Toluca vs Necaxa",
-            "slug": "toluca-vs-necaxa",
-            "score": "vs",
-            "timelive": "01:05",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785719100,
-            "timestamp": 1785719100,
-            "bd_time": "7:05 AM 03-08-2026",
-            "ishot": false,
-            "league_name": "Mexico Liga MX",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/262.png",
-            "localteam_name": "Toluca",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1052.png",
-            "visitorteam_name": "Necaxa",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/43588.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0a/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0a/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0a-hd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0a-hd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:29",
-                    "updated_at": "2026-08-02 22:32:29"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 37097,
-            "status": "NS",
-            "name": "The Town vs Austin FC II",
-            "slug": "the-town-vs-austin-fc-ii",
-            "score": "vs",
-            "timelive": "02:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785724200,
-            "timestamp": 1785724200,
-            "bd_time": "8:30 AM 03-08-2026",
-            "ishot": false,
-            "league_name": "USA MLS Next Pro League",
-            "league_logo": "",
-            "localteam_name": "The Town",
-            "localteam_logo": "",
-            "visitorteam_name": "Austin FC II",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a69034a15289307fd1ee312/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a69034a15289307fd1ee312/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 37094,
-            "status": "NS",
-            "name": "Athletic Bilbao U17 vs Bayer Leverkusen U17",
-            "slug": "athletic-bilbao-u17-vs-bayer-leverkusen-u17",
-            "score": "vs",
-            "timelive": "08:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785744000,
-            "timestamp": 1785744000,
-            "bd_time": "2:00 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "Shanghai Future Star Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/7334.png",
-            "localteam_name": "Athletic Bilbao U17",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-h-b3644980594a.png",
-            "visitorteam_name": "Bayer Leverkusen U17",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-a-f2a79edfc133.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0d/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0d/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35472,
-            "status": "NS",
-            "name": "Cambodia vs Timor Leste",
-            "slug": "cambodia-vs-timor-leste",
-            "score": "vs",
-            "timelive": "10:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785753000,
-            "timestamp": 1785753000,
-            "bd_time": "4:30 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "ASEAN Championship",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/24.png",
-            "localteam_name": "Cambodia",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/4236.png",
-            "visitorteam_name": "Timor Leste",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/56567.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c13/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c13/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 37099,
-            "status": "NS",
-            "name": "Shanghai U17 vs Sporting CP U17",
-            "slug": "shanghai-u17-vs-sporting-cp-u17",
-            "score": "vs",
-            "timelive": "11:35",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785756900,
-            "timestamp": 1785756900,
-            "bd_time": "5:35 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "Shanghai Future Star Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/7334.png",
-            "localteam_name": "Shanghai U17",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-h-2228845ac21e.png",
-            "visitorteam_name": "Sporting CP U17",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-a-deab030b1815.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c10/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c10/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 37100,
-            "status": "NS",
-            "name": "Tottenham Hotspur U17 vs River Plate U17",
-            "slug": "tottenham-hotspur-u17-vs-river-plate-u17",
-            "score": "vs",
-            "timelive": "11:35",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785756900,
-            "timestamp": 1785756900,
-            "bd_time": "5:35 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "Shanghai Future Star Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/7334.png",
-            "localteam_name": "Tottenham Hotspur U17",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-h-5eaebd5ed2c1.png",
-            "visitorteam_name": "River Plate U17",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-a-74a21154f423.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c11/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c11/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 37101,
-            "status": "NS",
-            "name": "China U17 vs Arsenal U17",
-            "slug": "china-u17-vs-arsenal-u17",
-            "score": "vs",
-            "timelive": "11:35",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785756900,
-            "timestamp": 1785756900,
-            "bd_time": "5:35 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "Shanghai Future Star Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/7334.png",
-            "localteam_name": "China U17",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7501-h-13408e4f06a2.png",
-            "visitorteam_name": "Arsenal U17",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-a-350aefd916f8.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c12/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c12/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35473,
-            "status": "NS",
-            "name": "Indonesia vs Vietnam",
-            "slug": "indonesia-vs-vietnam",
-            "score": "vs",
-            "timelive": "13:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785763800,
-            "timestamp": 1785763800,
-            "bd_time": "7:30 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "ASEAN Championship",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/24.png",
-            "localteam_name": "Indonesia",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/8289.png",
-            "visitorteam_name": "Vietnam",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/53498.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c14/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c14/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35475,
-            "status": "NS",
-            "name": "Universitatea Cluj vs FC Botosani",
-            "slug": "universitatea-cluj-vs-fc-botosani",
-            "score": "vs",
-            "timelive": "15:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785771000,
-            "timestamp": 1785771000,
-            "bd_time": "9:30 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "Romania Liga I",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/283.png",
-            "localteam_name": "Universitatea Cluj",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/176857.png",
-            "visitorteam_name": "FC Botosani",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/9422.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a5/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a5/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a5-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a5-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 37114,
-            "status": "NS",
-            "name": "Zalaegerszegi TE vs Paksi FC",
-            "slug": "zalaegerszegi-te-vs-paksi-fc",
-            "score": "vs",
-            "timelive": "16:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785774600,
-            "timestamp": 1785774600,
-            "bd_time": "10:30 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "HUN Fizz Liga",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/308.png",
-            "localteam_name": "Zalaegerszegi TE",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1009.png",
-            "visitorteam_name": "Paksi FC",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-24-a-6642fad105ac.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b58515014729d/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b58515014729d/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35477,
-            "status": "NS",
-            "name": "Chrobry Glogow vs Odra Opole",
-            "slug": "chrobry-glogow-vs-odra-opole",
-            "score": "vs",
-            "timelive": "17:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785776400,
-            "timestamp": 1785776400,
-            "bd_time": "11:00 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "Poland I Liga",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/107.png",
-            "localteam_name": "Chrobry Glogow",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/990.png",
-            "visitorteam_name": "Odra Opole",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/3640.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b5851501472b2/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b5851501472b2/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:33",
-                    "updated_at": "2026-08-02 22:32:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 37015,
-            "status": "NS",
-            "name": "Cracovia Krakow vs Pogon Szczecin",
-            "slug": "cracovia-krakow-vs-pogon-szczecin",
-            "score": "vs",
-            "timelive": "17:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785776400,
-            "timestamp": 1785776400,
-            "bd_time": "11:00 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "Poland Ekstraklasa",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/106.png",
-            "localteam_name": "Cracovia Krakow",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/9771.png",
-            "visitorteam_name": "Pogon Szczecin",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/43934.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35478,
-            "status": "NS",
-            "name": "Orebro SK vs IFK Varnamo",
-            "slug": "orebro-sk-vs-ifk-varnamo",
-            "score": "vs",
-            "timelive": "17:05",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785776700,
-            "timestamp": 1785776700,
-            "bd_time": "11:05 PM 03-08-2026",
-            "ishot": false,
-            "league_name": "Sweden Superettan",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/114.png",
-            "localteam_name": "Orebro SK",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/836.png",
-            "visitorteam_name": "IFK Varnamo",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/44263.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae228/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae228/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35479,
-            "status": "NS",
-            "name": "Celtic vs Dundee",
-            "slug": "celtic-vs-dundee",
-            "score": "vs",
-            "timelive": "18:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785781800,
-            "timestamp": 1785781800,
-            "bd_time": "12:30 AM 04-08-2026",
-            "ishot": false,
-            "league_name": "Scotland Premiership",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/179.png",
-            "localteam_name": "Celtic",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/10262.png",
-            "visitorteam_name": "Dundee",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/17448.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-hd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-hd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35480,
-            "status": "NS",
-            "name": "FCSB vs Farul Constanta",
-            "slug": "fcsb-vs-farul-constanta",
-            "score": "vs",
-            "timelive": "18:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785781800,
-            "timestamp": 1785781800,
-            "bd_time": "12:30 AM 04-08-2026",
-            "ishot": false,
-            "league_name": "Romania Liga I",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/283.png",
-            "localteam_name": "FCSB",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/161396.png",
-            "visitorteam_name": "Farul Constanta",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/179845.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a8/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a8/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a8-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a8-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 37016,
-            "status": "NS",
-            "name": "York vs Crawley Town",
-            "slug": "york-vs-crawley-town",
-            "score": "vs",
-            "timelive": "18:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785781800,
-            "timestamp": 1785781800,
-            "bd_time": "12:30 AM 04-08-2026",
-            "ishot": false,
-            "league_name": "England EFL Cup",
-            "league_logo": "",
-            "localteam_name": "York",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1876.png",
-            "visitorteam_name": "Crawley Town",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/3062.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147274/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147274/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 35482,
-            "status": "NS",
-            "name": "Atlante (W) vs Necaxa (W)",
-            "slug": "atlante-w-vs-necaxa-w",
-            "score": "vs",
-            "timelive": "21:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1785793500,
-            "timestamp": 1785793500,
-            "bd_time": "3:45 AM 04-08-2026",
-            "ishot": false,
-            "league_name": "Mexico Liga MX Femenil",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/673.png",
-            "localteam_name": "Atlante (W)",
-            "localteam_logo": "",
-            "visitorteam_name": "Necaxa (W)",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1176639.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67cde47c78df962c090e2c/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a67cde47c78df962c090e2c/index.m3u8",
-                    "display_name": "FHD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:44",
+                    "updated_at": "2026-08-02 22:47:44",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/452/720p/chunks.m3u8?is_vip=false&token=1785797264-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-53ca8a73b8e9b9bc89cc8ec6019bb2cd"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1033,8 +325,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
                 },
                 {
                     "id": "",
@@ -1044,8 +336,840 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 34207,
+            "status": "NS",
+            "name": "Washington Nationals vs Philadelphia Phillies",
+            "slug": "washington-nationals-vs-philadelphia-phillies",
+            "score": "vs",
+            "timelive": "22:40",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785796800,
+            "timestamp": 1785796800,
+            "bd_time": "4:40 AM 04-08-2026",
+            "ishot": false,
+            "league_name": "MLB",
+            "league_logo": "",
+            "localteam_name": "Washington Nationals",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bs/1000000481.png",
+            "visitorteam_name": "Philadelphia Phillies",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bs/1000000469.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55835",
+                    "stream_name": "55835",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "HD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55835",
+                    "stream_name": "55835",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "HD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 33406,
+            "status": "NS",
+            "name": "Toronto Tempo vs Golden State Valkyries",
+            "slug": "toronto-tempo-vs-golden-state-valkyries",
+            "score": "vs",
+            "timelive": "00:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785717000,
+            "timestamp": 1785717000,
+            "bd_time": "6:30 AM 03-08-2026",
+            "ishot": false,
+            "league_name": "WNBA",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "510821",
+                    "stream_name": "510821",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/510821_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "HD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "510821",
+                    "stream_name": "510821",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510821_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "HD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35470,
+            "status": "NS",
+            "name": "Denver Summit FC (W) vs Boston Legacy FC (W)",
+            "slug": "denver-summit-fc-w-vs-boston-legacy-fc-w",
+            "score": "vs",
+            "timelive": "01:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785718800,
+            "timestamp": 1785718800,
+            "bd_time": "7:00 AM 03-08-2026",
+            "ishot": false,
+            "league_name": "USA NWSL Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/254.png",
+            "localteam_name": "Denver Summit FC (W)",
+            "localteam_logo": "",
+            "visitorteam_name": "Boston Legacy FC (W)",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0b/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0b/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35471,
+            "status": "NS",
+            "name": "Toluca vs Necaxa",
+            "slug": "toluca-vs-necaxa",
+            "score": "vs",
+            "timelive": "01:05",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785719100,
+            "timestamp": 1785719100,
+            "bd_time": "7:05 AM 03-08-2026",
+            "ishot": false,
+            "league_name": "Mexico Liga MX",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/262.png",
+            "localteam_name": "Toluca",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1052.png",
+            "visitorteam_name": "Necaxa",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/43588.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0a/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0a/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0a-hd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0a-hd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37097,
+            "status": "NS",
+            "name": "The Town vs Austin FC II",
+            "slug": "the-town-vs-austin-fc-ii",
+            "score": "vs",
+            "timelive": "02:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785724200,
+            "timestamp": 1785724200,
+            "bd_time": "8:30 AM 03-08-2026",
+            "ishot": false,
+            "league_name": "USA MLS Next Pro League",
+            "league_logo": "",
+            "localteam_name": "The Town",
+            "localteam_logo": "",
+            "visitorteam_name": "Austin FC II",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a69034a15289307fd1ee312/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a69034a15289307fd1ee312/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37094,
+            "status": "NS",
+            "name": "Athletic Bilbao U17 vs Bayer Leverkusen U17",
+            "slug": "athletic-bilbao-u17-vs-bayer-leverkusen-u17",
+            "score": "vs",
+            "timelive": "08:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785744000,
+            "timestamp": 1785744000,
+            "bd_time": "2:00 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "Shanghai Future Star Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/7334.png",
+            "localteam_name": "Athletic Bilbao U17",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-h-b3644980594a.png",
+            "visitorteam_name": "Bayer Leverkusen U17",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-a-f2a79edfc133.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0d/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c0d/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35472,
+            "status": "NS",
+            "name": "Cambodia vs Timor Leste",
+            "slug": "cambodia-vs-timor-leste",
+            "score": "vs",
+            "timelive": "10:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785753000,
+            "timestamp": 1785753000,
+            "bd_time": "4:30 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "ASEAN Championship",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/24.png",
+            "localteam_name": "Cambodia",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/4236.png",
+            "visitorteam_name": "Timor Leste",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/56567.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c13/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c13/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37099,
+            "status": "NS",
+            "name": "Shanghai U17 vs Sporting CP U17",
+            "slug": "shanghai-u17-vs-sporting-cp-u17",
+            "score": "vs",
+            "timelive": "11:35",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785756900,
+            "timestamp": 1785756900,
+            "bd_time": "5:35 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "Shanghai Future Star Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/7334.png",
+            "localteam_name": "Shanghai U17",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-h-2228845ac21e.png",
+            "visitorteam_name": "Sporting CP U17",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-a-deab030b1815.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c10/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c10/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37100,
+            "status": "NS",
+            "name": "Tottenham Hotspur U17 vs River Plate U17",
+            "slug": "tottenham-hotspur-u17-vs-river-plate-u17",
+            "score": "vs",
+            "timelive": "11:35",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785756900,
+            "timestamp": 1785756900,
+            "bd_time": "5:35 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "Shanghai Future Star Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/7334.png",
+            "localteam_name": "Tottenham Hotspur U17",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-h-5eaebd5ed2c1.png",
+            "visitorteam_name": "River Plate U17",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-a-74a21154f423.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c11/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c11/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:46",
+                    "updated_at": "2026-08-02 22:47:46"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37101,
+            "status": "NS",
+            "name": "China U17 vs Arsenal U17",
+            "slug": "china-u17-vs-arsenal-u17",
+            "score": "vs",
+            "timelive": "11:35",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785756900,
+            "timestamp": 1785756900,
+            "bd_time": "5:35 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "Shanghai Future Star Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/7334.png",
+            "localteam_name": "China U17",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7501-h-13408e4f06a2.png",
+            "visitorteam_name": "Arsenal U17",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-7334-a-350aefd916f8.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c12/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c12/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35473,
+            "status": "NS",
+            "name": "Indonesia vs Vietnam",
+            "slug": "indonesia-vs-vietnam",
+            "score": "vs",
+            "timelive": "13:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785763800,
+            "timestamp": 1785763800,
+            "bd_time": "7:30 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "ASEAN Championship",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/24.png",
+            "localteam_name": "Indonesia",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/8289.png",
+            "visitorteam_name": "Vietnam",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/53498.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c14/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4fbe9100567544412e8c14/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35475,
+            "status": "NS",
+            "name": "Universitatea Cluj vs FC Botosani",
+            "slug": "universitatea-cluj-vs-fc-botosani",
+            "score": "vs",
+            "timelive": "15:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785771000,
+            "timestamp": 1785771000,
+            "bd_time": "9:30 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "Romania Liga I",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/283.png",
+            "localteam_name": "Universitatea Cluj",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/176857.png",
+            "visitorteam_name": "FC Botosani",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/9422.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a5/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a5/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a5-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a5-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37114,
+            "status": "NS",
+            "name": "Zalaegerszegi TE vs Paksi FC",
+            "slug": "zalaegerszegi-te-vs-paksi-fc",
+            "score": "vs",
+            "timelive": "16:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785774600,
+            "timestamp": 1785774600,
+            "bd_time": "10:30 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "HUN Fizz Liga",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/sla/308.png",
+            "localteam_name": "Zalaegerszegi TE",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1009.png",
+            "visitorteam_name": "Paksi FC",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/sla/sla-24-a-6642fad105ac.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b58515014729d/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b58515014729d/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35477,
+            "status": "NS",
+            "name": "Chrobry Glogow vs Odra Opole",
+            "slug": "chrobry-glogow-vs-odra-opole",
+            "score": "vs",
+            "timelive": "17:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785776400,
+            "timestamp": 1785776400,
+            "bd_time": "11:00 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "Poland I Liga",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/107.png",
+            "localteam_name": "Chrobry Glogow",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/990.png",
+            "visitorteam_name": "Odra Opole",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/3640.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b5851501472b2/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b5851501472b2/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37015,
+            "status": "NS",
+            "name": "Cracovia Krakow vs Pogon Szczecin",
+            "slug": "cracovia-krakow-vs-pogon-szczecin",
+            "score": "vs",
+            "timelive": "17:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785776400,
+            "timestamp": 1785776400,
+            "bd_time": "11:00 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "Poland Ekstraklasa",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/106.png",
+            "localteam_name": "Cracovia Krakow",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/9771.png",
+            "visitorteam_name": "Pogon Szczecin",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/43934.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22182-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35478,
+            "status": "NS",
+            "name": "Orebro SK vs IFK Varnamo",
+            "slug": "orebro-sk-vs-ifk-varnamo",
+            "score": "vs",
+            "timelive": "17:05",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785776700,
+            "timestamp": 1785776700,
+            "bd_time": "11:05 PM 03-08-2026",
+            "ishot": false,
+            "league_name": "Sweden Superettan",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/114.png",
+            "localteam_name": "Orebro SK",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/836.png",
+            "visitorteam_name": "IFK Varnamo",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/44263.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae228/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae228/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35479,
+            "status": "NS",
+            "name": "Celtic vs Dundee",
+            "slug": "celtic-vs-dundee",
+            "score": "vs",
+            "timelive": "18:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785781800,
+            "timestamp": 1785781800,
+            "bd_time": "12:30 AM 04-08-2026",
+            "ishot": false,
+            "league_name": "Scotland Premiership",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/179.png",
+            "localteam_name": "Celtic",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/10262.png",
+            "visitorteam_name": "Dundee",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/17448.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-hd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-hd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a51101bf59507a97ae22189-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35480,
+            "status": "NS",
+            "name": "FCSB vs Farul Constanta",
+            "slug": "fcsb-vs-farul-constanta",
+            "score": "vs",
+            "timelive": "18:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785781800,
+            "timestamp": 1785781800,
+            "bd_time": "12:30 AM 04-08-2026",
+            "ishot": false,
+            "league_name": "Romania Liga I",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/283.png",
+            "localteam_name": "FCSB",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/161396.png",
+            "visitorteam_name": "Farul Constanta",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/179845.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a8/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a8/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a8-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae1a8-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 37016,
+            "status": "NS",
+            "name": "York vs Crawley Town",
+            "slug": "york-vs-crawley-town",
+            "score": "vs",
+            "timelive": "18:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785781800,
+            "timestamp": 1785781800,
+            "bd_time": "12:30 AM 04-08-2026",
+            "ishot": false,
+            "league_name": "England EFL Cup",
+            "league_logo": "",
+            "localteam_name": "York",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1876.png",
+            "visitorteam_name": "Crawley Town",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/3062.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147274/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147274/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:47",
+                    "updated_at": "2026-08-02 22:47:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 35482,
+            "status": "NS",
+            "name": "Atlante (W) vs Necaxa (W)",
+            "slug": "atlante-w-vs-necaxa-w",
+            "score": "vs",
+            "timelive": "21:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1785793500,
+            "timestamp": 1785793500,
+            "bd_time": "3:45 AM 04-08-2026",
+            "ishot": false,
+            "league_name": "Mexico Liga MX Femenil",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/rp/673.png",
+            "localteam_name": "Atlante (W)",
+            "localteam_logo": "",
+            "visitorteam_name": "Necaxa (W)",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/bi/1176639.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67cde47c78df962c090e2c/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a67cde47c78df962c090e2c/index.m3u8",
+                    "display_name": "FHD",
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1080,8 +1204,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 },
                 {
                     "id": "",
@@ -1091,8 +1215,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1127,8 +1251,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 },
                 {
                     "id": "",
@@ -1138,8 +1262,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1174,8 +1298,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 },
                 {
                     "id": "",
@@ -1185,8 +1309,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1221,8 +1345,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 },
                 {
                     "id": "",
@@ -1232,8 +1356,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "HD",
-                    "created_at": "2026-08-02 22:32:34",
-                    "updated_at": "2026-08-02 22:32:34"
+                    "created_at": "2026-08-02 22:47:48",
+                    "updated_at": "2026-08-02 22:47:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
