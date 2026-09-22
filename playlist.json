@@ -3,10 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "4:32:31 PM 22-09-2026",
+        "last_update_time": "5:18:00 PM 22-09-2026",
         "statistics": {
-            "total_live": 2,
-            "total_upcoming": 66
+            "total_live": 3,
+            "total_upcoming": 65
         }
     },
     "matches": [
@@ -40,8 +40,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 10:32:33",
-                    "updated_at": "2026-09-22 10:32:33"
+                    "created_at": "2026-09-22 11:18:02",
+                    "updated_at": "2026-09-22 11:18:02"
                 },
                 {
                     "id": "",
@@ -52,9 +52,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 10:32:33",
-                    "updated_at": "2026-09-22 10:32:33",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790159555-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c9343b9492010722fd748338869dc182"
+                    "created_at": "2026-09-22 11:18:02",
+                    "updated_at": "2026-09-22 11:18:02",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790162284-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-46efd40bbc4ebda17543a22f9b2beba0"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -62,11 +62,11 @@
         },
         {
             "id": 67364,
-            "status": "1H",
+            "status": "2H",
             "name": "Korea Republic U23 vs Saudi Arabia U23",
             "slug": "korea-republic-u23-vs-saudi-arabia-u23",
             "score": "vs",
-            "timelive": "32",
+            "timelive": "61",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
@@ -85,16 +85,66 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d639b/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 10:32:38",
-                    "updated_at": "2026-09-22 10:32:38",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d639b/chunks.m3u8?is_vip=false&token=1790159561-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-74bcd25f022c47cc06ffef3027cb7887"
+                    "created_at": "2026-09-22 11:18:07",
+                    "updated_at": "2026-09-22 11:18:07",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d639b/chunks.m3u8?is_vip=false&token=1790162289-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fe95957fce01d5060da1af741ed8436a"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d639b/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 10:32:38",
-                    "updated_at": "2026-09-22 10:32:38"
+                    "created_at": "2026-09-22 11:18:07",
+                    "updated_at": "2026-09-22 11:18:07"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66606,
+            "status": "LIVE",
+            "name": "England vs Sri Lanka",
+            "slug": "england-vs-sri-lanka",
+            "score": "vs",
+            "timelive": "11:30",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790076600,
+            "timestamp": 1790076600,
+            "bd_time": "5:30 PM 22-09-2026",
+            "ishot": false,
+            "league_name": "Sri Lanka tour of England",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "289",
+                    "stream_name": "289",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/289_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-22 11:18:14",
+                    "updated_at": "2026-09-22 11:18:14"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "289",
+                    "stream_name": "289",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-22 11:18:14",
+                    "updated_at": "2026-09-22 11:18:14",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790162296-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2f7f4717c3a918df92330beee6d09a4d"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -125,15 +175,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c1/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 10:32:44",
-                    "updated_at": "2026-09-22 10:32:44"
+                    "created_at": "2026-09-22 11:18:20",
+                    "updated_at": "2026-09-22 11:18:20"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c1/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 10:32:44",
-                    "updated_at": "2026-09-22 10:32:44"
+                    "created_at": "2026-09-22 11:18:20",
+                    "updated_at": "2026-09-22 11:18:20"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -141,7 +191,7 @@
         },
         {
             "id": 66122,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Bradford vs Newcastle United U21",
             "slug": "bradford-vs-newcastle-united-u21",
             "score": "vs",
@@ -179,57 +229,8 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
-            "id": 66606,
-            "status": "NS",
-            "name": "England vs Sri Lanka",
-            "slug": "england-vs-sri-lanka",
-            "score": "vs",
-            "timelive": "11:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790076600,
-            "timestamp": 1790076600,
-            "bd_time": "5:30 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "Sri Lanka tour of England",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "289",
-                    "stream_name": "289",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/289_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "289",
-                    "stream_name": "289",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-22 10:32:46",
-                    "updated_at": "2026-09-22 10:32:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
             "id": 65225,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "ES1, CRO Race, Stage 1",
             "slug": "es1-cro-race-stage-1",
             "score": "vs",
@@ -276,7 +277,7 @@
         },
         {
             "id": 66648,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Mixed Relay",
             "slug": "mixed-relay",
             "score": "vs",
@@ -325,7 +326,7 @@
         },
         {
             "id": 66649,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Men's Junior ITT",
             "slug": "mens-junior-itt",
             "score": "vs",
@@ -374,7 +375,7 @@
         },
         {
             "id": 66650,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Women's Junior ITT",
             "slug": "womens-junior-itt",
             "score": "vs",
@@ -423,7 +424,7 @@
         },
         {
             "id": 66646,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Players Championship 29 - Den Bosch",
             "slug": "players-championship-29-den-bosch",
             "score": "vs",
@@ -472,7 +473,7 @@
         },
         {
             "id": 66076,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "US Biskra vs JS Saoura",
             "slug": "us-biskra-vs-js-saoura",
             "score": "vs",
@@ -511,7 +512,7 @@
         },
         {
             "id": 66139,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Bayern Munich W vs Manchester City W",
             "slug": "bayern-munich-w-vs-manchester-city-w",
             "score": "vs",
@@ -578,7 +579,7 @@
         },
         {
             "id": 66148,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Inter Milano W vs Häcken W",
             "slug": "inter-milano-w-vs-hacken-w",
             "score": "vs",
@@ -631,7 +632,7 @@
         },
         {
             "id": 66087,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Salford City vs Sheffield Wednesday",
             "slug": "salford-city-vs-sheffield-wednesday",
             "score": "vs",
@@ -670,7 +671,7 @@
         },
         {
             "id": 66089,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Wigan vs Blackpool",
             "slug": "wigan-vs-blackpool",
             "score": "vs",
@@ -709,7 +710,7 @@
         },
         {
             "id": 66090,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Crewe vs Aston Villa U21",
             "slug": "crewe-vs-aston-villa-u21",
             "score": "vs",
@@ -748,7 +749,7 @@
         },
         {
             "id": 66091,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "York vs Rotherham",
             "slug": "york-vs-rotherham",
             "score": "vs",
@@ -787,7 +788,7 @@
         },
         {
             "id": 66094,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Burton Albion vs Nottingham Forest U21",
             "slug": "burton-albion-vs-nottingham-forest-u21",
             "score": "vs",
@@ -826,7 +827,7 @@
         },
         {
             "id": 66095,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Notts County vs Grimsby",
             "slug": "notts-county-vs-grimsby",
             "score": "vs",
@@ -865,7 +866,7 @@
         },
         {
             "id": 66096,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Barnsley vs Leeds United U21",
             "slug": "barnsley-vs-leeds-united-u21",
             "score": "vs",
@@ -904,7 +905,7 @@
         },
         {
             "id": 66100,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Leicester vs Fulham U21",
             "slug": "leicester-vs-fulham-u21",
             "score": "vs",
@@ -943,7 +944,7 @@
         },
         {
             "id": 66101,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Walsall vs Stevenage",
             "slug": "walsall-vs-stevenage",
             "score": "vs",
@@ -982,7 +983,7 @@
         },
         {
             "id": 66102,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Peterborough vs Colchester",
             "slug": "peterborough-vs-colchester",
             "score": "vs",
@@ -1021,7 +1022,7 @@
         },
         {
             "id": 66103,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Luton vs Ipswich Town U21",
             "slug": "luton-vs-ipswich-town-u21",
             "score": "vs",
@@ -1060,7 +1061,7 @@
         },
         {
             "id": 66104,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Plymouth vs Crystal Palace U21",
             "slug": "plymouth-vs-crystal-palace-u21",
             "score": "vs",
@@ -1099,7 +1100,7 @@
         },
         {
             "id": 66106,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Gillingham vs Cambridge United",
             "slug": "gillingham-vs-cambridge-united",
             "score": "vs",
@@ -1138,7 +1139,7 @@
         },
         {
             "id": 66107,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Milton Keynes Dons vs Crawley Town",
             "slug": "milton-keynes-dons-vs-crawley-town",
             "score": "vs",
@@ -1176,8 +1177,47 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
-            "id": 72534,
+            "id": 66123,
             "status": "NS",
+            "name": "Bromley vs Brentford U21",
+            "slug": "bromley-vs-brentford-u21",
+            "score": "vs",
+            "timelive": "18:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790101800,
+            "timestamp": 1790101800,
+            "bd_time": "12:30 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Bromley",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1832.png",
+            "visitorteam_name": "Brentford U21",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/20079.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a194/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 11:18:21",
+                    "updated_at": "2026-09-22 11:18:21"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a194/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 11:18:21",
+                    "updated_at": "2026-09-22 11:18:21"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72534,
+            "status": "UPCOMING",
             "name": "Chippenham Town vs Yate Town",
             "slug": "chippenham-town-vs-yate-town",
             "score": "vs",
@@ -1216,7 +1256,7 @@
         },
         {
             "id": 72858,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Braintree vs Needham Market",
             "slug": "braintree-vs-needham-market",
             "score": "vs",
@@ -1255,7 +1295,7 @@
         },
         {
             "id": 72859,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Crowborough Athletic vs Hampton & Richmond",
             "slug": "crowborough-athletic-vs-hampton-richmond",
             "score": "vs",
@@ -1294,7 +1334,7 @@
         },
         {
             "id": 72860,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Dagenham & Redbridge vs Waltham Abbey",
             "slug": "dagenham-redbridge-vs-waltham-abbey",
             "score": "vs",
@@ -1333,7 +1373,7 @@
         },
         {
             "id": 72862,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Farnborough vs Uxbridge",
             "slug": "farnborough-vs-uxbridge",
             "score": "vs",
@@ -1372,7 +1412,7 @@
         },
         {
             "id": 72863,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Farnham Town vs Cirencester Town",
             "slug": "farnham-town-vs-cirencester-town",
             "score": "vs",
@@ -1411,7 +1451,7 @@
         },
         {
             "id": 72864,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Gainsborough Trinity vs Leamington",
             "slug": "gainsborough-trinity-vs-leamington",
             "score": "vs",
@@ -1450,7 +1490,7 @@
         },
         {
             "id": 72865,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Maidstone Utd vs Cray Wanderers",
             "slug": "maidstone-utd-vs-cray-wanderers",
             "score": "vs",
@@ -1489,7 +1529,7 @@
         },
         {
             "id": 72866,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Truro City vs Merthyr Town",
             "slug": "truro-city-vs-merthyr-town",
             "score": "vs",
@@ -1528,7 +1568,7 @@
         },
         {
             "id": 72867,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Wimborne Town vs Weston-super-Mare",
             "slug": "wimborne-town-vs-weston-super-mare",
             "score": "vs",
@@ -1567,7 +1607,7 @@
         },
         {
             "id": 72868,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Wingate & Finchley vs Hemel Hempstead Town",
             "slug": "wingate-finchley-vs-hemel-hempstead-town",
             "score": "vs",
@@ -1606,7 +1646,7 @@
         },
         {
             "id": 72869,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Worksop Town vs AFC Telford United",
             "slug": "worksop-town-vs-afc-telford-united",
             "score": "vs",
@@ -1645,7 +1685,7 @@
         },
         {
             "id": 73901,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Dorking Wanderers vs Southall",
             "slug": "dorking-wanderers-vs-southall",
             "score": "vs",
@@ -1684,7 +1724,7 @@
         },
         {
             "id": 66127,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Arsenal W vs Køge W",
             "slug": "arsenal-w-vs-koge-w",
             "score": "vs",
@@ -1737,7 +1777,7 @@
         },
         {
             "id": 66149,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Juventus W vs SL Benfica W",
             "slug": "juventus-w-vs-sl-benfica-w",
             "score": "vs",
@@ -1790,7 +1830,7 @@
         },
         {
             "id": 66170,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Real Madrid W vs Paris Saint Germain W",
             "slug": "real-madrid-w-vs-paris-saint-germain-w",
             "score": "vs",
@@ -1857,7 +1897,7 @@
         },
         {
             "id": 66062,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Criciuma vs Operario-PR",
             "slug": "criciuma-vs-operario-pr",
             "score": "vs",
@@ -1910,7 +1950,7 @@
         },
         {
             "id": 74813,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Vanuatu W vs New Caledonia W",
             "slug": "vanuatu-w-vs-new-caledonia-w",
             "score": "vs",
@@ -1949,7 +1989,7 @@
         },
         {
             "id": 74814,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Fiji W vs Solomon Islands W",
             "slug": "fiji-w-vs-solomon-islands-w",
             "score": "vs",
@@ -1988,7 +2028,7 @@
         },
         {
             "id": 66618,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Tampa Bay Rays vs New York Yankees",
             "slug": "tampa-bay-rays-vs-new-york-yankees",
             "score": "vs",
@@ -2037,7 +2077,7 @@
         },
         {
             "id": 66619,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Toronto Blue Jays vs Baltimore Orioles",
             "slug": "toronto-blue-jays-vs-baltimore-orioles",
             "score": "vs",
@@ -2086,7 +2126,7 @@
         },
         {
             "id": 66620,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "St. Louis Cardinals vs Pittsburgh Pirates",
             "slug": "st-louis-cardinals-vs-pittsburgh-pirates",
             "score": "vs",
@@ -2135,7 +2175,7 @@
         },
         {
             "id": 66621,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Milwaukee Brewers vs Philadelphia Phillies",
             "slug": "milwaukee-brewers-vs-philadelphia-phillies",
             "score": "vs",
@@ -2184,7 +2224,7 @@
         },
         {
             "id": 66622,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Washington Nationals vs Detroit Tigers",
             "slug": "washington-nationals-vs-detroit-tigers",
             "score": "vs",
@@ -2233,7 +2273,7 @@
         },
         {
             "id": 66623,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Cleveland Guardians vs Boston Red Sox",
             "slug": "cleveland-guardians-vs-boston-red-sox",
             "score": "vs",
@@ -2282,7 +2322,7 @@
         },
         {
             "id": 66624,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Tampa Bay Rays vs New York Yankees",
             "slug": "tampa-bay-rays-vs-new-york-yankees",
             "score": "vs",
@@ -2331,7 +2371,7 @@
         },
         {
             "id": 66625,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Cincinnati Reds vs Atlanta Braves",
             "slug": "cincinnati-reds-vs-atlanta-braves",
             "score": "vs",
@@ -2380,7 +2420,7 @@
         },
         {
             "id": 66626,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Chicago White Sox vs Kansas City Royals",
             "slug": "chicago-white-sox-vs-kansas-city-royals",
             "score": "vs",
@@ -2429,7 +2469,7 @@
         },
         {
             "id": 66627,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Miami Marlins vs Chicago Cubs",
             "slug": "miami-marlins-vs-chicago-cubs",
             "score": "vs",
@@ -2478,7 +2518,7 @@
         },
         {
             "id": 66628,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "New York Mets vs Texas Rangers",
             "slug": "new-york-mets-vs-texas-rangers",
             "score": "vs",
@@ -2527,7 +2567,7 @@
         },
         {
             "id": 66629,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Arizona Diamondbacks vs Colorado Rockies",
             "slug": "arizona-diamondbacks-vs-colorado-rockies",
             "score": "vs",
@@ -2576,7 +2616,7 @@
         },
         {
             "id": 66630,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Houston Astros vs Seattle Mariners",
             "slug": "houston-astros-vs-seattle-mariners",
             "score": "vs",
@@ -2625,7 +2665,7 @@
         },
         {
             "id": 66631,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Los Angeles Angels vs Athletics",
             "slug": "los-angeles-angels-vs-athletics",
             "score": "vs",
@@ -2674,7 +2714,7 @@
         },
         {
             "id": 66632,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Minnesota Twins vs San Francisco Giants",
             "slug": "minnesota-twins-vs-san-francisco-giants",
             "score": "vs",
@@ -2723,7 +2763,7 @@
         },
         {
             "id": 66633,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "San Diego Padres vs Los Angeles Dodgers",
             "slug": "san-diego-padres-vs-los-angeles-dodgers",
             "score": "vs",
@@ -2772,7 +2812,7 @@
         },
         {
             "id": 66609,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Connecticut Sun vs Washington Mystics",
             "slug": "connecticut-sun-vs-washington-mystics",
             "score": "vs",
@@ -2821,7 +2861,7 @@
         },
         {
             "id": 66610,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Toronto Tempo vs Chicago Sky",
             "slug": "toronto-tempo-vs-chicago-sky",
             "score": "vs",
@@ -2870,7 +2910,7 @@
         },
         {
             "id": 66611,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Minnesota Lynx vs Indiana Fever",
             "slug": "minnesota-lynx-vs-indiana-fever",
             "score": "vs",
@@ -2919,7 +2959,7 @@
         },
         {
             "id": 66612,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Los Angeles Sparks vs Las Vegas Aces",
             "slug": "los-angeles-sparks-vs-las-vegas-aces",
             "score": "vs",
@@ -2968,7 +3008,7 @@
         },
         {
             "id": 66613,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Golden State Valkyries vs Portland Fire",
             "slug": "golden-state-valkyries-vs-portland-fire",
             "score": "vs",
@@ -3017,7 +3057,7 @@
         },
         {
             "id": 66634,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "PANCRASE 366",
             "slug": "pancrase-366",
             "score": "vs",
