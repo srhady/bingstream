@@ -3,13 +3,52 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "3:32:27 PM 22-09-2026",
+        "last_update_time": "3:47:25 PM 22-09-2026",
         "statistics": {
             "total_live": 1,
             "total_upcoming": 64
         }
     },
     "matches": [
+        {
+            "id": 66098,
+            "status": "NS",
+            "name": "Rochdale vs Liverpool U21",
+            "slug": "rochdale-vs-liverpool-u21",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Rochdale",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1339.png",
+            "visitorteam_name": "Liverpool U21",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7196.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c1/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:47:43",
+                    "updated_at": "2026-09-22 09:47:43"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c1/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:47:43",
+                    "updated_at": "2026-09-22 09:47:43"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
         {
             "id": 73903,
             "status": "LIVE",
@@ -40,8 +79,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:32:29",
-                    "updated_at": "2026-09-22 09:32:29"
+                    "created_at": "2026-09-22 09:47:27",
+                    "updated_at": "2026-09-22 09:47:27"
                 },
                 {
                     "id": "",
@@ -52,48 +91,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:32:29",
-                    "updated_at": "2026-09-22 09:32:29",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790155951-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-77f9a81afe16a4382c5f34c56f6417ef"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66098,
-            "status": "NS",
-            "name": "Rochdale vs Liverpool U21",
-            "slug": "rochdale-vs-liverpool-u21",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Rochdale",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1339.png",
-            "visitorteam_name": "Liverpool U21",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7196.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c1/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:34",
-                    "updated_at": "2026-09-22 09:32:34"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c1/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:34",
-                    "updated_at": "2026-09-22 09:32:34"
+                    "created_at": "2026-09-22 09:47:27",
+                    "updated_at": "2026-09-22 09:47:27",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790156867-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0a89404159c4373b800cf4b3c9a84bef"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -124,1439 +124,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c9915e/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
+                    "created_at": "2026-09-22 09:48:02",
+                    "updated_at": "2026-09-22 09:48:02"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16da063f1058c9915e/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66076,
-            "status": "NS",
-            "name": "US Biskra vs JS Saoura",
-            "slug": "us-biskra-vs-js-saoura",
-            "score": "vs",
-            "timelive": "16:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790092800,
-            "timestamp": 1790092800,
-            "bd_time": "10:00 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "Ligue 1",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/186.png",
-            "localteam_name": "US Biskra",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/909.png",
-            "visitorteam_name": "JS Saoura",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/914.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a73490efae1431b1dad3e6c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a73490efae1431b1dad3e6c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66139,
-            "status": "NS",
-            "name": "Bayern Munich W vs Manchester City W",
-            "slug": "bayern-munich-w-vs-manchester-city-w",
-            "score": "vs",
-            "timelive": "16:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790095500,
-            "timestamp": 1790095500,
-            "bd_time": "10:45 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "UEFA Champions League Women",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
-            "localteam_name": "Bayern Munich W",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1860.png",
-            "visitorteam_name": "Manchester City W",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1854.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "fhd",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "fhd",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66148,
-            "status": "NS",
-            "name": "Inter Milano W vs Häcken W",
-            "slug": "inter-milano-w-vs-hacken-w",
-            "score": "vs",
-            "timelive": "16:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790095500,
-            "timestamp": 1790095500,
-            "bd_time": "10:45 PM 22-09-2026",
-            "ishot": false,
-            "league_name": "UEFA Champions League Women",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
-            "localteam_name": "Inter Milano W",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7533.png",
-            "visitorteam_name": "Häcken W",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/16483.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66087,
-            "status": "NS",
-            "name": "Salford City vs Sheffield Wednesday",
-            "slug": "salford-city-vs-sheffield-wednesday",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Salford City",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1844.png",
-            "visitorteam_name": "Sheffield Wednesday",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/74.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cad/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cad/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66089,
-            "status": "NS",
-            "name": "Wigan vs Blackpool",
-            "slug": "wigan-vs-blackpool",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Wigan",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/61.png",
-            "visitorteam_name": "Blackpool",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1356.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cab/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cab/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66090,
-            "status": "NS",
-            "name": "Crewe vs Aston Villa U21",
-            "slug": "crewe-vs-aston-villa-u21",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Crewe",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1363.png",
-            "visitorteam_name": "Aston Villa U21",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7190.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64caa/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64caa/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:36",
-                    "updated_at": "2026-09-22 09:32:36"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66091,
-            "status": "NS",
-            "name": "York vs Rotherham",
-            "slug": "york-vs-rotherham",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "York",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1828.png",
-            "visitorteam_name": "Rotherham",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/73.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c9915d/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:40",
-                    "updated_at": "2026-09-22 09:32:40"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16da063f1058c9915d/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:40",
-                    "updated_at": "2026-09-22 09:32:40"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66094,
-            "status": "NS",
-            "name": "Burton Albion vs Nottingham Forest U21",
-            "slug": "burton-albion-vs-nottingham-forest-u21",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Burton Albion",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/748.png",
-            "visitorteam_name": "Nottingham Forest U21",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/19746.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1d0/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:38",
-                    "updated_at": "2026-09-22 09:32:38"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1d0/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:38",
-                    "updated_at": "2026-09-22 09:32:38"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66095,
-            "status": "NS",
-            "name": "Notts County vs Grimsby",
-            "slug": "notts-county-vs-grimsby",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Notts County",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1376.png",
-            "visitorteam_name": "Grimsby",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1365.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ce/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ce/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66096,
-            "status": "NS",
-            "name": "Barnsley vs Leeds United U21",
-            "slug": "barnsley-vs-leeds-united-u21",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Barnsley",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/747.png",
-            "visitorteam_name": "Leeds United U21",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/14430.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ca/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:44",
-                    "updated_at": "2026-09-22 09:32:44"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ca/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:44",
-                    "updated_at": "2026-09-22 09:32:44"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66100,
-            "status": "NS",
-            "name": "Leicester vs Fulham U21",
-            "slug": "leicester-vs-fulham-u21",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Leicester",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/46.png",
-            "visitorteam_name": "Fulham U21",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7194.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b8/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b8/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66101,
-            "status": "NS",
-            "name": "Walsall vs Stevenage",
-            "slug": "walsall-vs-stevenage",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Walsall",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1342.png",
-            "visitorteam_name": "Stevenage",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1368.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b7/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b7/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66102,
-            "status": "NS",
-            "name": "Peterborough vs Colchester",
-            "slug": "peterborough-vs-colchester",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Peterborough",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1350.png",
-            "visitorteam_name": "Colchester",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1361.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ad/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ad/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66103,
-            "status": "NS",
-            "name": "Luton vs Ipswich Town U21",
-            "slug": "luton-vs-ipswich-town-u21",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Luton",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1359.png",
-            "visitorteam_name": "Ipswich Town U21",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/20094.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1a9/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:44",
-                    "updated_at": "2026-09-22 09:32:44"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1a9/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:44",
-                    "updated_at": "2026-09-22 09:32:44"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66104,
-            "status": "NS",
-            "name": "Plymouth vs Crystal Palace U21",
-            "slug": "plymouth-vs-crystal-palace-u21",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Plymouth",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1357.png",
-            "visitorteam_name": "Crystal Palace U21",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/17000.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1a7/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:44",
-                    "updated_at": "2026-09-22 09:32:44"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1a7/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:44",
-                    "updated_at": "2026-09-22 09:32:44"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66106,
-            "status": "NS",
-            "name": "Gillingham vs Cambridge United",
-            "slug": "gillingham-vs-cambridge-united",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Gillingham",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1347.png",
-            "visitorteam_name": "Cambridge United",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1370.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a19c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a19c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66107,
-            "status": "NS",
-            "name": "Milton Keynes Dons vs Crawley Town",
-            "slug": "milton-keynes-dons-vs-crawley-town",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790100000,
-            "timestamp": 1790100000,
-            "bd_time": "12:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "EFL Trophy",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
-            "localteam_name": "Milton Keynes Dons",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1348.png",
-            "visitorteam_name": "Crawley Town",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1362.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a193/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a193/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:43",
-                    "updated_at": "2026-09-22 09:32:43"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72534,
-            "status": "NS",
-            "name": "Chippenham Town vs Yate Town",
-            "slug": "chippenham-town-vs-yate-town",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Chippenham Town",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/8147.png",
-            "visitorteam_name": "Yate Town",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7762.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f34/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:44",
-                    "updated_at": "2026-09-22 09:32:44"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f34/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:44",
-                    "updated_at": "2026-09-22 09:32:44"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72858,
-            "status": "NS",
-            "name": "Braintree vs Needham Market",
-            "slug": "braintree-vs-needham-market",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Braintree",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1831.png",
-            "visitorteam_name": "Needham Market",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7735.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f33/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:48",
-                    "updated_at": "2026-09-22 09:32:48"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f33/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:48",
-                    "updated_at": "2026-09-22 09:32:48"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72859,
-            "status": "NS",
-            "name": "Crowborough Athletic vs Hampton & Richmond",
-            "slug": "crowborough-athletic-vs-hampton-richmond",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Crowborough Athletic",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/8760.png",
-            "visitorteam_name": "Hampton & Richmond",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/4680.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f30/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:47",
-                    "updated_at": "2026-09-22 09:32:47"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f30/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:47",
-                    "updated_at": "2026-09-22 09:32:47"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72860,
-            "status": "NS",
-            "name": "Dagenham & Redbridge vs Waltham Abbey",
-            "slug": "dagenham-redbridge-vs-waltham-abbey",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Dagenham & Redbridge",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1821.png",
-            "visitorteam_name": "Waltham Abbey",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7259.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f32/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f32/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72862,
-            "status": "NS",
-            "name": "Farnborough vs Uxbridge",
-            "slug": "farnborough-vs-uxbridge",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Farnborough",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7715.png",
-            "visitorteam_name": "Uxbridge",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7257.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2d/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2d/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72863,
-            "status": "NS",
-            "name": "Farnham Town vs Cirencester Town",
-            "slug": "farnham-town-vs-cirencester-town",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Farnham Town",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/8783.png",
-            "visitorteam_name": "Cirencester Town",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7629.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2b/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2b/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72864,
-            "status": "NS",
-            "name": "Gainsborough Trinity vs Leamington",
-            "slug": "gainsborough-trinity-vs-leamington",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Gainsborough Trinity",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/4691.png",
-            "visitorteam_name": "Leamington",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/8656.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f29/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f29/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72866,
-            "status": "NS",
-            "name": "Truro City vs Merthyr Town",
-            "slug": "truro-city-vs-merthyr-town",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Truro City",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/4699.png",
-            "visitorteam_name": "Merthyr Town",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7732.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2e/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:47",
-                    "updated_at": "2026-09-22 09:32:47"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2e/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:47",
-                    "updated_at": "2026-09-22 09:32:47"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72867,
-            "status": "NS",
-            "name": "Wimborne Town vs Weston-super-Mare",
-            "slug": "wimborne-town-vs-weston-super-mare",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Wimborne Town",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7758.png",
-            "visitorteam_name": "Weston-super-Mare",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/4687.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2c/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:46",
-                    "updated_at": "2026-09-22 09:32:46"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72868,
-            "status": "NS",
-            "name": "Wingate & Finchley vs Hemel Hempstead Town",
-            "slug": "wingate-finchley-vs-hemel-hempstead-town",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Wingate & Finchley",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7759.png",
-            "visitorteam_name": "Hemel Hempstead Town",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/8660.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f31/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:47",
-                    "updated_at": "2026-09-22 09:32:47"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f31/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:47",
-                    "updated_at": "2026-09-22 09:32:47"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72869,
-            "status": "NS",
-            "name": "Worksop Town vs AFC Telford United",
-            "slug": "worksop-town-vs-afc-telford-united",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Worksop Town",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7266.png",
-            "visitorteam_name": "AFC Telford United",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/4688.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2f/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2f/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 73901,
-            "status": "NS",
-            "name": "Dorking Wanderers vs Southall",
-            "slug": "dorking-wanderers-vs-southall",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790102700,
-            "timestamp": 1790102700,
-            "bd_time": "12:45 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "FA Cup",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
-            "localteam_name": "Dorking Wanderers",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/8659.png",
-            "visitorteam_name": "Southall",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/8941.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f28/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:33:01",
-                    "updated_at": "2026-09-22 09:33:01"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f28/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:33:01",
-                    "updated_at": "2026-09-22 09:33:01"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66127,
-            "status": "NS",
-            "name": "Arsenal W vs Køge W",
-            "slug": "arsenal-w-vs-koge-w",
-            "score": "vs",
-            "timelive": "19:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790103600,
-            "timestamp": 1790103600,
-            "bd_time": "1:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "UEFA Champions League Women",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
-            "localteam_name": "Arsenal W",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1850.png",
-            "visitorteam_name": "Køge W",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/13982.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66149,
-            "status": "NS",
-            "name": "Juventus W vs SL Benfica W",
-            "slug": "juventus-w-vs-sl-benfica-w",
-            "score": "vs",
-            "timelive": "19:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790103600,
-            "timestamp": 1790103600,
-            "bd_time": "1:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "UEFA Champions League Women",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
-            "localteam_name": "Juventus W",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1886.png",
-            "visitorteam_name": "SL Benfica W",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/15495.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66170,
-            "status": "NS",
-            "name": "Real Madrid W vs Paris Saint Germain W",
-            "slug": "real-madrid-w-vs-paris-saint-germain-w",
-            "score": "vs",
-            "timelive": "19:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790103600,
-            "timestamp": 1790103600,
-            "bd_time": "1:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "UEFA Champions League Women",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
-            "localteam_name": "Real Madrid W",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/15224.png",
-            "visitorteam_name": "Paris Saint Germain W",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1667.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "fhd",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60-fhd/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "fhd",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60-fancode/index.m3u8",
-                    "display_name": "FHD",
-                    "line": "other",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 74813,
-            "status": "NS",
-            "name": "Vanuatu W vs New Caledonia W",
-            "slug": "vanuatu-w-vs-new-caledonia-w",
-            "score": "vs",
-            "timelive": "04:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790136000,
-            "timestamp": 1790136000,
-            "bd_time": "10:00 AM 23-09-2026",
-            "ishot": false,
-            "league_name": "Friendlies Women",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/666.png",
-            "localteam_name": "Vanuatu W",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/19937.png",
-            "visitorteam_name": "New Caledonia W",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/22603.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f43/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f43/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 74814,
-            "status": "NS",
-            "name": "Fiji W vs Solomon Islands W",
-            "slug": "fiji-w-vs-solomon-islands-w",
-            "score": "vs",
-            "timelive": "07:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790146800,
-            "timestamp": 1790146800,
-            "bd_time": "1:00 PM 23-09-2026",
-            "ishot": false,
-            "league_name": "Friendlies Women",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/666.png",
-            "localteam_name": "Fiji W",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/19418.png",
-            "visitorteam_name": "Solomon Islands W",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/19934.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f45/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:33:02",
-                    "updated_at": "2026-09-22 09:33:02"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f45/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-22 09:33:02",
-                    "updated_at": "2026-09-22 09:33:02"
+                    "created_at": "2026-09-22 09:48:02",
+                    "updated_at": "2026-09-22 09:48:02"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1592,8 +168,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 },
                 {
                     "id": "",
@@ -1604,8 +180,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:32:57",
-                    "updated_at": "2026-09-22 09:32:57"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1640,8 +216,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 },
                 {
                     "id": "",
@@ -1651,8 +227,8 @@
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
-                    "created_at": "2026-09-22 09:32:56",
-                    "updated_at": "2026-09-22 09:32:56"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1688,8 +264,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:01",
-                    "updated_at": "2026-09-22 09:33:01"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 },
                 {
                     "id": "",
@@ -1700,8 +276,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:01",
-                    "updated_at": "2026-09-22 09:33:01"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1737,8 +313,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 },
                 {
                     "id": "",
@@ -1749,8 +325,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1786,8 +362,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 },
                 {
                     "id": "",
@@ -1798,8 +374,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1835,8 +411,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:03",
-                    "updated_at": "2026-09-22 09:33:03"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
                 },
                 {
                     "id": "",
@@ -1847,8 +423,1432 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:03",
-                    "updated_at": "2026-09-22 09:33:03"
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66076,
+            "status": "NS",
+            "name": "US Biskra vs JS Saoura",
+            "slug": "us-biskra-vs-js-saoura",
+            "score": "vs",
+            "timelive": "16:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790092800,
+            "timestamp": 1790092800,
+            "bd_time": "10:00 PM 22-09-2026",
+            "ishot": false,
+            "league_name": "Ligue 1",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/186.png",
+            "localteam_name": "US Biskra",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/909.png",
+            "visitorteam_name": "JS Saoura",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/914.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a73490efae1431b1dad3e6c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a73490efae1431b1dad3e6c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66139,
+            "status": "NS",
+            "name": "Bayern Munich W vs Manchester City W",
+            "slug": "bayern-munich-w-vs-manchester-city-w",
+            "score": "vs",
+            "timelive": "16:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790095500,
+            "timestamp": 1790095500,
+            "bd_time": "10:45 PM 22-09-2026",
+            "ishot": false,
+            "league_name": "UEFA Champions League Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
+            "localteam_name": "Bayern Munich W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1860.png",
+            "visitorteam_name": "Manchester City W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1854.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:01",
+                    "updated_at": "2026-09-22 09:48:01"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66148,
+            "status": "NS",
+            "name": "Inter Milano W vs Häcken W",
+            "slug": "inter-milano-w-vs-hacken-w",
+            "score": "vs",
+            "timelive": "16:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790095500,
+            "timestamp": 1790095500,
+            "bd_time": "10:45 PM 22-09-2026",
+            "ishot": false,
+            "league_name": "UEFA Champions League Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
+            "localteam_name": "Inter Milano W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7533.png",
+            "visitorteam_name": "Häcken W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/16483.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:02",
+                    "updated_at": "2026-09-22 09:48:02"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:02",
+                    "updated_at": "2026-09-22 09:48:02"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:02",
+                    "updated_at": "2026-09-22 09:48:02"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:02",
+                    "updated_at": "2026-09-22 09:48:02"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66087,
+            "status": "NS",
+            "name": "Salford City vs Sheffield Wednesday",
+            "slug": "salford-city-vs-sheffield-wednesday",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Salford City",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1844.png",
+            "visitorteam_name": "Sheffield Wednesday",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/74.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cad/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cad/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66089,
+            "status": "NS",
+            "name": "Wigan vs Blackpool",
+            "slug": "wigan-vs-blackpool",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Wigan",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/61.png",
+            "visitorteam_name": "Blackpool",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1356.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cab/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64cab/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66090,
+            "status": "NS",
+            "name": "Crewe vs Aston Villa U21",
+            "slug": "crewe-vs-aston-villa-u21",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Crewe",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1363.png",
+            "visitorteam_name": "Aston Villa U21",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7190.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64caa/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:04",
+                    "updated_at": "2026-09-22 09:48:04"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96c5578b0323bfecf64caa/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:04",
+                    "updated_at": "2026-09-22 09:48:04"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66091,
+            "status": "NS",
+            "name": "York vs Rotherham",
+            "slug": "york-vs-rotherham",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "York",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1828.png",
+            "visitorteam_name": "Rotherham",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/73.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c9915d/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16da063f1058c9915d/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66094,
+            "status": "NS",
+            "name": "Burton Albion vs Nottingham Forest U21",
+            "slug": "burton-albion-vs-nottingham-forest-u21",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Burton Albion",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/748.png",
+            "visitorteam_name": "Nottingham Forest U21",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/19746.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1d0/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:04",
+                    "updated_at": "2026-09-22 09:48:04"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1d0/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:04",
+                    "updated_at": "2026-09-22 09:48:04"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66095,
+            "status": "NS",
+            "name": "Notts County vs Grimsby",
+            "slug": "notts-county-vs-grimsby",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Notts County",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1376.png",
+            "visitorteam_name": "Grimsby",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1365.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ce/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:04",
+                    "updated_at": "2026-09-22 09:48:04"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ce/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:04",
+                    "updated_at": "2026-09-22 09:48:04"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66096,
+            "status": "NS",
+            "name": "Barnsley vs Leeds United U21",
+            "slug": "barnsley-vs-leeds-united-u21",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Barnsley",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/747.png",
+            "visitorteam_name": "Leeds United U21",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/14430.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ca/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ca/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66100,
+            "status": "NS",
+            "name": "Leicester vs Fulham U21",
+            "slug": "leicester-vs-fulham-u21",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Leicester",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/46.png",
+            "visitorteam_name": "Fulham U21",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7194.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b8/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b8/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66101,
+            "status": "NS",
+            "name": "Walsall vs Stevenage",
+            "slug": "walsall-vs-stevenage",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Walsall",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1342.png",
+            "visitorteam_name": "Stevenage",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1368.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b7/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1b7/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66102,
+            "status": "NS",
+            "name": "Peterborough vs Colchester",
+            "slug": "peterborough-vs-colchester",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Peterborough",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1350.png",
+            "visitorteam_name": "Colchester",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1361.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ad/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1ad/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:03",
+                    "updated_at": "2026-09-22 09:48:03"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66103,
+            "status": "NS",
+            "name": "Luton vs Ipswich Town U21",
+            "slug": "luton-vs-ipswich-town-u21",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Luton",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1359.png",
+            "visitorteam_name": "Ipswich Town U21",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/20094.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1a9/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1a9/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66106,
+            "status": "NS",
+            "name": "Gillingham vs Cambridge United",
+            "slug": "gillingham-vs-cambridge-united",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Gillingham",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1347.png",
+            "visitorteam_name": "Cambridge United",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1370.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a19c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:06",
+                    "updated_at": "2026-09-22 09:48:06"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a19c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:06",
+                    "updated_at": "2026-09-22 09:48:06"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66107,
+            "status": "NS",
+            "name": "Milton Keynes Dons vs Crawley Town",
+            "slug": "milton-keynes-dons-vs-crawley-town",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790100000,
+            "timestamp": 1790100000,
+            "bd_time": "12:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "EFL Trophy",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/46.png",
+            "localteam_name": "Milton Keynes Dons",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1348.png",
+            "visitorteam_name": "Crawley Town",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1362.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a193/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a193/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72534,
+            "status": "NS",
+            "name": "Chippenham Town vs Yate Town",
+            "slug": "chippenham-town-vs-yate-town",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Chippenham Town",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/8147.png",
+            "visitorteam_name": "Yate Town",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7762.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f34/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:06",
+                    "updated_at": "2026-09-22 09:48:06"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f34/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:06",
+                    "updated_at": "2026-09-22 09:48:06"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72858,
+            "status": "NS",
+            "name": "Braintree vs Needham Market",
+            "slug": "braintree-vs-needham-market",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Braintree",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1831.png",
+            "visitorteam_name": "Needham Market",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7735.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f33/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f33/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72859,
+            "status": "NS",
+            "name": "Crowborough Athletic vs Hampton & Richmond",
+            "slug": "crowborough-athletic-vs-hampton-richmond",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Crowborough Athletic",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/8760.png",
+            "visitorteam_name": "Hampton & Richmond",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/4680.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f30/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f30/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72860,
+            "status": "NS",
+            "name": "Dagenham & Redbridge vs Waltham Abbey",
+            "slug": "dagenham-redbridge-vs-waltham-abbey",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Dagenham & Redbridge",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1821.png",
+            "visitorteam_name": "Waltham Abbey",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7259.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f32/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f32/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:07",
+                    "updated_at": "2026-09-22 09:48:07"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72862,
+            "status": "NS",
+            "name": "Farnborough vs Uxbridge",
+            "slug": "farnborough-vs-uxbridge",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Farnborough",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7715.png",
+            "visitorteam_name": "Uxbridge",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7257.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2d/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:06",
+                    "updated_at": "2026-09-22 09:48:06"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2d/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:06",
+                    "updated_at": "2026-09-22 09:48:06"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72863,
+            "status": "NS",
+            "name": "Farnham Town vs Cirencester Town",
+            "slug": "farnham-town-vs-cirencester-town",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Farnham Town",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/8783.png",
+            "visitorteam_name": "Cirencester Town",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7629.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2b/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:06",
+                    "updated_at": "2026-09-22 09:48:06"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2b/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:06",
+                    "updated_at": "2026-09-22 09:48:06"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72864,
+            "status": "NS",
+            "name": "Gainsborough Trinity vs Leamington",
+            "slug": "gainsborough-trinity-vs-leamington",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Gainsborough Trinity",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/4691.png",
+            "visitorteam_name": "Leamington",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/8656.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f29/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:17",
+                    "updated_at": "2026-09-22 09:48:17"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f29/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:17",
+                    "updated_at": "2026-09-22 09:48:17"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72865,
+            "status": "NS",
+            "name": "Maidstone Utd vs Cray Wanderers",
+            "slug": "maidstone-utd-vs-cray-wanderers",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Maidstone Utd",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1825.png",
+            "visitorteam_name": "Cray Wanderers",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7711.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2a/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2a/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72866,
+            "status": "NS",
+            "name": "Truro City vs Merthyr Town",
+            "slug": "truro-city-vs-merthyr-town",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Truro City",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/4699.png",
+            "visitorteam_name": "Merthyr Town",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7732.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2e/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2e/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72867,
+            "status": "NS",
+            "name": "Wimborne Town vs Weston-super-Mare",
+            "slug": "wimborne-town-vs-weston-super-mare",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Wimborne Town",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7758.png",
+            "visitorteam_name": "Weston-super-Mare",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/4687.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:17",
+                    "updated_at": "2026-09-22 09:48:17"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:17",
+                    "updated_at": "2026-09-22 09:48:17"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72868,
+            "status": "NS",
+            "name": "Wingate & Finchley vs Hemel Hempstead Town",
+            "slug": "wingate-finchley-vs-hemel-hempstead-town",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Wingate & Finchley",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7759.png",
+            "visitorteam_name": "Hemel Hempstead Town",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/8660.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f31/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f31/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72869,
+            "status": "NS",
+            "name": "Worksop Town vs AFC Telford United",
+            "slug": "worksop-town-vs-afc-telford-united",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Worksop Town",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7266.png",
+            "visitorteam_name": "AFC Telford United",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/4688.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2f/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f2f/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 73901,
+            "status": "NS",
+            "name": "Dorking Wanderers vs Southall",
+            "slug": "dorking-wanderers-vs-southall",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790102700,
+            "timestamp": 1790102700,
+            "bd_time": "12:45 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "FA Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/45.png",
+            "localteam_name": "Dorking Wanderers",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/8659.png",
+            "visitorteam_name": "Southall",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/8941.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f28/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f28/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66127,
+            "status": "NS",
+            "name": "Arsenal W vs Køge W",
+            "slug": "arsenal-w-vs-koge-w",
+            "score": "vs",
+            "timelive": "19:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790103600,
+            "timestamp": 1790103600,
+            "bd_time": "1:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "UEFA Champions League Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
+            "localteam_name": "Arsenal W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1850.png",
+            "visitorteam_name": "Køge W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/13982.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad62/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66149,
+            "status": "NS",
+            "name": "Juventus W vs SL Benfica W",
+            "slug": "juventus-w-vs-sl-benfica-w",
+            "score": "vs",
+            "timelive": "19:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790103600,
+            "timestamp": 1790103600,
+            "bd_time": "1:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "UEFA Champions League Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
+            "localteam_name": "Juventus W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1886.png",
+            "visitorteam_name": "SL Benfica W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/15495.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad61/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66170,
+            "status": "NS",
+            "name": "Real Madrid W vs Paris Saint Germain W",
+            "slug": "real-madrid-w-vs-paris-saint-germain-w",
+            "score": "vs",
+            "timelive": "19:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790103600,
+            "timestamp": 1790103600,
+            "bd_time": "1:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "UEFA Champions League Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/525.png",
+            "localteam_name": "Real Madrid W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/15224.png",
+            "visitorteam_name": "Paris Saint Germain W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1667.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad60/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:16",
+                    "updated_at": "2026-09-22 09:48:16"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 74813,
+            "status": "NS",
+            "name": "Vanuatu W vs New Caledonia W",
+            "slug": "vanuatu-w-vs-new-caledonia-w",
+            "score": "vs",
+            "timelive": "04:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790136000,
+            "timestamp": 1790136000,
+            "bd_time": "10:00 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "Friendlies Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/666.png",
+            "localteam_name": "Vanuatu W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/19937.png",
+            "visitorteam_name": "New Caledonia W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/22603.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f43/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f43/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 74814,
+            "status": "NS",
+            "name": "Fiji W vs Solomon Islands W",
+            "slug": "fiji-w-vs-solomon-islands-w",
+            "score": "vs",
+            "timelive": "07:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790146800,
+            "timestamp": 1790146800,
+            "bd_time": "1:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Friendlies Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/666.png",
+            "localteam_name": "Fiji W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/19418.png",
+            "visitorteam_name": "Solomon Islands W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/19934.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f45/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f45/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1884,8 +1884,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:03",
-                    "updated_at": "2026-09-22 09:33:03"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 },
                 {
                     "id": "",
@@ -1896,8 +1896,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:03",
-                    "updated_at": "2026-09-22 09:33:03"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1933,8 +1933,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 },
                 {
                     "id": "",
@@ -1945,8 +1945,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1982,8 +1982,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 },
                 {
                     "id": "",
@@ -1994,8 +1994,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2031,8 +2031,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:05",
-                    "updated_at": "2026-09-22 09:33:05"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 },
                 {
                     "id": "",
@@ -2043,8 +2043,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:05",
-                    "updated_at": "2026-09-22 09:33:05"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2080,8 +2080,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:20",
+                    "updated_at": "2026-09-22 09:48:20"
                 },
                 {
                     "id": "",
@@ -2092,8 +2092,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:20",
+                    "updated_at": "2026-09-22 09:48:20"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2129,8 +2129,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:03",
-                    "updated_at": "2026-09-22 09:33:03"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 },
                 {
                     "id": "",
@@ -2141,8 +2141,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:03",
-                    "updated_at": "2026-09-22 09:33:03"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2178,8 +2178,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 },
                 {
                     "id": "",
@@ -2190,8 +2190,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:04",
-                    "updated_at": "2026-09-22 09:33:04"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2227,8 +2227,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 },
                 {
                     "id": "",
@@ -2239,8 +2239,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:19",
+                    "updated_at": "2026-09-22 09:48:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2276,8 +2276,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 },
                 {
                     "id": "",
@@ -2288,8 +2288,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2325,8 +2325,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 },
                 {
                     "id": "",
@@ -2337,8 +2337,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2374,8 +2374,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:23",
+                    "updated_at": "2026-09-22 09:48:23"
                 },
                 {
                     "id": "",
@@ -2386,8 +2386,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:23",
+                    "updated_at": "2026-09-22 09:48:23"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2423,8 +2423,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 },
                 {
                     "id": "",
@@ -2435,8 +2435,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2472,8 +2472,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 },
                 {
                     "id": "",
@@ -2484,8 +2484,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2521,8 +2521,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:08",
-                    "updated_at": "2026-09-22 09:33:08"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 },
                 {
                     "id": "",
@@ -2533,8 +2533,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:08",
-                    "updated_at": "2026-09-22 09:33:08"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2570,8 +2570,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:26",
+                    "updated_at": "2026-09-22 09:48:26"
                 },
                 {
                     "id": "",
@@ -2582,8 +2582,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:26",
+                    "updated_at": "2026-09-22 09:48:26"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2619,8 +2619,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:08",
-                    "updated_at": "2026-09-22 09:33:08"
+                    "created_at": "2026-09-22 09:48:24",
+                    "updated_at": "2026-09-22 09:48:24"
                 },
                 {
                     "id": "",
@@ -2631,8 +2631,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:08",
-                    "updated_at": "2026-09-22 09:33:08"
+                    "created_at": "2026-09-22 09:48:24",
+                    "updated_at": "2026-09-22 09:48:24"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2668,8 +2668,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 },
                 {
                     "id": "",
@@ -2680,8 +2680,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:07",
-                    "updated_at": "2026-09-22 09:33:07"
+                    "created_at": "2026-09-22 09:48:22",
+                    "updated_at": "2026-09-22 09:48:22"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2717,8 +2717,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:09",
-                    "updated_at": "2026-09-22 09:33:09"
+                    "created_at": "2026-09-22 09:48:21",
+                    "updated_at": "2026-09-22 09:48:21"
                 },
                 {
                     "id": "",
@@ -2729,8 +2729,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:09",
-                    "updated_at": "2026-09-22 09:33:09"
+                    "created_at": "2026-09-22 09:48:21",
+                    "updated_at": "2026-09-22 09:48:21"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2766,8 +2766,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:10",
-                    "updated_at": "2026-09-22 09:33:10"
+                    "created_at": "2026-09-22 09:48:31",
+                    "updated_at": "2026-09-22 09:48:31"
                 },
                 {
                     "id": "",
@@ -2778,8 +2778,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:10",
-                    "updated_at": "2026-09-22 09:33:10"
+                    "created_at": "2026-09-22 09:48:31",
+                    "updated_at": "2026-09-22 09:48:31"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2815,8 +2815,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:09",
-                    "updated_at": "2026-09-22 09:33:09"
+                    "created_at": "2026-09-22 09:48:29",
+                    "updated_at": "2026-09-22 09:48:29"
                 },
                 {
                     "id": "",
@@ -2827,8 +2827,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:09",
-                    "updated_at": "2026-09-22 09:33:09"
+                    "created_at": "2026-09-22 09:48:29",
+                    "updated_at": "2026-09-22 09:48:29"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2864,8 +2864,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:09",
-                    "updated_at": "2026-09-22 09:33:09"
+                    "created_at": "2026-09-22 09:48:28",
+                    "updated_at": "2026-09-22 09:48:28"
                 },
                 {
                     "id": "",
@@ -2876,8 +2876,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:09",
-                    "updated_at": "2026-09-22 09:33:09"
+                    "created_at": "2026-09-22 09:48:28",
+                    "updated_at": "2026-09-22 09:48:28"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2913,8 +2913,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 09:33:09",
-                    "updated_at": "2026-09-22 09:33:09"
+                    "created_at": "2026-09-22 09:48:28",
+                    "updated_at": "2026-09-22 09:48:28"
                 },
                 {
                     "id": "",
@@ -2925,8 +2925,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 09:33:09",
-                    "updated_at": "2026-09-22 09:33:09"
+                    "created_at": "2026-09-22 09:48:28",
+                    "updated_at": "2026-09-22 09:48:28"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
