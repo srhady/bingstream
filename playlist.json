@@ -3,23 +3,77 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "4:17:24 AM 23-09-2026",
+        "last_update_time": "4:32:23 AM 23-09-2026",
         "statistics": {
-            "total_live": 0,
-            "total_upcoming": 54
+            "total_live": 6,
+            "total_upcoming": 49
         }
     },
     "matches": [
         {
+            "id": 66062,
+            "status": "LIVE",
+            "name": "Criciuma vs Operario-PR",
+            "slug": "criciuma-vs-operario-pr",
+            "score": "vs",
+            "timelive": "22:30",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790116200,
+            "timestamp": 1790116200,
+            "bd_time": "4:30 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "Serie B",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png",
+            "localteam_name": "Criciuma",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/140.png",
+            "visitorteam_name": "Operario-PR",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1223.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d6394/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 22:31:37",
+                    "updated_at": "2026-09-22 22:31:37",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d6394/chunks.m3u8?is_vip=false&token=1790202746-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ff430cdf61c29d7c8f1db8248b69eedc"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d6394/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 22:31:37",
+                    "updated_at": "2026-09-22 22:31:37"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d6394-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-22 22:31:37",
+                    "updated_at": "2026-09-22 22:31:37"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d6394-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-22 22:31:37",
+                    "updated_at": "2026-09-22 22:31:37"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 66619,
-            "status": "UPCOMING",
+            "status": "LIVE",
             "name": "Toronto Blue Jays vs Baltimore Orioles",
             "slug": "toronto-blue-jays-vs-baltimore-orioles",
             "score": "vs",
             "timelive": "22:35",
-            "is_playing": false,
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790116500,
             "timestamp": 1790116500,
             "bd_time": "4:35 AM 23-09-2026",
@@ -33,27 +87,28 @@
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "55836",
-                    "stream_name": "55836",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55836_abr.m3u8",
+                    "chanel_id": "55837",
+                    "stream_name": "55837",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55837_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 22:32:34",
+                    "updated_at": "2026-09-22 22:32:34"
                 },
                 {
                     "id": "",
-                    "chanel_id": "55836",
-                    "stream_name": "55836",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836_abr.m3u8",
+                    "chanel_id": "55837",
+                    "stream_name": "55837",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 22:32:34",
+                    "updated_at": "2026-09-22 22:32:34",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790202756-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d242fe422ba2e41585e5cc88968213a6"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -61,14 +116,14 @@
         },
         {
             "id": 66620,
-            "status": "UPCOMING",
+            "status": "LIVE",
             "name": "St. Louis Cardinals vs Pittsburgh Pirates",
             "slug": "st-louis-cardinals-vs-pittsburgh-pirates",
             "score": "vs",
             "timelive": "22:40",
-            "is_playing": false,
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790116800,
             "timestamp": 1790116800,
             "bd_time": "4:40 AM 23-09-2026",
@@ -82,27 +137,28 @@
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "55837",
-                    "stream_name": "55837",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55837_abr.m3u8",
+                    "chanel_id": "55839",
+                    "stream_name": "55839",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 22:32:39",
+                    "updated_at": "2026-09-22 22:32:39"
                 },
                 {
                     "id": "",
-                    "chanel_id": "55837",
-                    "stream_name": "55837",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837_abr.m3u8",
+                    "chanel_id": "55839",
+                    "stream_name": "55839",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 22:32:39",
+                    "updated_at": "2026-09-22 22:32:39",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790202761-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9e1ff97074239e10e2e38c20d91c538a"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -110,14 +166,14 @@
         },
         {
             "id": 66621,
-            "status": "UPCOMING",
+            "status": "LIVE",
             "name": "Milwaukee Brewers vs Philadelphia Phillies",
             "slug": "milwaukee-brewers-vs-philadelphia-phillies",
             "score": "vs",
             "timelive": "22:40",
-            "is_playing": false,
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790116800,
             "timestamp": 1790116800,
             "bd_time": "4:40 AM 23-09-2026",
@@ -131,27 +187,28 @@
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "55838",
-                    "stream_name": "55838",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
+                    "chanel_id": "55840",
+                    "stream_name": "55840",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 10:32:57",
-                    "updated_at": "2026-09-22 10:32:57"
+                    "created_at": "2026-09-22 22:32:45",
+                    "updated_at": "2026-09-22 22:32:45"
                 },
                 {
                     "id": "",
-                    "chanel_id": "55838",
-                    "stream_name": "55838",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
+                    "chanel_id": "55840",
+                    "stream_name": "55840",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 10:32:57",
-                    "updated_at": "2026-09-22 10:32:57"
+                    "created_at": "2026-09-22 22:32:45",
+                    "updated_at": "2026-09-22 22:32:45",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790202767-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b7c039d045d4600945705f8a8f0a8ed8"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -159,14 +216,14 @@
         },
         {
             "id": 66622,
-            "status": "UPCOMING",
+            "status": "LIVE",
             "name": "Washington Nationals vs Detroit Tigers",
             "slug": "washington-nationals-vs-detroit-tigers",
             "score": "vs",
             "timelive": "22:40",
-            "is_playing": false,
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790116800,
             "timestamp": 1790116800,
             "bd_time": "4:40 AM 23-09-2026",
@@ -180,27 +237,28 @@
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "55839",
-                    "stream_name": "55839",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
+                    "chanel_id": "55838",
+                    "stream_name": "55838",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 22:32:51",
+                    "updated_at": "2026-09-22 22:32:51"
                 },
                 {
                     "id": "",
-                    "chanel_id": "55839",
-                    "stream_name": "55839",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
+                    "chanel_id": "55838",
+                    "stream_name": "55838",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 22:32:51",
+                    "updated_at": "2026-09-22 22:32:51",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790202773-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1f197eb4aee1657e68e9a73646bc703a"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -208,14 +266,14 @@
         },
         {
             "id": 66623,
-            "status": "UPCOMING",
+            "status": "LIVE",
             "name": "Cleveland Guardians vs Boston Red Sox",
             "slug": "cleveland-guardians-vs-boston-red-sox",
             "score": "vs",
             "timelive": "22:45",
-            "is_playing": false,
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790117100,
             "timestamp": 1790117100,
             "bd_time": "4:45 AM 23-09-2026",
@@ -229,27 +287,28 @@
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "55840",
-                    "stream_name": "55840",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
+                    "chanel_id": "55841",
+                    "stream_name": "55841",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 22:32:56",
+                    "updated_at": "2026-09-22 22:32:56"
                 },
                 {
                     "id": "",
-                    "chanel_id": "55840",
-                    "stream_name": "55840",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
+                    "chanel_id": "55841",
+                    "stream_name": "55841",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-22 10:32:55",
-                    "updated_at": "2026-09-22 10:32:55"
+                    "created_at": "2026-09-22 22:32:56",
+                    "updated_at": "2026-09-22 22:32:56",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790202778-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-34ca954f0efb8f044c0cbb7e725027f8"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
