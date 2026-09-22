@@ -3,10 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "7:02:31 PM 22-09-2026",
+        "last_update_time": "7:17:41 PM 22-09-2026",
         "statistics": {
             "total_live": 4,
-            "total_upcoming": 71
+            "total_upcoming": 74
         }
     },
     "matches": [
@@ -258,15 +258,15 @@
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c1/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 13:03:00",
-                    "updated_at": "2026-09-22 13:03:00"
+                    "created_at": "2026-09-22 13:17:51",
+                    "updated_at": "2026-09-22 13:17:51"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a789d16fae1431b1df9a1c1/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-22 13:03:00",
-                    "updated_at": "2026-09-22 13:03:00"
+                    "created_at": "2026-09-22 13:17:51",
+                    "updated_at": "2026-09-22 13:17:51"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -2024,8 +2024,47 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
-            "id": 67366,
+            "id": 67365,
             "status": "NS",
+            "name": "China PR U23 vs UAE U23",
+            "slug": "china-pr-u23-vs-uae-u23",
+            "score": "vs",
+            "timelive": "05:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790141400,
+            "timestamp": 1790141400,
+            "bd_time": "11:30 AM 23-09-2026",
+            "ishot": false,
+            "league_name": "Asian Games",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/803.png",
+            "localteam_name": "China PR U23",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/10932.png",
+            "visitorteam_name": "UAE U23",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/10184.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d0/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:52",
+                    "updated_at": "2026-09-22 13:17:52"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8d0/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:52",
+                    "updated_at": "2026-09-22 13:17:52"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 67366,
+            "status": "UPCOMING",
             "name": "Iran U23 vs Korea DPR U23",
             "slug": "iran-u23-vs-korea-dpr-u23",
             "score": "vs",
@@ -2102,8 +2141,86 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
-            "id": 69072,
+            "id": 69070,
             "status": "NS",
+            "name": "Kashima vs Ventforet Kofu",
+            "slug": "kashima-vs-ventforet-kofu",
+            "score": "vs",
+            "timelive": "08:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790150400,
+            "timestamp": 1790150400,
+            "bd_time": "2:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Emperor Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/102.png",
+            "localteam_name": "Kashima",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/290.png",
+            "visitorteam_name": "Ventforet Kofu",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/308.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d23/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:52",
+                    "updated_at": "2026-09-22 13:17:52"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d23/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:52",
+                    "updated_at": "2026-09-22 13:17:52"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 69071,
+            "status": "NS",
+            "name": "Kashiwa Reysol vs Imabari",
+            "slug": "kashiwa-reysol-vs-imabari",
+            "score": "vs",
+            "timelive": "08:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790150400,
+            "timestamp": 1790150400,
+            "bd_time": "2:00 PM 23-09-2026",
+            "ishot": false,
+            "league_name": "Emperor Cup",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/102.png",
+            "localteam_name": "Kashiwa Reysol",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/281.png",
+            "visitorteam_name": "Imabari",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/10075.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d20/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:53",
+                    "updated_at": "2026-09-22 13:17:53"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d20/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-22 13:17:53",
+                    "updated_at": "2026-09-22 13:17:53"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 69072,
+            "status": "UPCOMING",
             "name": "Kyoto Sanga vs Fujieda MYFC",
             "slug": "kyoto-sanga-vs-fujieda-myfc",
             "score": "vs",
@@ -2142,7 +2259,7 @@
         },
         {
             "id": 67367,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Japan U23 vs Thailand U23",
             "slug": "japan-u23-vs-thailand-u23",
             "score": "vs",
@@ -2181,7 +2298,7 @@
         },
         {
             "id": 67368,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Kyrgyz Republic U23 vs Hong Kong U23",
             "slug": "kyrgyz-republic-u23-vs-hong-kong-u23",
             "score": "vs",
@@ -2259,7 +2376,7 @@
         },
         {
             "id": 70860,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Japan U18 vs Ukraine U18",
             "slug": "japan-u18-vs-ukraine-u18",
             "score": "vs",
