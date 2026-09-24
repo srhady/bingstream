@@ -3,66 +3,16 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "4:17:27 AM 25-09-2026",
+        "last_update_time": "4:32:36 AM 25-09-2026",
         "statistics": {
             "total_live": 3,
-            "total_upcoming": 80
+            "total_upcoming": 79
         }
     },
     "matches": [
         {
-            "id": 79188,
-            "status": "IN9",
-            "name": "Colorado Rockies vs Arizona Diamondbacks",
-            "slug": "colorado-rockies-vs-arizona-diamondbacks",
-            "score": "vs",
-            "timelive": "19:10",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1790277000,
-            "timestamp": 1790277000,
-            "bd_time": "1:10 AM 25-09-2026",
-            "ishot": true,
-            "league_name": "MLB",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
-            "localteam_name": "Colorado Rockies",
-            "localteam_logo": "https://media.api-sports.io/baseball/teams/10.png",
-            "visitorteam_name": "Arizona Diamondbacks",
-            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/2.png",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "55839",
-                    "stream_name": "55839",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 22:17:28",
-                    "updated_at": "2026-09-24 22:17:28"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "55839",
-                    "stream_name": "55839",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 22:17:28",
-                    "updated_at": "2026-09-24 22:17:28",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790374650-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-098a5e0a5a9b02632dacba1a0ea9a984"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
             "id": 79189,
-            "status": "IN1",
+            "status": "IN2",
             "name": "Philadelphia Phillies vs Milwaukee Brewers",
             "slug": "philadelphia-phillies-vs-milwaukee-brewers",
             "score": "vs",
@@ -90,8 +40,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:17:34",
-                    "updated_at": "2026-09-24 22:17:34"
+                    "created_at": "2026-09-24 22:32:41",
+                    "updated_at": "2026-09-24 22:32:41"
                 },
                 {
                     "id": "",
@@ -102,9 +52,59 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:17:34",
-                    "updated_at": "2026-09-24 22:17:34",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790374657-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e81752230fd096da658bb85358252bc"
+                    "created_at": "2026-09-24 22:32:41",
+                    "updated_at": "2026-09-24 22:32:41",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790375563-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-812af022fcbf6e50e6d586efd1b6bde2"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 79190,
+            "status": "LIVE",
+            "name": "Boston Red Sox vs Cleveland Guardians",
+            "slug": "boston-red-sox-vs-cleveland-guardians",
+            "score": "vs",
+            "timelive": "22:45",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790289900,
+            "timestamp": 1790289900,
+            "bd_time": "4:45 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "MLB",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
+            "localteam_name": "Boston Red Sox",
+            "localteam_logo": "https://media.api-sports.io/baseball/teams/5.png",
+            "visitorteam_name": "Cleveland Guardians",
+            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/9.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55841",
+                    "stream_name": "55841",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 22:32:47",
+                    "updated_at": "2026-09-24 22:32:47"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55841",
+                    "stream_name": "55841",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 22:32:47",
+                    "updated_at": "2026-09-24 22:32:47",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790375574-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-67aa3fda362bcb1e4ca83a054e87df44"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -140,8 +140,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:17:40",
-                    "updated_at": "2026-09-24 22:17:40"
+                    "created_at": "2026-09-24 22:32:58",
+                    "updated_at": "2026-09-24 22:32:58"
                 },
                 {
                     "id": "",
@@ -152,9 +152,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:17:40",
-                    "updated_at": "2026-09-24 22:17:40",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790374662-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3236b43038930a19d06d831946d795a9"
+                    "created_at": "2026-09-24 22:32:58",
+                    "updated_at": "2026-09-24 22:32:58",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790375580-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a6fc7abd3f854e3b456835ad43bc8d4f"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -190,8 +190,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:17:46",
-                    "updated_at": "2026-09-24 22:17:46"
+                    "created_at": "2026-09-24 22:33:04",
+                    "updated_at": "2026-09-24 22:33:04"
                 },
                 {
                     "id": "",
@@ -202,8 +202,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:17:46",
-                    "updated_at": "2026-09-24 22:17:46"
+                    "created_at": "2026-09-24 22:33:04",
+                    "updated_at": "2026-09-24 22:33:04"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -239,8 +239,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:17:48",
-                    "updated_at": "2026-09-24 22:17:48"
+                    "created_at": "2026-09-24 22:33:06",
+                    "updated_at": "2026-09-24 22:33:06"
                 },
                 {
                     "id": "",
@@ -251,8 +251,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:17:48",
-                    "updated_at": "2026-09-24 22:17:48"
+                    "created_at": "2026-09-24 22:33:06",
+                    "updated_at": "2026-09-24 22:33:06"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -288,8 +288,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:17:50",
-                    "updated_at": "2026-09-24 22:17:50"
+                    "created_at": "2026-09-24 22:33:08",
+                    "updated_at": "2026-09-24 22:33:08"
                 },
                 {
                     "id": "",
@@ -300,57 +300,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:17:50",
-                    "updated_at": "2026-09-24 22:17:50"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 79190,
-            "status": "UPCOMING",
-            "name": "Boston Red Sox vs Cleveland Guardians",
-            "slug": "boston-red-sox-vs-cleveland-guardians",
-            "score": "vs",
-            "timelive": "22:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790289900,
-            "timestamp": 1790289900,
-            "bd_time": "4:45 AM 25-09-2026",
-            "ishot": false,
-            "league_name": "MLB",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
-            "localteam_name": "Boston Red Sox",
-            "localteam_logo": "https://media.api-sports.io/baseball/teams/5.png",
-            "visitorteam_name": "Cleveland Guardians",
-            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/9.png",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "55840",
-                    "stream_name": "55840",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 05:48:11",
-                    "updated_at": "2026-09-24 05:48:11"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "55840",
-                    "stream_name": "55840",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 05:48:11",
-                    "updated_at": "2026-09-24 05:48:11"
+                    "created_at": "2026-09-24 22:33:08",
+                    "updated_at": "2026-09-24 22:33:08"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1356,7 +1307,7 @@
         },
         {
             "id": 79201,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Boston Red Sox vs Chicago Cubs",
             "slug": "boston-red-sox-vs-chicago-cubs",
             "score": "vs",
