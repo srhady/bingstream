@@ -3,16 +3,66 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "4:47:29 AM 25-09-2026",
+        "last_update_time": "5:02:29 AM 25-09-2026",
         "statistics": {
-            "total_live": 7,
-            "total_upcoming": 77
+            "total_live": 8,
+            "total_upcoming": 79
         }
     },
     "matches": [
         {
+            "id": 79189,
+            "status": "IN3",
+            "name": "Philadelphia Phillies vs Milwaukee Brewers",
+            "slug": "philadelphia-phillies-vs-milwaukee-brewers",
+            "score": "vs",
+            "timelive": "22:05",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790287500,
+            "timestamp": 1790287500,
+            "bd_time": "4:05 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "MLB",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
+            "localteam_name": "Philadelphia Phillies",
+            "localteam_logo": "https://media.api-sports.io/baseball/teams/27.png",
+            "visitorteam_name": "Milwaukee Brewers",
+            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/20.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55840",
+                    "stream_name": "55840",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 23:02:07",
+                    "updated_at": "2026-09-24 23:02:07"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55840",
+                    "stream_name": "55840",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 23:02:07",
+                    "updated_at": "2026-09-24 23:02:07",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790377354-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fab153dd7b5151e7bc6faa3008e6d99f"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 79190,
-            "status": "LIVE",
+            "status": "IN1",
             "name": "Boston Red Sox vs Cleveland Guardians",
             "slug": "boston-red-sox-vs-cleveland-guardians",
             "score": "vs",
@@ -40,8 +90,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:47:22",
-                    "updated_at": "2026-09-24 22:47:22"
+                    "created_at": "2026-09-24 23:02:43",
+                    "updated_at": "2026-09-24 23:02:43"
                 },
                 {
                     "id": "",
@@ -52,9 +102,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:47:22",
-                    "updated_at": "2026-09-24 22:47:22",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790376465-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-03413eb64452ac298f093d94a805b368"
+                    "created_at": "2026-09-24 23:02:43",
+                    "updated_at": "2026-09-24 23:02:43",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790377367-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d70ad2bf9c39072f9642816eed6659a6"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -90,8 +140,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:47:49",
-                    "updated_at": "2026-09-24 22:47:49"
+                    "created_at": "2026-09-24 23:02:56",
+                    "updated_at": "2026-09-24 23:02:56"
                 },
                 {
                     "id": "",
@@ -102,9 +152,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:47:49",
-                    "updated_at": "2026-09-24 22:47:49",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52440/720p/chunks.m3u8?is_vip=false&token=1790376471-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d8d080b74dd7d907b5d10c3fe7c2a6b8"
+                    "created_at": "2026-09-24 23:02:56",
+                    "updated_at": "2026-09-24 23:02:56",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52440/720p/chunks.m3u8?is_vip=false&token=1790377382-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-96e5df2f27cc01decbefe3301932fdeb"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -140,8 +190,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:47:56",
-                    "updated_at": "2026-09-24 22:47:56"
+                    "created_at": "2026-09-24 23:03:07",
+                    "updated_at": "2026-09-24 23:03:07"
                 },
                 {
                     "id": "",
@@ -152,9 +202,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:47:56",
-                    "updated_at": "2026-09-24 22:47:56",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52441/720p/chunks.m3u8?is_vip=false&token=1790376478-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-73fdf999566433a6a89f493ad5d2cb4f"
+                    "created_at": "2026-09-24 23:03:07",
+                    "updated_at": "2026-09-24 23:03:07",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52441/720p/chunks.m3u8?is_vip=false&token=1790377389-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fc3ae72ac40d2aa5e862af5ecd5de1e6"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -190,8 +240,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:47:43",
-                    "updated_at": "2026-09-24 22:47:43"
+                    "created_at": "2026-09-24 23:03:13",
+                    "updated_at": "2026-09-24 23:03:13"
                 },
                 {
                     "id": "",
@@ -202,59 +252,109 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:47:43",
-                    "updated_at": "2026-09-24 22:47:43",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52443/720p/chunks.m3u8?is_vip=false&token=1790376490-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e9692bb38047b17531a85188953398eb"
+                    "created_at": "2026-09-24 23:03:13",
+                    "updated_at": "2026-09-24 23:03:13",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52443/720p/chunks.m3u8?is_vip=false&token=1790377395-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-653d83a2e14150c3a0d9ddd3b860099c"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
             "referer": "https://iframe.rumsport8.live"
         },
         {
-            "id": 67556,
+            "id": 79191,
             "status": "LIVE",
-            "name": "Chicago | Day 1",
-            "slug": "chicago-day-1",
+            "name": "New York Yankees vs Tampa Bay Rays",
+            "slug": "new-york-yankees-vs-tampa-bay-rays",
             "score": "vs",
-            "timelive": "18:00",
+            "timelive": "23:05",
             "is_playing": true,
             "has_ended": false,
             "is_waiting": false,
-            "start_at": 1790272800,
-            "timestamp": 1790272800,
-            "bd_time": "12:00 AM 25-09-2026",
-            "ishot": false,
-            "league_name": "PGA Tour",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
+            "start_at": 1790291100,
+            "timestamp": 1790291100,
+            "bd_time": "5:05 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "MLB",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
+            "localteam_name": "New York Yankees",
+            "localteam_logo": "https://media.api-sports.io/baseball/teams/25.png",
+            "visitorteam_name": "Tampa Bay Rays",
+            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/34.png",
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "287",
-                    "stream_name": "287",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/287_abr.m3u8",
+                    "chanel_id": "55842",
+                    "stream_name": "55842",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55842_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:48:19",
-                    "updated_at": "2026-09-24 22:48:19"
+                    "created_at": "2026-09-24 23:03:23",
+                    "updated_at": "2026-09-24 23:03:23"
                 },
                 {
                     "id": "",
-                    "chanel_id": "287",
-                    "stream_name": "287",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287_abr.m3u8",
+                    "chanel_id": "55842",
+                    "stream_name": "55842",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:48:19",
-                    "updated_at": "2026-09-24 22:48:19",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790376500-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-74934174479ecfef8c083489cc037907"
+                    "created_at": "2026-09-24 23:03:23",
+                    "updated_at": "2026-09-24 23:03:23",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1790377406-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9a6a3e7d77644bb5abf614f5ecb4b39d"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 79192,
+            "status": "LIVE",
+            "name": "Atlanta Braves vs Cincinnati Reds",
+            "slug": "atlanta-braves-vs-cincinnati-reds",
+            "score": "vs",
+            "timelive": "23:15",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790291700,
+            "timestamp": 1790291700,
+            "bd_time": "5:15 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "MLB",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
+            "localteam_name": "Atlanta Braves",
+            "localteam_logo": "https://media.api-sports.io/baseball/teams/3.png",
+            "visitorteam_name": "Cincinnati Reds",
+            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/8.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55843",
+                    "stream_name": "55843",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55843_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 23:03:31",
+                    "updated_at": "2026-09-24 23:03:31"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55843",
+                    "stream_name": "55843",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 23:03:31",
+                    "updated_at": "2026-09-24 23:03:31",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1790377413-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8fc43949efd721e12d8eaa979502b0d9"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -283,28 +383,28 @@
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "475",
-                    "stream_name": "475",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/475_abr.m3u8",
+                    "chanel_id": "510821",
+                    "stream_name": "510821",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/510821_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:48:24",
-                    "updated_at": "2026-09-24 22:48:24"
+                    "created_at": "2026-09-24 23:03:42",
+                    "updated_at": "2026-09-24 23:03:42"
                 },
                 {
                     "id": "",
-                    "chanel_id": "475",
-                    "stream_name": "475",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/475_abr.m3u8",
+                    "chanel_id": "510821",
+                    "stream_name": "510821",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510821_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:48:24",
-                    "updated_at": "2026-09-24 22:48:24",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/475/720p/chunks.m3u8?is_vip=false&token=1790376507-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-30618e3f5c0455f0af878bffa0370cd0"
+                    "created_at": "2026-09-24 23:03:42",
+                    "updated_at": "2026-09-24 23:03:42",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510821/720p/chunks.m3u8?is_vip=false&token=1790377424-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-122f518dcce278b9e63f023d07c9c08e"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -340,8 +440,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:48:31",
-                    "updated_at": "2026-09-24 22:48:31"
+                    "created_at": "2026-09-24 23:03:48",
+                    "updated_at": "2026-09-24 23:03:48"
                 },
                 {
                     "id": "",
@@ -352,8 +452,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:48:31",
-                    "updated_at": "2026-09-24 22:48:31"
+                    "created_at": "2026-09-24 23:03:48",
+                    "updated_at": "2026-09-24 23:03:48"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -389,8 +489,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:48:32",
-                    "updated_at": "2026-09-24 22:48:32"
+                    "created_at": "2026-09-24 23:03:50",
+                    "updated_at": "2026-09-24 23:03:50"
                 },
                 {
                     "id": "",
@@ -401,8 +501,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:48:32",
-                    "updated_at": "2026-09-24 22:48:32"
+                    "created_at": "2026-09-24 23:03:50",
+                    "updated_at": "2026-09-24 23:03:50"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -438,8 +538,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 22:48:34",
-                    "updated_at": "2026-09-24 22:48:34"
+                    "created_at": "2026-09-24 23:03:51",
+                    "updated_at": "2026-09-24 23:03:51"
                 },
                 {
                     "id": "",
@@ -450,156 +550,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 22:48:34",
-                    "updated_at": "2026-09-24 22:48:34"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 79189,
-            "status": "IN2",
-            "name": "Philadelphia Phillies vs Milwaukee Brewers",
-            "slug": "philadelphia-phillies-vs-milwaukee-brewers",
-            "score": "vs",
-            "timelive": "22:05",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1790287500,
-            "timestamp": 1790287500,
-            "bd_time": "4:05 AM 25-09-2026",
-            "ishot": true,
-            "league_name": "MLB",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
-            "localteam_name": "Philadelphia Phillies",
-            "localteam_logo": "https://media.api-sports.io/baseball/teams/27.png",
-            "visitorteam_name": "Milwaukee Brewers",
-            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/20.png",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "55840",
-                    "stream_name": "55840",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 22:48:36",
-                    "updated_at": "2026-09-24 22:48:36"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "55840",
-                    "stream_name": "55840",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 22:48:36",
-                    "updated_at": "2026-09-24 22:48:36",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790376521-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-833d164ba55f3723e9ca68df60fa3292"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 79191,
-            "status": "UPCOMING",
-            "name": "New York Yankees vs Tampa Bay Rays",
-            "slug": "new-york-yankees-vs-tampa-bay-rays",
-            "score": "vs",
-            "timelive": "23:05",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790291100,
-            "timestamp": 1790291100,
-            "bd_time": "5:05 AM 25-09-2026",
-            "ishot": false,
-            "league_name": "MLB",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
-            "localteam_name": "New York Yankees",
-            "localteam_logo": "https://media.api-sports.io/baseball/teams/25.png",
-            "visitorteam_name": "Tampa Bay Rays",
-            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/34.png",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "55841",
-                    "stream_name": "55841",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 05:48:11",
-                    "updated_at": "2026-09-24 05:48:11"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "55841",
-                    "stream_name": "55841",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55841_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 05:48:11",
-                    "updated_at": "2026-09-24 05:48:11"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 79192,
-            "status": "UPCOMING",
-            "name": "Atlanta Braves vs Cincinnati Reds",
-            "slug": "atlanta-braves-vs-cincinnati-reds",
-            "score": "vs",
-            "timelive": "23:15",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790291700,
-            "timestamp": 1790291700,
-            "bd_time": "5:15 AM 25-09-2026",
-            "ishot": false,
-            "league_name": "MLB",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
-            "localteam_name": "Atlanta Braves",
-            "localteam_logo": "https://media.api-sports.io/baseball/teams/3.png",
-            "visitorteam_name": "Cincinnati Reds",
-            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/8.png",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "55842",
-                    "stream_name": "55842",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55842_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 05:48:15",
-                    "updated_at": "2026-09-24 05:48:15"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "55842",
-                    "stream_name": "55842",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55842_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 05:48:15",
-                    "updated_at": "2026-09-24 05:48:15"
+                    "created_at": "2026-09-24 23:03:51",
+                    "updated_at": "2026-09-24 23:03:51"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1360,7 +1312,7 @@
         },
         {
             "id": 79196,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Detroit Tigers vs Pittsburgh Pirates",
             "slug": "detroit-tigers-vs-pittsburgh-pirates",
             "score": "vs",
@@ -1409,7 +1361,7 @@
         },
         {
             "id": 79197,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Philadelphia Phillies vs Tampa Bay Rays",
             "slug": "philadelphia-phillies-vs-tampa-bay-rays",
             "score": "vs",
@@ -1458,7 +1410,7 @@
         },
         {
             "id": 79198,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Washington Nationals vs New York Mets",
             "slug": "washington-nationals-vs-new-york-mets",
             "score": "vs",
@@ -1500,6 +1452,55 @@
                     "sort": 2,
                     "created_at": "2026-09-24 22:48:52",
                     "updated_at": "2026-09-24 22:48:52"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 80041,
+            "status": "NS",
+            "name": "Washington Capitals vs Boston Bruins",
+            "slug": "washington-capitals-vs-boston-bruins",
+            "score": "vs",
+            "timelive": "23:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790377200,
+            "timestamp": 1790377200,
+            "bd_time": "5:00 AM 26-09-2026",
+            "ishot": true,
+            "league_name": "NHL",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/ah/57.png",
+            "localteam_name": "Washington Capitals",
+            "localteam_logo": "https://media.api-sports.io/hockey/teams/703.png",
+            "visitorteam_name": "Boston Bruins",
+            "visitorteam_logo": "https://media.api-sports.io/hockey/teams/673.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "52440",
+                    "stream_name": "52440",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52440_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 23:03:58",
+                    "updated_at": "2026-09-24 23:03:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "52440",
+                    "stream_name": "52440",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52440_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 23:03:58",
+                    "updated_at": "2026-09-24 23:03:58"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1647,6 +1648,55 @@
                     "sort": 2,
                     "created_at": "2026-09-24 00:04:05",
                     "updated_at": "2026-09-24 00:04:05"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68323,
+            "status": "NS",
+            "name": "SHOOTO BRAZIL 140",
+            "slug": "shooto-brazil-140",
+            "score": "vs",
+            "timelive": "23:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790377200,
+            "timestamp": 1790377200,
+            "bd_time": "5:00 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "MMA",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "498587",
+                    "stream_name": "498587",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/498587_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 23:03:58",
+                    "updated_at": "2026-09-24 23:03:58"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "498587",
+                    "stream_name": "498587",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 23:03:58",
+                    "updated_at": "2026-09-24 23:03:58"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3207,6 +3257,84 @@
                     "line": "web",
                     "created_at": "2026-09-24 20:06:11",
                     "updated_at": "2026-09-24 20:06:11"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66290,
+            "status": "NS",
+            "name": "Racing Louisville W vs San Diego Wave W",
+            "slug": "racing-louisville-w-vs-san-diego-wave-w",
+            "score": "vs",
+            "timelive": "22:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790375400,
+            "timestamp": 1790375400,
+            "bd_time": "4:30 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "NWSL Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/254.png",
+            "localteam_name": "Racing Louisville W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/16488.png",
+            "visitorteam_name": "San Diego Wave W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/18451.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9db/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-24 23:04:00",
+                    "updated_at": "2026-09-24 23:04:00"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9db/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-24 23:04:00",
+                    "updated_at": "2026-09-24 23:04:00"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66291,
+            "status": "NS",
+            "name": "Novorizontino vs São Bernardo",
+            "slug": "novorizontino-vs-sao-bernardo",
+            "score": "vs",
+            "timelive": "22:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790375400,
+            "timestamp": 1790375400,
+            "bd_time": "4:30 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "Serie B",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/72.png",
+            "localteam_name": "Novorizontino",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/7834.png",
+            "visitorteam_name": "São Bernardo",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/7865.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9da/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-24 23:04:00",
+                    "updated_at": "2026-09-24 23:04:00"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9da/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-24 23:04:00",
+                    "updated_at": "2026-09-24 23:04:00"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
