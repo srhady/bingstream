@@ -3,16 +3,16 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "12:17:28 AM 25-09-2026",
+        "last_update_time": "12:32:33 AM 25-09-2026",
         "statistics": {
-            "total_live": 9,
-            "total_upcoming": 77
+            "total_live": 17,
+            "total_upcoming": 69
         }
     },
     "matches": [
         {
             "id": 79185,
-            "status": "IN1",
+            "status": "IN2",
             "name": "Kansas City Royals vs Chicago White Sox",
             "slug": "kansas-city-royals-vs-chicago-white-sox",
             "score": "vs",
@@ -40,8 +40,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:17:30",
-                    "updated_at": "2026-09-24 18:17:30"
+                    "created_at": "2026-09-24 18:32:36",
+                    "updated_at": "2026-09-24 18:32:36"
                 },
                 {
                     "id": "",
@@ -52,9 +52,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:17:30",
-                    "updated_at": "2026-09-24 18:17:30",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790360253-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0faf5c21354ee952f5d6cb6fc2c9b0c5"
+                    "created_at": "2026-09-24 18:32:36",
+                    "updated_at": "2026-09-24 18:32:36",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790361157-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4ab1151721dc8e3bc6dad520bec675ec"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -62,7 +62,7 @@
         },
         {
             "id": 79186,
-            "status": "LIVE",
+            "status": "IN1",
             "name": "Chicago Cubs vs Miami Marlins",
             "slug": "chicago-cubs-vs-miami-marlins",
             "score": "vs",
@@ -90,8 +90,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:17:36",
-                    "updated_at": "2026-09-24 18:17:36"
+                    "created_at": "2026-09-24 18:32:42",
+                    "updated_at": "2026-09-24 18:32:42"
                 },
                 {
                     "id": "",
@@ -102,9 +102,491 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:17:36",
-                    "updated_at": "2026-09-24 18:17:36",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790360259-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-687f1d8d4e4c88bd84ce89195a81fc97"
+                    "created_at": "2026-09-24 18:32:42",
+                    "updated_at": "2026-09-24 18:32:42",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790361164-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f96882a385eae60b2c94caa1232013c2"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 79187,
+            "status": "LIVE",
+            "name": "Texas Rangers vs New York Mets",
+            "slug": "texas-rangers-vs-new-york-mets",
+            "score": "vs",
+            "timelive": "18:35",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790274900,
+            "timestamp": 1790274900,
+            "bd_time": "12:35 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "MLB",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
+            "localteam_name": "Texas Rangers",
+            "localteam_logo": "https://media.api-sports.io/baseball/teams/35.png",
+            "visitorteam_name": "New York Mets",
+            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/24.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55838",
+                    "stream_name": "55838",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 18:32:48",
+                    "updated_at": "2026-09-24 18:32:48"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55838",
+                    "stream_name": "55838",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 18:32:48",
+                    "updated_at": "2026-09-24 18:32:48",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790361171-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-71005f26bb3460ad9d4bce6132ac52ea"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66220,
+            "status": "LIVE",
+            "name": "Liechtenstein vs Lithuania",
+            "slug": "liechtenstein-vs-lithuania",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790275500,
+            "timestamp": 1790275500,
+            "bd_time": "12:45 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "UEFA Nations League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
+            "localteam_name": "Liechtenstein",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1107.png",
+            "visitorteam_name": "Lithuania",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1097.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 1,
+                    "created_at": "2026-09-24 18:32:58",
+                    "updated_at": "2026-09-24 18:32:58",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4-hd/chunks.m3u8?is_vip=false&token=1790361182-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-604ed3075cbf3ce370584be3dc682f4d"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 2,
+                    "created_at": "2026-09-24 18:32:58",
+                    "updated_at": "2026-09-24 18:32:58"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 3,
+                    "created_at": "2026-09-24 18:32:58",
+                    "updated_at": "2026-09-24 18:32:58"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 4,
+                    "created_at": "2026-09-24 18:32:58",
+                    "updated_at": "2026-09-24 18:32:58"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66218,
+            "status": "LIVE",
+            "name": "Austria vs Israel",
+            "slug": "austria-vs-israel",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790275500,
+            "timestamp": 1790275500,
+            "bd_time": "12:45 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "UEFA Nations League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
+            "localteam_name": "Austria",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/775.png",
+            "visitorteam_name": "Israel",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1116.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 1,
+                    "created_at": "2026-09-24 18:33:27",
+                    "updated_at": "2026-09-24 18:33:27",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6-hd/chunks.m3u8?is_vip=false&token=1790361209-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d61f539fba4c199dfc04a3c193ca1c88"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 2,
+                    "created_at": "2026-09-24 18:33:27",
+                    "updated_at": "2026-09-24 18:33:27"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 3,
+                    "created_at": "2026-09-24 18:33:27",
+                    "updated_at": "2026-09-24 18:33:27"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 4,
+                    "created_at": "2026-09-24 18:33:27",
+                    "updated_at": "2026-09-24 18:33:27"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66217,
+            "status": "LIVE",
+            "name": "Norway vs Denmark",
+            "slug": "norway-vs-denmark",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790275500,
+            "timestamp": 1790275500,
+            "bd_time": "12:45 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "UEFA Nations League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
+            "localteam_name": "Norway",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1090.png",
+            "visitorteam_name": "Denmark",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/21.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "451",
+                    "stream_name": "451",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/451_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 18:33:36",
+                    "updated_at": "2026-09-24 18:33:36"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "451",
+                    "stream_name": "451",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 18:33:36",
+                    "updated_at": "2026-09-24 18:33:36",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1790361219-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-872183e18bafb5ed43018f40b64ba421"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 3,
+                    "created_at": "2026-09-24 18:33:36",
+                    "updated_at": "2026-09-24 18:33:36"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 4,
+                    "created_at": "2026-09-24 18:33:36",
+                    "updated_at": "2026-09-24 18:33:36"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 5,
+                    "created_at": "2026-09-24 18:33:36",
+                    "updated_at": "2026-09-24 18:33:36"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 6,
+                    "created_at": "2026-09-24 18:33:36",
+                    "updated_at": "2026-09-24 18:33:36"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66216,
+            "status": "LIVE",
+            "name": "Portugal vs Wales",
+            "slug": "portugal-vs-wales",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790275500,
+            "timestamp": 1790275500,
+            "bd_time": "12:45 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "UEFA Nations League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
+            "localteam_name": "Portugal",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/27.png",
+            "visitorteam_name": "Wales",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/767.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "151592",
+                    "stream_name": "151592",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/151592_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 18:34:03",
+                    "updated_at": "2026-09-24 18:34:03"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "151592",
+                    "stream_name": "151592",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 18:34:03",
+                    "updated_at": "2026-09-24 18:34:03",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790361245-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-58c4814ee0046eea8b01af509c03b199"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 3,
+                    "created_at": "2026-09-24 18:34:03",
+                    "updated_at": "2026-09-24 18:34:03",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da-hd/chunks.m3u8?is_vip=false&token=1790361250-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e01ae36c8116b38ba00ca3c64b0732aa"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 4,
+                    "created_at": "2026-09-24 18:34:03",
+                    "updated_at": "2026-09-24 18:34:03"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 5,
+                    "created_at": "2026-09-24 18:34:03",
+                    "updated_at": "2026-09-24 18:34:03"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 6,
+                    "created_at": "2026-09-24 18:34:03",
+                    "updated_at": "2026-09-24 18:34:03"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66215,
+            "status": "LIVE",
+            "name": "Serbia vs Greece",
+            "slug": "serbia-vs-greece",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790275500,
+            "timestamp": 1790275500,
+            "bd_time": "12:45 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "UEFA Nations League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
+            "localteam_name": "Serbia",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/14.png",
+            "visitorteam_name": "Greece",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1117.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 1,
+                    "created_at": "2026-09-24 18:34:20",
+                    "updated_at": "2026-09-24 18:34:20",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8-hd/chunks.m3u8?is_vip=false&token=1790361262-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-36dec2fee8027a299edd49f02d850de2"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 2,
+                    "created_at": "2026-09-24 18:34:20",
+                    "updated_at": "2026-09-24 18:34:20"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 3,
+                    "created_at": "2026-09-24 18:34:20",
+                    "updated_at": "2026-09-24 18:34:20"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "sort": 4,
+                    "created_at": "2026-09-24 18:34:20",
+                    "updated_at": "2026-09-24 18:34:20"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "268277",
+                    "stream_name": "268277",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/268277_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 5,
+                    "created_at": "2026-09-24 18:34:20",
+                    "updated_at": "2026-09-24 18:34:20"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "268277",
+                    "stream_name": "268277",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/268277_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 6,
+                    "created_at": "2026-09-24 18:34:20",
+                    "updated_at": "2026-09-24 18:34:20",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/268277/720p/chunks.m3u8?is_vip=false&token=1790361270-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9badbf88f3c8890c3bf4547dca17841d"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66214,
+            "status": "LIVE",
+            "name": "Netherlands vs Germany",
+            "slug": "netherlands-vs-germany",
+            "score": "vs",
+            "timelive": "18:45",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790275500,
+            "timestamp": 1790275500,
+            "bd_time": "12:45 AM 25-09-2026",
+            "ishot": true,
+            "league_name": "UEFA Nations League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
+            "localteam_name": "Netherlands",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1118.png",
+            "visitorteam_name": "Germany",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/25.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "created_at": "2026-09-24 18:33:41",
+                    "updated_at": "2026-09-24 18:33:41",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-hd/chunks.m3u8?is_vip=false&token=1790361277-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b20ee056a035a84dd7940d9e895ea766"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "created_at": "2026-09-24 18:33:41",
+                    "updated_at": "2026-09-24 18:33:41"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-24 18:33:41",
+                    "updated_at": "2026-09-24 18:33:41"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-24 18:33:41",
+                    "updated_at": "2026-09-24 18:33:41"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-24 18:33:41",
+                    "updated_at": "2026-09-24 18:33:41"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-24 18:33:41",
+                    "updated_at": "2026-09-24 18:33:41"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -140,8 +622,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:17:02",
-                    "updated_at": "2026-09-24 18:17:02"
+                    "created_at": "2026-09-24 18:34:51",
+                    "updated_at": "2026-09-24 18:34:51"
                 },
                 {
                     "id": "",
@@ -152,9 +634,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:17:02",
-                    "updated_at": "2026-09-24 18:17:02",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790360266-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8cbf6ea16a8cfa20da8e9163ba27b895"
+                    "created_at": "2026-09-24 18:34:51",
+                    "updated_at": "2026-09-24 18:34:51",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790361294-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-332a4fd0a27844be0c8e2a08d306e490"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -162,7 +644,7 @@
         },
         {
             "id": 79184,
-            "status": "IN6",
+            "status": "IN7",
             "name": "Pittsburgh Pirates vs St.Louis Cardinals",
             "slug": "pittsburgh-pirates-vs-stlouis-cardinals",
             "score": "vs",
@@ -190,8 +672,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:17:50",
-                    "updated_at": "2026-09-24 18:17:50"
+                    "created_at": "2026-09-24 18:34:58",
+                    "updated_at": "2026-09-24 18:34:58"
                 },
                 {
                     "id": "",
@@ -202,99 +684,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:17:50",
-                    "updated_at": "2026-09-24 18:17:50",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790360272-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-91c4111ece015418a521bfa45ba0be07"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66213,
-            "status": "1H",
-            "name": "Qatar vs Bahrain",
-            "slug": "qatar-vs-bahrain",
-            "score": "vs",
-            "timelive": "16",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1790272800,
-            "timestamp": 1790272800,
-            "bd_time": "12:00 AM 25-09-2026",
-            "ishot": false,
-            "league_name": "Gulf Cup of Nations",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/25.png",
-            "localteam_name": "Qatar",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1569.png",
-            "visitorteam_name": "Bahrain",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1547.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-24 18:17:55",
-                    "updated_at": "2026-09-24 18:17:55",
-                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/chunks.m3u8?is_vip=false&token=1790360277-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-08fe2b088f507064389712364e2e9cc7"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-24 18:17:55",
-                    "updated_at": "2026-09-24 18:17:55"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 67546,
-            "status": "LIVE",
-            "name": "Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas",
-            "slug": "crvena-zvezda-meridianbet-belgrade-vs-zalgiris-kaunas",
-            "score": "vs",
-            "timelive": "18:00",
-            "is_playing": true,
-            "has_ended": false,
-            "is_waiting": false,
-            "start_at": 1790272800,
-            "timestamp": 1790272800,
-            "bd_time": "12:00 AM 25-09-2026",
-            "ishot": false,
-            "league_name": "EuroLeague",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "68896",
-                    "stream_name": "68896",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/68896_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 18:18:01",
-                    "updated_at": "2026-09-24 18:18:01"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "68896",
-                    "stream_name": "68896",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 18:18:01",
-                    "updated_at": "2026-09-24 18:18:01",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790360283-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3f6e5e2436fa05c939e983032132d0d"
+                    "created_at": "2026-09-24 18:34:58",
+                    "updated_at": "2026-09-24 18:34:58",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790361300-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fa40f875a8aab4a93891af1a824a1d51"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -330,8 +722,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:18:06",
-                    "updated_at": "2026-09-24 18:18:06"
+                    "created_at": "2026-09-24 18:35:04",
+                    "updated_at": "2026-09-24 18:35:04"
                 },
                 {
                     "id": "",
@@ -342,9 +734,99 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:18:06",
-                    "updated_at": "2026-09-24 18:18:06",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790360288-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-67f848de8cc6dcbcb172b46802a64721"
+                    "created_at": "2026-09-24 18:35:04",
+                    "updated_at": "2026-09-24 18:35:04",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790361308-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fb521114537e58860129a5d221e95d32"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 67546,
+            "status": "LIVE",
+            "name": "Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas",
+            "slug": "crvena-zvezda-meridianbet-belgrade-vs-zalgiris-kaunas",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790272800,
+            "timestamp": 1790272800,
+            "bd_time": "12:00 AM 25-09-2026",
+            "ishot": false,
+            "league_name": "EuroLeague",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "68896",
+                    "stream_name": "68896",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/68896_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 18:35:12",
+                    "updated_at": "2026-09-24 18:35:12"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "68896",
+                    "stream_name": "68896",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 18:35:12",
+                    "updated_at": "2026-09-24 18:35:12",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790361314-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-debe34fc88ae05bbd6bfc36507453fa6"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66213,
+            "status": "1H",
+            "name": "Qatar vs Bahrain",
+            "slug": "qatar-vs-bahrain",
+            "score": "vs",
+            "timelive": "34",
+            "is_playing": true,
+            "has_ended": false,
+            "is_waiting": false,
+            "start_at": 1790272800,
+            "timestamp": 1790272800,
+            "bd_time": "12:00 AM 25-09-2026",
+            "ishot": false,
+            "league_name": "Gulf Cup of Nations",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/25.png",
+            "localteam_name": "Qatar",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1569.png",
+            "visitorteam_name": "Bahrain",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1547.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-24 18:35:18",
+                    "updated_at": "2026-09-24 18:35:18",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/chunks.m3u8?is_vip=false&token=1790361320-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-89f6302f50667aa59035ccd1b32b2c77"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-24 18:35:18",
+                    "updated_at": "2026-09-24 18:35:18"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -380,8 +862,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:18:17",
-                    "updated_at": "2026-09-24 18:18:17"
+                    "created_at": "2026-09-24 18:35:24",
+                    "updated_at": "2026-09-24 18:35:24"
                 },
                 {
                     "id": "",
@@ -392,9 +874,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:18:17",
-                    "updated_at": "2026-09-24 18:18:17",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790360299-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b72bb32b4e6e69cf7a0ac5fa210dab5e"
+                    "created_at": "2026-09-24 18:35:24",
+                    "updated_at": "2026-09-24 18:35:24",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790361327-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f9464607f302ff7a12c2c8dc962cd8f6"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -430,8 +912,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:18:23",
-                    "updated_at": "2026-09-24 18:18:23"
+                    "created_at": "2026-09-24 18:35:31",
+                    "updated_at": "2026-09-24 18:35:31"
                 },
                 {
                     "id": "",
@@ -442,9 +924,9 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:18:23",
-                    "updated_at": "2026-09-24 18:18:23",
-                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790360306-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c1b0c038513d1813774c53d199860f2d"
+                    "created_at": "2026-09-24 18:35:31",
+                    "updated_at": "2026-09-24 18:35:31",
+                    "videoURL": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790361333-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-79e7e3f2ec1498a73b61ae0b802b3103"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -480,8 +962,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:18:30",
-                    "updated_at": "2026-09-24 18:18:30"
+                    "created_at": "2026-09-24 18:35:37",
+                    "updated_at": "2026-09-24 18:35:37"
                 },
                 {
                     "id": "",
@@ -492,8 +974,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:18:30",
-                    "updated_at": "2026-09-24 18:18:30"
+                    "created_at": "2026-09-24 18:35:37",
+                    "updated_at": "2026-09-24 18:35:37"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -529,8 +1011,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 18:18:32",
-                    "updated_at": "2026-09-24 18:18:32"
+                    "created_at": "2026-09-24 18:35:40",
+                    "updated_at": "2026-09-24 18:35:40"
                 },
                 {
                     "id": "",
@@ -541,252 +1023,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 18:18:32",
-                    "updated_at": "2026-09-24 18:18:32"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 79187,
-            "status": "UPCOMING",
-            "name": "Texas Rangers vs New York Mets",
-            "slug": "texas-rangers-vs-new-york-mets",
-            "score": "vs",
-            "timelive": "18:35",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790274900,
-            "timestamp": 1790274900,
-            "bd_time": "12:35 AM 25-09-2026",
-            "ishot": false,
-            "league_name": "MLB",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
-            "localteam_name": "Texas Rangers",
-            "localteam_logo": "https://media.api-sports.io/baseball/teams/35.png",
-            "visitorteam_name": "New York Mets",
-            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/24.png",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "55837",
-                    "stream_name": "55837",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55837_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 05:48:13",
-                    "updated_at": "2026-09-24 05:48:13"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "55837",
-                    "stream_name": "55837",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55837_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 05:48:13",
-                    "updated_at": "2026-09-24 05:48:13"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66214,
-            "status": "UPCOMING",
-            "name": "Netherlands vs Germany",
-            "slug": "netherlands-vs-germany",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790275500,
-            "timestamp": 1790275500,
-            "bd_time": "12:45 AM 25-09-2026",
-            "ishot": true,
-            "league_name": "UEFA Nations League",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
-            "localteam_name": "Netherlands",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1118.png",
-            "visitorteam_name": "Germany",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/25.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:11",
-                    "updated_at": "2026-09-23 19:04:11"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:11",
-                    "updated_at": "2026-09-23 19:04:11"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66215,
-            "status": "UPCOMING",
-            "name": "Serbia vs Greece",
-            "slug": "serbia-vs-greece",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790275500,
-            "timestamp": 1790275500,
-            "bd_time": "12:45 AM 25-09-2026",
-            "ishot": true,
-            "league_name": "UEFA Nations League",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
-            "localteam_name": "Serbia",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/14.png",
-            "visitorteam_name": "Greece",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1117.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:10",
-                    "updated_at": "2026-09-23 19:04:10"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:10",
-                    "updated_at": "2026-09-23 19:04:10"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66216,
-            "status": "UPCOMING",
-            "name": "Portugal vs Wales",
-            "slug": "portugal-vs-wales",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790275500,
-            "timestamp": 1790275500,
-            "bd_time": "12:45 AM 25-09-2026",
-            "ishot": true,
-            "league_name": "UEFA Nations League",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
-            "localteam_name": "Portugal",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/27.png",
-            "visitorteam_name": "Wales",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/767.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:10",
-                    "updated_at": "2026-09-23 19:04:10"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:10",
-                    "updated_at": "2026-09-23 19:04:10"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66217,
-            "status": "UPCOMING",
-            "name": "Norway vs Denmark",
-            "slug": "norway-vs-denmark",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790275500,
-            "timestamp": 1790275500,
-            "bd_time": "12:45 AM 25-09-2026",
-            "ishot": true,
-            "league_name": "UEFA Nations League",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
-            "localteam_name": "Norway",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1090.png",
-            "visitorteam_name": "Denmark",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/21.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:10",
-                    "updated_at": "2026-09-23 19:04:10"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:10",
-                    "updated_at": "2026-09-23 19:04:10"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66218,
-            "status": "UPCOMING",
-            "name": "Austria vs Israel",
-            "slug": "austria-vs-israel",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790275500,
-            "timestamp": 1790275500,
-            "bd_time": "12:45 AM 25-09-2026",
-            "ishot": true,
-            "league_name": "UEFA Nations League",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
-            "localteam_name": "Austria",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/775.png",
-            "visitorteam_name": "Israel",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1116.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:12",
-                    "updated_at": "2026-09-23 19:04:12"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:12",
-                    "updated_at": "2026-09-23 19:04:12"
+                    "created_at": "2026-09-24 18:35:40",
+                    "updated_at": "2026-09-24 18:35:40"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -794,14 +1032,14 @@
         },
         {
             "id": 66219,
-            "status": "UPCOMING",
+            "status": "LIVE",
             "name": "Kosovo vs Rep. Of Ireland",
             "slug": "kosovo-vs-rep-of-ireland",
             "score": "vs",
             "timelive": "18:45",
-            "is_playing": false,
+            "is_playing": true,
             "has_ended": false,
-            "is_waiting": true,
+            "is_waiting": false,
             "start_at": 1790275500,
             "timestamp": 1790275500,
             "bd_time": "12:45 AM 25-09-2026",
@@ -814,57 +1052,37 @@
             "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/776.png",
             "link_live": [
                 {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 1,
+                    "created_at": "2026-09-24 18:35:42",
+                    "updated_at": "2026-09-24 18:35:42",
+                    "videoURL": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5-hd/chunks.m3u8?is_vip=false&token=1790361343-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6816162c84450f08bdb496ec4c33a891"
+                },
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5-hd/index.m3u8",
+                    "display_name": "GHD",
+                    "line": "global",
+                    "sort": 2,
+                    "created_at": "2026-09-24 18:35:42",
+                    "updated_at": "2026-09-24 18:35:42"
+                },
+                {
                     "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-23 20:03:42",
-                    "updated_at": "2026-09-23 20:03:42"
+                    "sort": 3,
+                    "created_at": "2026-09-24 18:35:42",
+                    "updated_at": "2026-09-24 18:35:42"
                 },
                 {
                     "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5/index.m3u8",
                     "display_name": "WHD",
                     "line": "web",
-                    "created_at": "2026-09-23 20:03:42",
-                    "updated_at": "2026-09-23 20:03:42"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 66220,
-            "status": "UPCOMING",
-            "name": "Liechtenstein vs Lithuania",
-            "slug": "liechtenstein-vs-lithuania",
-            "score": "vs",
-            "timelive": "18:45",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790275500,
-            "timestamp": 1790275500,
-            "bd_time": "12:45 AM 25-09-2026",
-            "ishot": true,
-            "league_name": "UEFA Nations League",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
-            "localteam_name": "Liechtenstein",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1107.png",
-            "visitorteam_name": "Lithuania",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1097.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:10",
-                    "updated_at": "2026-09-23 19:04:10"
-                },
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-23 19:04:10",
-                    "updated_at": "2026-09-23 19:04:10"
+                    "sort": 4,
+                    "created_at": "2026-09-24 18:35:42",
+                    "updated_at": "2026-09-24 18:35:42"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
