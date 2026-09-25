@@ -3,10 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "6:02:29 PM 25-09-2026",
+        "last_update_time": "6:17:28 PM 25-09-2026",
         "statistics": {
             "total_live": 1,
-            "total_upcoming": 105
+            "total_upcoming": 106
         }
     },
     "matches": [
@@ -115,8 +115,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 12:03:45",
-                    "updated_at": "2026-09-25 12:03:45"
+                    "created_at": "2026-09-25 12:18:18",
+                    "updated_at": "2026-09-25 12:18:18"
                 },
                 {
                     "id": "",
@@ -127,8 +127,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 12:03:45",
-                    "updated_at": "2026-09-25 12:03:45"
+                    "created_at": "2026-09-25 12:18:18",
+                    "updated_at": "2026-09-25 12:18:18"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -164,8 +164,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 12:03:47",
-                    "updated_at": "2026-09-25 12:03:47"
+                    "created_at": "2026-09-25 12:18:20",
+                    "updated_at": "2026-09-25 12:18:20"
                 },
                 {
                     "id": "",
@@ -176,8 +176,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 12:03:47",
-                    "updated_at": "2026-09-25 12:03:47"
+                    "created_at": "2026-09-25 12:18:20",
+                    "updated_at": "2026-09-25 12:18:20"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3660,7 +3660,7 @@
         },
         {
             "id": 66328,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Nantong Zhiyun vs Changchun Yatai",
             "slug": "nantong-zhiyun-vs-changchun-yatai",
             "score": "vs",
@@ -3699,7 +3699,7 @@
         },
         {
             "id": 66331,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Spartak Kostroma vs Ural",
             "slug": "spartak-kostroma-vs-ural",
             "score": "vs",
@@ -4284,6 +4284,55 @@
                     "sort": 2,
                     "created_at": "2026-09-25 07:03:20",
                     "updated_at": "2026-09-25 07:03:20"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68340,
+            "status": "NS",
+            "name": "Italy vs South Africa",
+            "slug": "italy-vs-south-africa",
+            "score": "vs",
+            "timelive": "12:15",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790424900,
+            "timestamp": 1790424900,
+            "bd_time": "6:15 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "WXV",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 12:19:13",
+                    "updated_at": "2026-09-25 12:19:13"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 12:19:13",
+                    "updated_at": "2026-09-25 12:19:13"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
