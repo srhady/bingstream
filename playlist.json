@@ -3,10 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "11:02:31 PM 25-09-2026",
+        "last_update_time": "11:17:25 PM 25-09-2026",
         "statistics": {
             "total_live": 0,
-            "total_upcoming": 136
+            "total_upcoming": 137
         }
     },
     "matches": [
@@ -40,8 +40,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 17:04:47",
-                    "updated_at": "2026-09-25 17:04:47"
+                    "created_at": "2026-09-25 17:18:43",
+                    "updated_at": "2026-09-25 17:18:43"
                 },
                 {
                     "id": "",
@@ -52,8 +52,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 17:04:47",
-                    "updated_at": "2026-09-25 17:04:47"
+                    "created_at": "2026-09-25 17:18:43",
+                    "updated_at": "2026-09-25 17:18:43"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1469,6 +1469,55 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
+            "id": 79211,
+            "status": "NS",
+            "name": "Detroit Tigers vs Pittsburgh Pirates",
+            "slug": "detroit-tigers-vs-pittsburgh-pirates",
+            "score": "vs",
+            "timelive": "17:10",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790442600,
+            "timestamp": 1790442600,
+            "bd_time": "11:10 PM 26-09-2026",
+            "ishot": true,
+            "league_name": "MLB",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
+            "localteam_name": "Detroit Tigers",
+            "localteam_logo": "https://media.api-sports.io/baseball/teams/12.png",
+            "visitorteam_name": "Pittsburgh Pirates",
+            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/28.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55835",
+                    "stream_name": "55835",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 17:19:49",
+                    "updated_at": "2026-09-25 17:19:49"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55835",
+                    "stream_name": "55835",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 17:19:49",
+                    "updated_at": "2026-09-25 17:19:49"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 66264,
             "status": "UPCOMING",
             "name": "England U19 vs Republic of Ireland U19",
@@ -2055,7 +2104,7 @@
         },
         {
             "id": 66570,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Mercedes vs Puerto Nuevo",
             "slug": "mercedes-vs-puerto-nuevo",
             "score": "vs",
@@ -3462,7 +3511,7 @@
         },
         {
             "id": 66333,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "EIF vs SJK Akatemia",
             "slug": "eif-vs-sjk-akatemia",
             "score": "vs",
@@ -3501,7 +3550,7 @@
         },
         {
             "id": 66339,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "AD Ceuta FC vs Real Sociedad II",
             "slug": "ad-ceuta-fc-vs-real-sociedad-ii",
             "score": "vs",
@@ -4398,7 +4447,7 @@
         },
         {
             "id": 66486,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Novara vs Ospitaletto",
             "slug": "novara-vs-ospitaletto",
             "score": "vs",
@@ -5603,7 +5652,7 @@
         },
         {
             "id": 70043,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Race to Stop Suicide 200",
             "slug": "race-to-stop-suicide-200",
             "score": "vs",
