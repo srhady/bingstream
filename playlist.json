@@ -3,10 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "6:47:25 PM 25-09-2026",
+        "last_update_time": "7:02:26 PM 25-09-2026",
         "statistics": {
             "total_live": 1,
-            "total_upcoming": 102
+            "total_upcoming": 111
         }
     },
     "matches": [
@@ -115,8 +115,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 12:48:44",
-                    "updated_at": "2026-09-25 12:48:44"
+                    "created_at": "2026-09-25 13:03:49",
+                    "updated_at": "2026-09-25 13:03:49"
                 },
                 {
                     "id": "",
@@ -127,8 +127,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 12:48:44",
-                    "updated_at": "2026-09-25 12:48:44"
+                    "created_at": "2026-09-25 13:03:49",
+                    "updated_at": "2026-09-25 13:03:49"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -164,8 +164,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 12:48:46",
-                    "updated_at": "2026-09-25 12:48:46"
+                    "created_at": "2026-09-25 13:03:50",
+                    "updated_at": "2026-09-25 13:03:50"
                 },
                 {
                     "id": "",
@@ -176,8 +176,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 12:48:46",
-                    "updated_at": "2026-09-25 12:48:46"
+                    "created_at": "2026-09-25 13:03:50",
+                    "updated_at": "2026-09-25 13:03:50"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1519,6 +1519,45 @@
                     "sort": 2,
                     "created_at": "2026-09-25 02:19:23",
                     "updated_at": "2026-09-25 02:19:23"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66545,
+            "status": "NS",
+            "name": "Slovenia vs Scotland",
+            "slug": "slovenia-vs-scotland",
+            "score": "vs",
+            "timelive": "13:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790427600,
+            "timestamp": 1790427600,
+            "bd_time": "7:00 PM 26-09-2026",
+            "ishot": true,
+            "league_name": "UEFA Nations League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/5.png",
+            "localteam_name": "Slovenia",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1091.png",
+            "visitorteam_name": "Scotland",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1108.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa006a083c458047014/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:11",
+                    "updated_at": "2026-09-25 13:05:11"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047014/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:11",
+                    "updated_at": "2026-09-25 13:05:11"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3595,6 +3634,279 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
+            "id": 66340,
+            "status": "NS",
+            "name": "PSV/Eindhoven W vs De Graafschap W",
+            "slug": "psveindhoven-w-vs-de-graafschap-w",
+            "score": "vs",
+            "timelive": "12:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790424000,
+            "timestamp": 1790424000,
+            "bd_time": "6:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "Eredivisie Women",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/91.png",
+            "localteam_name": "PSV/Eindhoven W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1895.png",
+            "visitorteam_name": "De Graafschap W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/27907.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa006a083c458046fe7-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458046fe7-fhd/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "fhd",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66356,
+            "status": "NS",
+            "name": "Charlton Athletic W vs Manchester City W",
+            "slug": "charlton-athletic-w-vs-manchester-city-w",
+            "score": "vs",
+            "timelive": "12:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790425800,
+            "timestamp": 1790425800,
+            "bd_time": "6:30 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "FA WSL",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/44.png",
+            "localteam_name": "Charlton Athletic W",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/15402.png",
+            "visitorteam_name": "Manchester City W",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1854.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fancode/index.m3u8",
+                    "display_name": "FHD",
+                    "line": "other",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66357,
+            "status": "NS",
+            "name": "Giana Erminio vs PRO Vercelli",
+            "slug": "giana-erminio-vs-pro-vercelli",
+            "score": "vs",
+            "timelive": "12:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790425800,
+            "timestamp": 1790425800,
+            "bd_time": "6:30 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "Serie C - Girone A",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png",
+            "localteam_name": "Giana Erminio",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/865.png",
+            "visitorteam_name": "PRO Vercelli",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/526.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa006a083c458047012/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047012/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66358,
+            "status": "NS",
+            "name": "Lumezzane vs Folgore Caratese",
+            "slug": "lumezzane-vs-folgore-caratese",
+            "score": "vs",
+            "timelive": "12:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790425800,
+            "timestamp": 1790425800,
+            "bd_time": "6:30 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "Serie C - Girone A",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png",
+            "localteam_name": "Lumezzane",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1689.png",
+            "visitorteam_name": "Folgore Caratese",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/9450.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa006a083c458047011/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047011/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66359,
+            "status": "NS",
+            "name": "Pergolettese vs Trento",
+            "slug": "pergolettese-vs-trento",
+            "score": "vs",
+            "timelive": "12:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790425800,
+            "timestamp": 1790425800,
+            "bd_time": "6:30 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "Serie C - Girone A",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/138.png",
+            "localteam_name": "Pergolettese",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/6380.png",
+            "visitorteam_name": "Trento",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/17147.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa006a083c458047010/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:14",
+                    "updated_at": "2026-09-25 13:05:14"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047010/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:14",
+                    "updated_at": "2026-09-25 13:05:14"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66366,
+            "status": "NS",
+            "name": "Kenya vs Eritrea",
+            "slug": "kenya-vs-eritrea",
+            "score": "vs",
+            "timelive": "13:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790427600,
+            "timestamp": 1790427600,
+            "bd_time": "7:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "Africa Cup of Nations - Qualification",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png",
+            "localteam_name": "Kenya",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1511.png",
+            "visitorteam_name": "Eritrea",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1498.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163d/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:15",
+                    "updated_at": "2026-09-25 13:05:15"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163d/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:15",
+                    "updated_at": "2026-09-25 13:05:15"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66493,
+            "status": "NS",
+            "name": "South Africa vs Guinea",
+            "slug": "south-africa-vs-guinea",
+            "score": "vs",
+            "timelive": "13:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790427600,
+            "timestamp": 1790427600,
+            "bd_time": "7:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "Africa Cup of Nations - Qualification",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png",
+            "localteam_name": "South Africa",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1531.png",
+            "visitorteam_name": "Guinea",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1509.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163e/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163e/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 13:05:13",
+                    "updated_at": "2026-09-25 13:05:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 67555,
             "status": "UPCOMING",
             "name": "Men's U23 RR",
@@ -3736,6 +4048,55 @@
                     "sort": 2,
                     "created_at": "2026-09-25 11:03:48",
                     "updated_at": "2026-09-25 11:03:48"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68333,
+            "status": "NS",
+            "name": "Women's Elite RR",
+            "slug": "womens-elite-rr",
+            "score": "vs",
+            "timelive": "13:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790427600,
+            "timestamp": 1790427600,
+            "bd_time": "7:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "Cycling World Championships",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "1410",
+                    "stream_name": "1410",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 13:05:17",
+                    "updated_at": "2026-09-25 13:05:17"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "1410",
+                    "stream_name": "1410",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 13:05:17",
+                    "updated_at": "2026-09-25 13:05:17"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
