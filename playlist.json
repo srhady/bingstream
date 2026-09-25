@@ -3,10 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "7:47:26 PM 25-09-2026",
+        "last_update_time": "8:02:31 PM 25-09-2026",
         "statistics": {
             "total_live": 1,
-            "total_upcoming": 109
+            "total_upcoming": 116
         }
     },
     "matches": [
@@ -115,8 +115,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 13:48:58",
-                    "updated_at": "2026-09-25 13:48:58"
+                    "created_at": "2026-09-25 14:03:47",
+                    "updated_at": "2026-09-25 14:03:47"
                 },
                 {
                     "id": "",
@@ -127,8 +127,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 13:48:58",
-                    "updated_at": "2026-09-25 13:48:58"
+                    "created_at": "2026-09-25 14:03:47",
+                    "updated_at": "2026-09-25 14:03:47"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -164,8 +164,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 13:49:00",
-                    "updated_at": "2026-09-25 13:49:00"
+                    "created_at": "2026-09-25 14:03:50",
+                    "updated_at": "2026-09-25 14:03:50"
                 },
                 {
                     "id": "",
@@ -176,8 +176,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 13:49:00",
-                    "updated_at": "2026-09-25 13:49:00"
+                    "created_at": "2026-09-25 14:03:50",
+                    "updated_at": "2026-09-25 14:03:50"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3829,6 +3829,45 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
+            "id": 66376,
+            "status": "NS",
+            "name": "Volga Ulyanovsk vs Leningradets",
+            "slug": "volga-ulyanovsk-vs-leningradets",
+            "score": "vs",
+            "timelive": "13:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790427600,
+            "timestamp": 1790427600,
+            "bd_time": "7:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "First League",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/236.png",
+            "localteam_name": "Volga Ulyanovsk",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/6834.png",
+            "visitorteam_name": "Leningradets",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/6811.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b21c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 14:04:47",
+                    "updated_at": "2026-09-25 14:04:47"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b21c/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 14:04:47",
+                    "updated_at": "2026-09-25 14:04:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 66493,
             "status": "UPCOMING",
             "name": "South Africa vs Guinea",
@@ -3862,6 +3901,123 @@
                     "line": "web",
                     "created_at": "2026-09-25 13:05:13",
                     "updated_at": "2026-09-25 13:05:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66414,
+            "status": "NS",
+            "name": "Tukums II vs JFK Ventspils",
+            "slug": "tukums-ii-vs-jfk-ventspils",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "1. Liga",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/364.png",
+            "localteam_name": "Tukums II",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/18837.png",
+            "visitorteam_name": "JFK Ventspils",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/21202.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a68cb6515d865a0118e37d5/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 14:04:47",
+                    "updated_at": "2026-09-25 14:04:47"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb6515d865a0118e37d5/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 14:04:47",
+                    "updated_at": "2026-09-25 14:04:47"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66431,
+            "status": "NS",
+            "name": "Cambridge United vs AFC Wimbledon",
+            "slug": "cambridge-united-vs-afc-wimbledon",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "League One",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/41.png",
+            "localteam_name": "Cambridge United",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1370.png",
+            "visitorteam_name": "AFC Wimbledon",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1333.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa006a083c458047024/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 14:04:49",
+                    "updated_at": "2026-09-25 14:04:49"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047024/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 14:04:49",
+                    "updated_at": "2026-09-25 14:04:49"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 71684,
+            "status": "NS",
+            "name": "Hungary U19 vs Bulgaria U19",
+            "slug": "hungary-u19-vs-bulgaria-u19",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "Friendlies",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/10.png",
+            "localteam_name": "Hungary U19",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/10365.png",
+            "visitorteam_name": "Bulgaria U19",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/10328.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab3fed670a52b8b4e741fde/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 14:04:49",
+                    "updated_at": "2026-09-25 14:04:49"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab3fed670a52b8b4e741fde/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 14:04:49",
+                    "updated_at": "2026-09-25 14:04:49"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4303,6 +4459,153 @@
                     "sort": 2,
                     "created_at": "2026-09-25 12:19:13",
                     "updated_at": "2026-09-25 12:19:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68341,
+            "status": "NS",
+            "name": "England vs New Zealand",
+            "slug": "england-vs-new-zealand",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "WXV",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "143071",
+                    "stream_name": "143071",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143071_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 14:04:54",
+                    "updated_at": "2026-09-25 14:04:54"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "143071",
+                    "stream_name": "143071",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 14:04:54",
+                    "updated_at": "2026-09-25 14:04:54"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68342,
+            "status": "NS",
+            "name": "Wales vs USA",
+            "slug": "wales-vs-usa",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "WXV",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 14:04:56",
+                    "updated_at": "2026-09-25 14:04:56"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 14:04:56",
+                    "updated_at": "2026-09-25 14:04:56"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68343,
+            "status": "NS",
+            "name": "Exeter vs Gloucester",
+            "slug": "exeter-vs-gloucester",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "PREM Rugby",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 14:04:54",
+                    "updated_at": "2026-09-25 14:04:54"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 14:04:54",
+                    "updated_at": "2026-09-25 14:04:54"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
