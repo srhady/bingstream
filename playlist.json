@@ -3,10 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "10:17:30 PM 25-09-2026",
+        "last_update_time": "10:32:29 PM 25-09-2026",
         "statistics": {
             "total_live": 0,
-            "total_upcoming": 134
+            "total_upcoming": 135
         }
     },
     "matches": [
@@ -40,8 +40,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 16:19:33",
-                    "updated_at": "2026-09-25 16:19:33"
+                    "created_at": "2026-09-25 16:34:16",
+                    "updated_at": "2026-09-25 16:34:16"
                 },
                 {
                     "id": "",
@@ -52,47 +52,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 16:19:33",
-                    "updated_at": "2026-09-25 16:19:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 70871,
-            "status": "FT",
-            "name": "VfB Stuttgart vs 1. FC Heidenheim",
-            "slug": "vfb-stuttgart-vs-1-fc-heidenheim",
-            "score": "3 - 0",
-            "timelive": "90",
-            "is_playing": false,
-            "has_ended": true,
-            "is_waiting": false,
-            "start_at": 1790346600,
-            "timestamp": 1790346600,
-            "bd_time": "8:30 PM 25-09-2026",
-            "ishot": false,
-            "league_name": "Friendlies Clubs",
-            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/667.png",
-            "localteam_name": "VfB Stuttgart",
-            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/172.png",
-            "visitorteam_name": "1. FC Heidenheim",
-            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/180.png",
-            "link_live": [
-                {
-                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab2ad21e607ff5ae492e245/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-25 16:20:19",
-                    "updated_at": "2026-09-25 16:20:19"
-                },
-                {
-                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab2ad21e607ff5ae492e245/index.m3u8",
-                    "display_name": "WHD",
-                    "line": "web",
-                    "created_at": "2026-09-25 16:20:19",
-                    "updated_at": "2026-09-25 16:20:19"
+                    "created_at": "2026-09-25 16:34:16",
+                    "updated_at": "2026-09-25 16:34:16"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -4486,7 +4447,7 @@
         },
         {
             "id": 68326,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Besiktas Istanbul vs Valencia Basket",
             "slug": "besiktas-istanbul-vs-valencia-basket",
             "score": "vs",
@@ -4535,7 +4496,7 @@
         },
         {
             "id": 68328,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Partizan Mozzart Bet Belgrade vs Armani Olimpia Milan",
             "slug": "partizan-mozzart-bet-belgrade-vs-armani-olimpia-milan",
             "score": "vs",
@@ -5116,6 +5077,55 @@
                     "sort": 2,
                     "created_at": "2026-09-25 15:34:39",
                     "updated_at": "2026-09-25 15:34:39"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68346,
+            "status": "NS",
+            "name": "Sale vs Bristol",
+            "slug": "sale-vs-bristol",
+            "score": "vs",
+            "timelive": "16:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790440200,
+            "timestamp": 1790440200,
+            "bd_time": "10:30 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "PREM Rugby",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 16:36:12",
+                    "updated_at": "2026-09-25 16:36:12"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 16:36:12",
+                    "updated_at": "2026-09-25 16:36:12"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
