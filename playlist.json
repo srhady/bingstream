@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "2:02:26 PM 25-09-2026",
+        "last_update_time": "2:17:25 PM 25-09-2026",
         "statistics": {
             "total_live": 3,
             "total_upcoming": 102
@@ -215,8 +215,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 08:03:08",
-                    "updated_at": "2026-09-25 08:03:08"
+                    "created_at": "2026-09-25 08:18:29",
+                    "updated_at": "2026-09-25 08:18:29"
                 },
                 {
                     "id": "",
@@ -227,8 +227,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 08:03:08",
-                    "updated_at": "2026-09-25 08:03:08"
+                    "created_at": "2026-09-25 08:18:29",
+                    "updated_at": "2026-09-25 08:18:29"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -264,8 +264,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 08:03:09",
-                    "updated_at": "2026-09-25 08:03:09"
+                    "created_at": "2026-09-25 08:18:31",
+                    "updated_at": "2026-09-25 08:18:31"
                 },
                 {
                     "id": "",
@@ -276,8 +276,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 08:03:09",
-                    "updated_at": "2026-09-25 08:03:09"
+                    "created_at": "2026-09-25 08:18:31",
+                    "updated_at": "2026-09-25 08:18:31"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -313,8 +313,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 08:03:10",
-                    "updated_at": "2026-09-25 08:03:10"
+                    "created_at": "2026-09-25 08:18:33",
+                    "updated_at": "2026-09-25 08:18:33"
                 },
                 {
                     "id": "",
@@ -325,8 +325,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 08:03:10",
-                    "updated_at": "2026-09-25 08:03:10"
+                    "created_at": "2026-09-25 08:18:33",
+                    "updated_at": "2026-09-25 08:18:33"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -694,6 +694,55 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
+            "id": 79199,
+            "status": "UPCOMING",
+            "name": "New York Yankees vs Baltimore Orioles",
+            "slug": "new-york-yankees-vs-baltimore-orioles",
+            "score": "vs",
+            "timelive": "23:05",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790377500,
+            "timestamp": 1790377500,
+            "bd_time": "5:05 AM 26-09-2026",
+            "ishot": true,
+            "league_name": "MLB",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/ab/1.png",
+            "localteam_name": "New York Yankees",
+            "localteam_logo": "https://media.api-sports.io/baseball/teams/25.png",
+            "visitorteam_name": "Baltimore Orioles",
+            "visitorteam_logo": "https://media.api-sports.io/baseball/teams/4.png",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "55838",
+                    "stream_name": "55838",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 23:19:01",
+                    "updated_at": "2026-09-24 23:19:01"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "55838",
+                    "stream_name": "55838",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 23:19:01",
+                    "updated_at": "2026-09-24 23:19:01"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 79201,
             "status": "UPCOMING",
             "name": "Boston Red Sox vs Chicago Cubs",
@@ -939,8 +988,8 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
-            "id": 79199,
-            "status": "UPCOMING",
+            "id": 79220,
+            "status": "NS",
             "name": "New York Yankees vs Baltimore Orioles",
             "slug": "new-york-yankees-vs-baltimore-orioles",
             "score": "vs",
@@ -961,27 +1010,27 @@
             "link_live": [
                 {
                     "id": "",
-                    "chanel_id": "55838",
-                    "stream_name": "55838",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
+                    "chanel_id": "55846",
+                    "stream_name": "55846",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55846_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-24 23:19:01",
-                    "updated_at": "2026-09-24 23:19:01"
+                    "created_at": "2026-09-25 08:18:57",
+                    "updated_at": "2026-09-25 08:18:57"
                 },
                 {
                     "id": "",
-                    "chanel_id": "55838",
-                    "stream_name": "55838",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55838_abr.m3u8",
+                    "chanel_id": "55846",
+                    "stream_name": "55846",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55846_abr.m3u8",
                     "extra_title": "",
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-24 23:19:01",
-                    "updated_at": "2026-09-24 23:19:01"
+                    "created_at": "2026-09-25 08:18:57",
+                    "updated_at": "2026-09-25 08:18:57"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1570,251 +1619,6 @@
                     "sort": 2,
                     "created_at": "2026-09-25 02:19:23",
                     "updated_at": "2026-09-25 02:19:23"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72914,
-            "status": "UPCOMING",
-            "name": "Azerbaijan Grand Prix 2026 Practice 3",
-            "slug": "azerbaijan-grand-prix-2026-practice-3",
-            "score": "vs",
-            "timelive": "08:25",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790324700,
-            "timestamp": 1790324700,
-            "bd_time": "2:25 PM 25-09-2026",
-            "ishot": false,
-            "league_name": "Formula 1 Practice",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 08:33:27",
-                    "updated_at": "2026-09-24 08:33:27"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 08:33:27",
-                    "updated_at": "2026-09-24 08:33:27"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 72916,
-            "status": "UPCOMING",
-            "name": "Azerbaijan Grand Prix 2026",
-            "slug": "azerbaijan-grand-prix-2026",
-            "score": "vs",
-            "timelive": "11:30",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790335800,
-            "timestamp": 1790335800,
-            "bd_time": "5:30 PM 25-09-2026",
-            "ishot": false,
-            "league_name": "Formula 1 Qualifying",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-24 11:33:33",
-                    "updated_at": "2026-09-24 11:33:33"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "239",
-                    "stream_name": "239",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-24 11:33:33",
-                    "updated_at": "2026-09-24 11:33:33"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 68350,
-            "status": "UPCOMING",
-            "name": "Reese's 150",
-            "slug": "reeses-150",
-            "score": "vs",
-            "timelive": "00:00",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790380800,
-            "timestamp": 1790380800,
-            "bd_time": "6:00 AM 26-09-2026",
-            "ishot": false,
-            "league_name": "ARCA Menards Series",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "451",
-                    "stream_name": "451",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/451_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-25 00:04:53",
-                    "updated_at": "2026-09-25 00:04:53"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "451",
-                    "stream_name": "451",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-25 00:04:53",
-                    "updated_at": "2026-09-25 00:04:53"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 68347,
-            "status": "UPCOMING",
-            "name": "Free Practice 3: 6 Hours of Fuji",
-            "slug": "free-practice-3-6-hours-of-fuji",
-            "score": "vs",
-            "timelive": "00:15",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790381700,
-            "timestamp": 1790381700,
-            "bd_time": "6:15 AM 26-09-2026",
-            "ishot": false,
-            "league_name": "WEC",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "143070",
-                    "stream_name": "143070",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-25 00:20:28",
-                    "updated_at": "2026-09-25 00:20:28"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "143070",
-                    "stream_name": "143070",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-25 00:20:28",
-                    "updated_at": "2026-09-25 00:20:28"
-                }
-            ],
-            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
-            "referer": "https://iframe.rumsport8.live"
-        },
-        {
-            "id": 68348,
-            "status": "UPCOMING",
-            "name": "Qualifying: 6 Hours of Fuji",
-            "slug": "qualifying-6-hours-of-fuji",
-            "score": "vs",
-            "timelive": "04:50",
-            "is_playing": false,
-            "has_ended": false,
-            "is_waiting": true,
-            "start_at": 1790398200,
-            "timestamp": 1790398200,
-            "bd_time": "10:50 AM 26-09-2026",
-            "ishot": false,
-            "league_name": "WEC",
-            "league_logo": "",
-            "localteam_name": "",
-            "localteam_logo": "",
-            "visitorteam_name": "",
-            "visitorteam_logo": "",
-            "link_live": [
-                {
-                    "id": "",
-                    "chanel_id": "143070",
-                    "stream_name": "143070",
-                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 1,
-                    "created_at": "2026-09-25 05:03:05",
-                    "updated_at": "2026-09-25 05:03:05"
-                },
-                {
-                    "id": "",
-                    "chanel_id": "143070",
-                    "stream_name": "143070",
-                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
-                    "extra_title": "",
-                    "vip_only": 0,
-                    "display_name": "FHD",
-                    "sort": 2,
-                    "created_at": "2026-09-25 05:03:05",
-                    "updated_at": "2026-09-25 05:03:05"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3864,7 +3668,7 @@
         },
         {
             "id": 66305,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Oita Trinita vs Fujieda MYFC",
             "slug": "oita-trinita-vs-fujieda-myfc",
             "score": "vs",
@@ -3903,7 +3707,7 @@
         },
         {
             "id": 66307,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Montedio Yamagata vs Sagan Tosu",
             "slug": "montedio-yamagata-vs-sagan-tosu",
             "score": "vs",
@@ -3942,7 +3746,7 @@
         },
         {
             "id": 66308,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Blaublitz Akita vs Albirex Niigata",
             "slug": "blaublitz-akita-vs-albirex-niigata",
             "score": "vs",
@@ -3981,7 +3785,7 @@
         },
         {
             "id": 66311,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Kataller Toyama vs Yokohama FC",
             "slug": "kataller-toyama-vs-yokohama-fc",
             "score": "vs",
@@ -4020,7 +3824,7 @@
         },
         {
             "id": 66312,
-            "status": "NS",
+            "status": "UPCOMING",
             "name": "Tokushima Vortis vs Tochigi City",
             "slug": "tokushima-vortis-vs-tochigi-city",
             "score": "vs",
@@ -4052,6 +3856,202 @@
                     "line": "web",
                     "created_at": "2026-09-25 08:03:35",
                     "updated_at": "2026-09-25 08:03:35"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 72916,
+            "status": "UPCOMING",
+            "name": "Azerbaijan Grand Prix 2026",
+            "slug": "azerbaijan-grand-prix-2026",
+            "score": "vs",
+            "timelive": "11:30",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790335800,
+            "timestamp": 1790335800,
+            "bd_time": "5:30 PM 25-09-2026",
+            "ishot": false,
+            "league_name": "Formula 1 Qualifying",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "239",
+                    "stream_name": "239",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/239_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-24 11:33:33",
+                    "updated_at": "2026-09-24 11:33:33"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "239",
+                    "stream_name": "239",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-24 11:33:33",
+                    "updated_at": "2026-09-24 11:33:33"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68350,
+            "status": "UPCOMING",
+            "name": "Reese's 150",
+            "slug": "reeses-150",
+            "score": "vs",
+            "timelive": "00:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790380800,
+            "timestamp": 1790380800,
+            "bd_time": "6:00 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "ARCA Menards Series",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "451",
+                    "stream_name": "451",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/451_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 00:04:53",
+                    "updated_at": "2026-09-25 00:04:53"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "451",
+                    "stream_name": "451",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 00:04:53",
+                    "updated_at": "2026-09-25 00:04:53"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68347,
+            "status": "UPCOMING",
+            "name": "Free Practice 3: 6 Hours of Fuji",
+            "slug": "free-practice-3-6-hours-of-fuji",
+            "score": "vs",
+            "timelive": "00:15",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790381700,
+            "timestamp": 1790381700,
+            "bd_time": "6:15 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "WEC",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 00:20:28",
+                    "updated_at": "2026-09-25 00:20:28"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 00:20:28",
+                    "updated_at": "2026-09-25 00:20:28"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68348,
+            "status": "UPCOMING",
+            "name": "Qualifying: 6 Hours of Fuji",
+            "slug": "qualifying-6-hours-of-fuji",
+            "score": "vs",
+            "timelive": "04:50",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790398200,
+            "timestamp": 1790398200,
+            "bd_time": "10:50 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "WEC",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 05:03:05",
+                    "updated_at": "2026-09-25 05:03:05"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 05:03:05",
+                    "updated_at": "2026-09-25 05:03:05"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
