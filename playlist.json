@@ -3,10 +3,10 @@
         "name": "Bingstream Auto Update Playlist",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_update_time": "8:47:26 PM 25-09-2026",
+        "last_update_time": "9:02:33 PM 25-09-2026",
         "statistics": {
             "total_live": 1,
-            "total_upcoming": 115
+            "total_upcoming": 124
         }
     },
     "matches": [
@@ -115,8 +115,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 14:48:55",
-                    "updated_at": "2026-09-25 14:48:55"
+                    "created_at": "2026-09-25 15:03:27",
+                    "updated_at": "2026-09-25 15:03:27"
                 },
                 {
                     "id": "",
@@ -127,8 +127,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 14:48:55",
-                    "updated_at": "2026-09-25 14:48:55"
+                    "created_at": "2026-09-25 15:03:27",
+                    "updated_at": "2026-09-25 15:03:27"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -164,8 +164,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 1,
-                    "created_at": "2026-09-25 14:48:56",
-                    "updated_at": "2026-09-25 14:48:56"
+                    "created_at": "2026-09-25 15:03:29",
+                    "updated_at": "2026-09-25 15:03:29"
                 },
                 {
                     "id": "",
@@ -176,8 +176,8 @@
                     "vip_only": 0,
                     "display_name": "FHD",
                     "sort": 2,
-                    "created_at": "2026-09-25 14:48:56",
-                    "updated_at": "2026-09-25 14:48:56"
+                    "created_at": "2026-09-25 15:03:29",
+                    "updated_at": "2026-09-25 15:03:29"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1798,6 +1798,45 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
+            "id": 66245,
+            "status": "FT",
+            "name": "Sudan vs Ethiopia",
+            "slug": "sudan-vs-ethiopia",
+            "score": "1 - 0",
+            "timelive": "90",
+            "is_playing": false,
+            "has_ended": true,
+            "is_waiting": false,
+            "start_at": 1790352000,
+            "timestamp": 1790352000,
+            "bd_time": "10:00 PM 25-09-2026",
+            "ishot": false,
+            "league_name": "Africa Cup of Nations - Qualification",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/36.png",
+            "localteam_name": "Sudan",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1510.png",
+            "visitorteam_name": "Ethiopia",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1506.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a61/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:13",
+                    "updated_at": "2026-09-25 15:04:13"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a61/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:13",
+                    "updated_at": "2026-09-25 15:04:13"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 66246,
             "status": "UPCOMING",
             "name": "Togo vs Burundi",
@@ -1831,6 +1870,45 @@
                     "line": "web",
                     "created_at": "2026-09-24 17:04:21",
                     "updated_at": "2026-09-24 17:04:21"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 63744,
+            "status": "NS",
+            "name": "Havelse vs Fortuna Köln",
+            "slug": "havelse-vs-fortuna-koln",
+            "score": "vs",
+            "timelive": "17:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790355600,
+            "timestamp": 1790355600,
+            "bd_time": "11:00 PM 25-09-2026",
+            "ishot": false,
+            "league_name": "3. Liga",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/80.png",
+            "localteam_name": "Havelse",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/9342.png",
+            "visitorteam_name": "Fortuna Köln",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1326.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58039/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:13",
+                    "updated_at": "2026-09-25 15:04:13"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58039/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:13",
+                    "updated_at": "2026-09-25 15:04:13"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -1909,6 +1987,123 @@
                     "line": "web",
                     "created_at": "2026-09-24 18:03:34",
                     "updated_at": "2026-09-24 18:03:34"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 70874,
+            "status": "NS",
+            "name": "Corinthians U20 vs XV de Jaú U20",
+            "slug": "corinthians-u20-vs-xv-de-jau-u20",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790359200,
+            "timestamp": 1790359200,
+            "bd_time": "12:00 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "Paulista - U20",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png",
+            "localteam_name": "Corinthians U20",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/12998.png",
+            "visitorteam_name": "XV de Jaú U20",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/13076.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aaef10a5d79ffdae2a03497/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:19",
+                    "updated_at": "2026-09-25 15:04:19"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aaef10a5d79ffdae2a03497/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:19",
+                    "updated_at": "2026-09-25 15:04:19"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 70878,
+            "status": "NS",
+            "name": "Santos U20 vs Jabaquara U20",
+            "slug": "santos-u20-vs-jabaquara-u20",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790359200,
+            "timestamp": 1790359200,
+            "bd_time": "12:00 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "Paulista - U20",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png",
+            "localteam_name": "Santos U20",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/13055.png",
+            "visitorteam_name": "Jabaquara U20",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/23478.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aaef10a5d79ffdae2a03498/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:24",
+                    "updated_at": "2026-09-25 15:04:24"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aaef10a5d79ffdae2a03498/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:24",
+                    "updated_at": "2026-09-25 15:04:24"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 70879,
+            "status": "NS",
+            "name": "São Paulo U20 vs EC São Bernardo U20",
+            "slug": "sao-paulo-u20-vs-ec-sao-bernardo-u20",
+            "score": "vs",
+            "timelive": "18:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790359200,
+            "timestamp": 1790359200,
+            "bd_time": "12:00 AM 26-09-2026",
+            "ishot": false,
+            "league_name": "Paulista - U20",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/1086.png",
+            "localteam_name": "São Paulo U20",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/12973.png",
+            "visitorteam_name": "EC São Bernardo U20",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/13005.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6aaef10a5d79ffdae2a03499/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:19",
+                    "updated_at": "2026-09-25 15:04:19"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6aaef10a5d79ffdae2a03499/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:19",
+                    "updated_at": "2026-09-25 15:04:19"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
@@ -3907,6 +4102,123 @@
             "referer": "https://iframe.rumsport8.live"
         },
         {
+            "id": 66438,
+            "status": "NS",
+            "name": "Plymouth vs Burton Albion",
+            "slug": "plymouth-vs-burton-albion",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "League One",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/41.png",
+            "localteam_name": "Plymouth",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1357.png",
+            "visitorteam_name": "Burton Albion",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/748.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea65/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:31",
+                    "updated_at": "2026-09-25 15:04:31"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea65/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:31",
+                    "updated_at": "2026-09-25 15:04:31"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66440,
+            "status": "NS",
+            "name": "Stockport County vs Peterborough",
+            "slug": "stockport-county-vs-peterborough",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "League One",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/41.png",
+            "localteam_name": "Stockport County",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/4686.png",
+            "visitorteam_name": "Peterborough",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/1350.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea63/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:28",
+                    "updated_at": "2026-09-25 15:04:28"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea63/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:28",
+                    "updated_at": "2026-09-25 15:04:28"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 66441,
+            "status": "NS",
+            "name": "Wycombe vs Reading",
+            "slug": "wycombe-vs-reading",
+            "score": "vs",
+            "timelive": "14:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790431200,
+            "timestamp": 1790431200,
+            "bd_time": "8:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "League One",
+            "league_logo": "https://rs.maycdn.com/fixture/leagues/af/41.png",
+            "localteam_name": "Wycombe",
+            "localteam_logo": "https://rs.maycdn.com/fixture/teams/af/1358.png",
+            "visitorteam_name": "Reading",
+            "visitorteam_logo": "https://rs.maycdn.com/fixture/teams/af/53.png",
+            "link_live": [
+                {
+                    "stream_link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea62/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:26",
+                    "updated_at": "2026-09-25 15:04:26"
+                },
+                {
+                    "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2ea62/index.m3u8",
+                    "display_name": "WHD",
+                    "line": "web",
+                    "created_at": "2026-09-25 15:04:26",
+                    "updated_at": "2026-09-25 15:04:26"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
             "id": 71684,
             "status": "UPCOMING",
             "name": "Hungary U19 vs Bulgaria U19",
@@ -4528,6 +4840,55 @@
                     "sort": 2,
                     "created_at": "2026-09-25 14:04:54",
                     "updated_at": "2026-09-25 14:04:54"
+                }
+            ],
+            "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
+            "referer": "https://iframe.rumsport8.live"
+        },
+        {
+            "id": 68344,
+            "status": "NS",
+            "name": "Scotland vs Australia",
+            "slug": "scotland-vs-australia",
+            "score": "vs",
+            "timelive": "15:00",
+            "is_playing": false,
+            "has_ended": false,
+            "is_waiting": true,
+            "start_at": 1790434800,
+            "timestamp": 1790434800,
+            "bd_time": "9:00 PM 26-09-2026",
+            "ishot": false,
+            "league_name": "WXV",
+            "league_logo": "",
+            "localteam_name": "",
+            "localteam_logo": "",
+            "visitorteam_name": "",
+            "visitorteam_logo": "",
+            "link_live": [
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 1,
+                    "created_at": "2026-09-25 15:04:33",
+                    "updated_at": "2026-09-25 15:04:33"
+                },
+                {
+                    "id": "",
+                    "chanel_id": "143070",
+                    "stream_name": "143070",
+                    "stream_link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
+                    "extra_title": "",
+                    "vip_only": 0,
+                    "display_name": "FHD",
+                    "sort": 2,
+                    "created_at": "2026-09-25 15:04:33",
+                    "updated_at": "2026-09-25 15:04:33"
                 }
             ],
             "cdn_domain": "https://iframe.rumsport8.live/stream.m3u8",
